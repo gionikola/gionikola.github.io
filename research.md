@@ -6,7 +6,7 @@ subtitle:
 
 # Working Papers 
 
-- "Measuring Economic Activity in the Presence of Superstar MNEs" with Philip Economides.
+"Measuring Economic Activity in the Presence of Superstar MNEs" with Philip Economides.
 
 <b>Abstract:</b> 
 In 2015, changes to Irish tax legislation, known as the "2015 Finance Act", coincided with a 25 percent annual increase in real gross domestic product. 
@@ -18,16 +18,16 @@ We suggest that our methodology may be applied by policymakers in small open eco
 ---
 # Works in Progress
 
-- "Evolution of Community Bank Profitability Conditions."
+"Evolution of Community Bank Profitability Conditions."
 
-- "Arms Races and International Business Cycles".
+"Arms Races and International Business Cycles".
 
-- "The Effect of Sleep Loss on Productivity" with Andrew Dickinson and Philip Economides.
+"The Effect of Sleep Loss on Productivity" with Andrew Dickinson and Philip Economides.
 
 ---
 # Publications 
 
-- "Using deep learning to examine the correlation between transportation planning and perceived safety of the built environment" with Justin Hollander, Alphonsus Adu-Bredu, Minyu Situ, and Shabnam Bista, Environment and Planning B: Urban Analytics and City Science, 2020.
+"Using deep learning to examine the correlation between transportation planning and perceived safety of the built environment" with Justin Hollander, Alphonsus Adu-Bredu, Minyu Situ, and Shabnam Bista, Environment and Planning B: Urban Analytics and City Science, 2020.
 
 ---
 # Open Source Contributions
