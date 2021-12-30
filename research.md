@@ -16,7 +16,7 @@ Furthermore, we provide an alternative method of statistically isolating the var
 Our findings imply a 21% lower level of GDP relative to the official measure recorded for 2020. 
 We suggest that our methodology may be applied by policymakers in small open economies to improve the accuracy of growth and business cycle monitoring.
 
-![ireland_gdp](images/research_figs/adj_gdp_2015.png)
+![ireland_gdp](images/research_figs/adj_gdp_2015.png =x250)
 
 ---
 # <b>Works in Progress</b>
