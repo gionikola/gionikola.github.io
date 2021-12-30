@@ -16,18 +16,12 @@ Furthermore, we provide an alternative method of statistically isolating the var
 Our findings imply a 21% lower level of GDP relative to the official measure recorded for 2020. 
 We suggest that our methodology may be applied by policymakers in small open economies to improve the accuracy of growth and business cycle monitoring.
 
-<img src="https://github.com/gionikola/gionikola.github.io/blob/2f8411fe2e1a4a3560cdd69a392f0d409ed4a90e/images/research_figs/adj_gdp_2015.png" width="600" />
-
 ---
 # <b>Works in Progress</b>
 
 "Evolution of Community Bank Profitability Conditions."
 
-<img src="images/research_figs/bankroe.gif" width="600" />
-
 "Arms Races and International Business Cycles".
-
-<img src="images/research_figs/military_expenditure.png" width="600" />
 
 "The Effect of Sleep Loss on Productivity" with Andrew Dickinson and Philip Economides.
 
