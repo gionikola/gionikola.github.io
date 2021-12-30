@@ -63,7 +63,9 @@ Here are some resources from which I've benefitted greatly over the years, both 
 
 ### Time Series Econometrics/Analysis
 
+
 - [Time Series for Macroeconomics and Finance -- John H. Cochrane](https://econ.lse.ac.uk/staff/wdenhaan/teach/cochrane.pdf)
+
 
 ### Julia
 
