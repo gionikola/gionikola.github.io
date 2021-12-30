@@ -46,7 +46,7 @@ Sample size = 33.
 
 ![communication](images/course_evals/communication.png)
 
-![feedback](images/course_evals/feedback_accessibility.png)
+![feedback](images/course_evals/feedback.png)
 
 ![inclusiveness](images/course_evals/inclusiveness.png)
 
