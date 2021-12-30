@@ -15,9 +15,9 @@ author: Giorgi Nikolaishvili
 
 navbar-links:
   Home: ""
-  CV: ""
-  Research: ""
-  Teaching: ""
+  CV: "cv"
+  Research: "research"
+  Teaching: "teaching"
   About Me: "aboutme"
 
 # --- Logo --- #
