@@ -4,11 +4,11 @@ title: Teaching
 subtitle: 
 ---
 
-# Independent Courses
+# <b>Independent Courses</b>
 
 The following is a list of courses that I have independently prepared and taught as the instructor of record.
 
-### Money and Banking (EC370)
+### <b>Money and Banking (EC370)</b>
 
 Fall 2021.
 
@@ -18,7 +18,7 @@ I tend to put more emphasis on an intuitive understanding of how the incentives 
 I then try to apply the models to as many historical episodes and realistic hypothetical scenarios as I possibly can, given the time constraint. 
 The usual required textbook for this course at University of Oregon is Frederic Mishkin's <i>Economics of Money, Banking and Financial Markets</i>, but I prefer to use Laurence Ball's <i>Money, Banking and Financial Markets</i> while also drawing upon Mishkin's materials and <i>Foundations of Financial Markets and Institutions</i> (Fabozzi et al.).
 
-### Monetary Policy (EC470)
+### <b>Monetary Policy (EC470)</b>
 
 Summer 2021.
 
@@ -28,28 +28,28 @@ I put less emphasis on quantitative modeling skills (for which the UO Econ. Depa
 Similar to EC370, the required textbook for this course at University of Oregon is Frederic Mishkin's <i>Economics of Money, Banking and Financial Markets</i>, but I prefer to use Laurence Ball's <i>Money, Banking and Financial Markets</i> for its exceptionally friendly exposition.
 
 ---
-# Course Evaluations 
+# <b>Course Evaluations</b>
 
 Insert course evaluation donut charts.
 
 ---
-# Teaching Assistance 
+# <b>Teaching Assistance</b>
 
 The following is a list of courses I have assisted as TA.
 
-### Advanced Macroecon. Theory (EC413/513)
+### <b>Advanced Macroecon. Theory (EC413/513)</b>
 
 Winter 2022.
 
 Master's-level macroeconomics course taught by Prof. George Evans.
 
-### Intermediate Macroecon. Theory (EC313)
+### <b>Intermediate Macroecon. Theory (EC313)</b>
 
 Winter 2022. 
 
 Undergraduate-level macroeconomics course taught by Prof. David Evans.
 
-### Doctoral Macroecon. III (EC607)
+### <b>Doctoral Macroecon. III (EC607)</b>
 
 Spring 2021.
 
@@ -57,24 +57,24 @@ Final module in the PhD Core Macro sequence taught by Prof. David Evans.
 
 Access my weekly Julia coding labs on [GitHub](https://github.com/gionikola/spring2021_core_macro_lab).
 
-### Doctoral Macroecon. II (EC607)
+### <b>Doctoral Macroecon. II (EC607)</b>
 
 Winter 2021. 
 
 Second module in the PhD Core Macro sequence taught by Prof. Shankha Chakraborty.
 
-### Doctoral Macroecon. I (EC607)
+### <b>Doctoral Macroecon. I (EC607)</b>
 
 Fall 2020.
 
 First module in the PhD Core Macro sequence taught by Prof. Bruce McGough.
 
 ---
-# Resources 
+# <b>Resources</b>
 
 Here are some resources from which I've benefitted greatly over the years, both as a teacher and a student:
 
-### Macroeconomics & Monetary Economics
+### <b>Macroeconomics & Monetary Economics</b>
 
 - [PhD Monetary Economics -- John H. Cochrane & Tom Sargent](https://www.johnhcochrane.com/monetary-economics-phd-course)
 
@@ -88,13 +88,13 @@ Here are some resources from which I've benefitted greatly over the years, both 
 
 - [PhD Advanced Macro -- Eric Sims](https://www3.nd.edu/~esims1/adv_macro_2021.html)
 
-### Time Series Econometrics/Analysis
+### <b>Time Series Econometrics/Analysis</b>
 
 - [Time Series for Macroeconomics and Finance -- John H. Cochrane](https://econ.lse.ac.uk/staff/wdenhaan/teach/cochrane.pdf)
 
 - [Applied Bayesian Econometrics for Central Bankers](https://www.bankofengland.co.uk/ccbs/applied-bayesian-econometrics-for-central-bankers-updated-2017)
 
-### Julia
+### <b>Julia</b>
 
 - [Introduction to Computational Thinking -- MIT](https://computationalthinking.mit.edu/Spring21/)
 
@@ -102,11 +102,11 @@ Here are some resources from which I've benefitted greatly over the years, both 
 
 - [Quantitative Economics with Julia](https://julia.quantecon.org/intro.html)
 
-### R
+### <b>R</b>
 
 - [Data Science for Economics -- Grant McDermott](https://github.com/uo-ec607/lectures)
 
-### LaTeX
+### <b>LaTeX</b>
  
 - [Take Notes in Mathematics Lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
 
@@ -114,7 +114,7 @@ Here are some resources from which I've benefitted greatly over the years, both 
 
 - [List of LaTeX mathematical symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols#Set_and.2For_logic_notation)
 
-### Miscellaneous
+### <b>Miscellaneous</b>
 
 - [PhD Research and Writing Seminar -- Eric Sims](https://www3.nd.edu/~esims1/grad_writing.html)
 
