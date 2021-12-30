@@ -6,13 +6,22 @@ subtitle:
 
 # Independent Courses
 
-### Money and Banking (EC370, Fall 2021)
+### Money and Banking (EC370)
 
-Course description.
+Fall 2021.
 
-### Monetary Policy (EC470, Summer 2021)
+<b>Description:</b> 
+In this course I teach students how the monetary and banking systems function, interact, and ultimately cause fluctuations in the macroeconomy.
+I tend to put more emphasis on an intuitive understanding of how the incentives of key players and institutions across both systems drive their decision-making, which I then leverage to construct simplified yet informative models of the aggregate economy.
+I then try to apply the models to as many historical episodes and realistic hypothetical scenarios as I possibly can, given the time constraint. 
+The usual required textbook for this course at UO is Frederic Mishkin's <i>Economics of Money, Banking and Financial Markets</i>, but I use Laurence Ball's <i>Money, Banking and Financial Markets</i> while also drawing upon Mishkin's materials and <i>Foundations of Financial Markets and Institutions</i> (Fabozzi et al.).
 
-Course description.
+### Monetary Policy (EC470)
+
+Summer 2021.
+
+<b>Description:</b>
+Text.
 
 ---
 # Course Evaluations 
