@@ -11,7 +11,7 @@ The following is a list of courses that I have independently prepared and taught
 
 ### <b>Money and Banking (EC370)</b>
 
-Fall 2021.
+Fall 2021. Class size: 60.
 
 <b>Description:</b> 
 In this course I teach students how the monetary and banking systems function, interact, and ultimately cause fluctuations in the macroeconomy.
@@ -21,7 +21,7 @@ The usual required textbook for this course at University of Oregon is Frederic 
 
 ### <b>Monetary Policy (EC470)</b>
 
-Summer 2021.
+Summer 2021. Class size: 30.
 
 <b>Description:</b>
 In this course I teach students how the monetary system functions, and how central banks may use monetary policy to manipulate its trajectory.
@@ -29,9 +29,36 @@ I put less emphasis on quantitative modeling skills (for which the UO Econ. Depa
 Similar to EC370, the required textbook for this course at University of Oregon is Frederic Mishkin's <i>Economics of Money, Banking and Financial Markets</i>, but I prefer to use Laurence Ball's <i>Money, Banking and Financial Markets</i> for its exceptionally friendly exposition.
 
 ---
-# <b>Course Evaluations</b>
+# <b>Student Feedback</b>
 
-Insert course evaluation donut charts.
+The following charts show student feedback aggregated across all of my independent courses. 
+Sample size = 33.
+
+![accessibility](images/course_evals/accessibility.png)
+
+![active_learning](images/course_evals/active_learning.png)
+
+![assignments](images/course_evals/assignments.png)
+
+![challenge](images/course_evals/challenge.png)
+
+![clarity](images/course_evals/clarity.png)
+
+![communication](images/course_evals/communication.png)
+
+![feedback](images/course_evals/feedback_accessibility.png)
+
+![inclusiveness](images/course_evals/inclusiveness.png)
+
+![instructor_support](images/course_evals/instructor_support.png)
+
+![material_quality](images/course_evals/material_quality.png)
+
+![organization](images/course_evals/organization.png)
+
+![relevance](images/course_evals/relevance.png)
+
+![student_interaction](images/course_evals/student_interaction.png)
 
 ---
 # <b>Teaching Assistance</b>
