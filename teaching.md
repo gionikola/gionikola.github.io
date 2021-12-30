@@ -14,7 +14,7 @@ Fall 2021.
 In this course I teach students how the monetary and banking systems function, interact, and ultimately cause fluctuations in the macroeconomy.
 I tend to put more emphasis on an intuitive understanding of how the incentives of key players and institutions across both systems drive their decision-making, which I then leverage to construct simplified yet informative models of the aggregate economy.
 I then try to apply the models to as many historical episodes and realistic hypothetical scenarios as I possibly can, given the time constraint. 
-The usual required textbook for this course at UO is Frederic Mishkin's <i>Economics of Money, Banking and Financial Markets</i>, but I use Laurence Ball's <i>Money, Banking and Financial Markets</i> while also drawing upon Mishkin's materials and <i>Foundations of Financial Markets and Institutions</i> (Fabozzi et al.).
+The usual required textbook for this course at UO is Frederic Mishkin's <i>Economics of Money, Banking and Financial Markets</i>, but I prefer to use Laurence Ball's <i>Money, Banking and Financial Markets</i> while also drawing upon Mishkin's materials and <i>Foundations of Financial Markets and Institutions</i> (Fabozzi et al.).
 
 ### Monetary Policy (EC470)
 
@@ -72,9 +72,9 @@ Here are some resources from which I've benefitted greatly over the years, both 
 
 ### Time Series Econometrics/Analysis
 
-
 - [Time Series for Macroeconomics and Finance -- John H. Cochrane](https://econ.lse.ac.uk/staff/wdenhaan/teach/cochrane.pdf)
 
+- [Applied Bayesian Econometrics for Central Bankers](https://www.bankofengland.co.uk/ccbs/applied-bayesian-econometrics-for-central-bankers-updated-2017)
 
 ### Julia
 
