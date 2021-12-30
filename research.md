@@ -34,12 +34,12 @@ We suggest that our methodology may be applied by policymakers in small open eco
 
 I'm a contributor to the following projects:
 
-## <b>DynamicFactorModeling.jl</b>
+### <b>DynamicFactorModeling.jl</b>
 
 [DynamicFactorModeling.jl](https://github.com/gionikola/DynamicFactorModeling.jl) is a Julia package I'm currently creating that allows users to simulate, estimate, and forecast using multi-level dynamic factor models.
 My focus at the moment is on Bayesian estimators, as they allow for inference on the latent factors, although I plan on including classical estimators in the future.
 
-## <b>Library of Statistical Techniques (LOST)</b>
+### <b>Library of Statistical Techniques (LOST)</b>
 
 [LOST](https://lost-stats.github.io/) is an open source website with the goal of making it easy to execute statistical techniques in statistical software.
 My contributions target the execution of time series methods using Julia and R.
