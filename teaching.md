@@ -31,7 +31,7 @@ Similar to EC370, the required textbook for this course at University of Oregon 
 ---
 # <b>Course Evaluations</b>
 
-Insert course evaluation donut charts.
+![accessibility](images/course_evals/accessibility.png)
 
 ---
 # <b>Teaching Assistance</b>
