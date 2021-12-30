@@ -8,19 +8,22 @@ subtitle:
 
 Text.
 
+---
 # Works in Progress
 
 Text.
 
+---
 # Publications 
 
 Text.
 
+---
 # Open Source Contributions
 
 Text.
 
-### DynamicFactorModels.jl
+### DynamicFactorModeling.jl
 
 Text.
 
