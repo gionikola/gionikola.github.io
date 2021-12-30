@@ -14,10 +14,10 @@ author: Giorgi Nikolaishvili
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home:
-  CV:
-  Research:
-  Teaching:
+  Home: ""
+  CV: ""
+  Research: ""
+  Teaching: ""
   About Me: "aboutme"
 
 # --- Logo --- #
