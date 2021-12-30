@@ -33,6 +33,30 @@ Similar to EC370, the required textbook for this course at University of Oregon 
 
 ![accessibility](images/course_evals/accessibility.png)
 
+![active_learning](images/course_evals/active_learning.png)
+
+![assignments](images/course_evals/assignments.png)
+
+![challenge](images/course_evals/challenge.png)
+
+![clarity](images/course_evals/clarity.png)
+
+![communication](images/course_evals/communication.png)
+
+![feedback](images/course_evals/feedback_accessibility.png)
+
+![inclusiveness](images/course_evals/inclusiveness.png)
+
+![instructor_support](images/course_evals/instructor_support.png)
+
+![material_quality](images/course_evals/material_quality.png)
+
+![organization](images/course_evals/organization.png)
+
+![relevance](images/course_evals/relevance.png)
+
+![student_interaction](images/course_evals/student_interaction.png)
+
 ---
 # <b>Teaching Assistance</b>
 
