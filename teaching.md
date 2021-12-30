@@ -6,6 +6,8 @@ subtitle:
 
 # Independent Courses
 
+The following is a list of courses that I have independently prepared and taught as the instructor of record.
+
 ### Money and Banking (EC370)
 
 Fall 2021.
@@ -33,25 +35,39 @@ Insert course evaluation donut charts.
 ---
 # Teaching Assistance 
 
-### Advanced Macroecon. Theory (EC413/513, Winter 2022)
+The following is a list of courses I have assisted as TA.
 
-TA for Prof. George Evans.
+### Advanced Macroecon. Theory (EC413/513)
 
-### Intermediate Macroecon. Theory (EC313, Winter 2022)
+Winter 2022.
 
-TA for Prof. David Evans.
+Master's-level macroeconomics course taught by Prof. George Evans.
 
-### Doctoral Macroecon. III (Spring 2021)
+### Intermediate Macroecon. Theory (EC313)
 
-TA for Prof. David Evans.
+Winter 2022. 
 
-### Doctoral Macroecon. II (Winter 2021)
+Undergraduate-level macroeconomics course taught by Prof. David Evans.
 
-TA for Prof. Shankha Chakraborty.
+### Doctoral Macroecon. III (EC607)
 
-### Doctoral Macroecon. I (Fall 2020)
+Spring 2021.
 
-TA for Prof. Bruce McGough.
+Final module in the PhD Core Macro sequence taught by Prof. David Evans.
+
+Access my weekly Julia coding labs on [GitHub](https://github.com/gionikola/spring2021_core_macro_lab).
+
+### Doctoral Macroecon. II (EC607)
+
+Winter 2021. 
+
+Second module in the PhD Core Macro sequence taught by Prof. Shankha Chakraborty.
+
+### Doctoral Macroecon. I (EC607)
+
+Fall 2020.
+
+First module in the PhD Core Macro sequence taught by Prof. Bruce McGough.
 
 ---
 # Resources 
