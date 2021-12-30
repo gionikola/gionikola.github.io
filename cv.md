@@ -4,4 +4,4 @@ title: Curriculum Vitae
 subtitle: 
 ---
 
-Coming soon.
+Download my CV [here](cv/cv_giorginikolaishvili.pdf).
