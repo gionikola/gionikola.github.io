@@ -4,7 +4,7 @@ title: Research
 subtitle: 
 ---
 
-# Working Papers 
+# <b>Working Papers</b> 
 
 ["Measuring Economic Activity in the Presence of Superstar MNEs"](https://www.researchgate.net/publication/357001079_Measuring_Economic_Activity_in_the_Presence_of_Superstar_MNEs) with Philip Economides.
 
@@ -16,7 +16,7 @@ Our findings imply a 21% lower level of GDP relative to the official measure rec
 We suggest that our methodology may be applied by policymakers in small open economies to improve the accuracy of growth and business cycle monitoring.
 
 ---
-# Works in Progress
+# <b>Works in Progress</b>
 
 "Evolution of Community Bank Profitability Conditions."
 
@@ -25,21 +25,21 @@ We suggest that our methodology may be applied by policymakers in small open eco
 "The Effect of Sleep Loss on Productivity" with Andrew Dickinson and Philip Economides.
 
 ---
-# Publications 
+# <b>Publications</b>
 
 ["Using deep learning to examine the correlation between transportation planning and perceived safety of the built environment"](https://journals.sagepub.com/doi/abs/10.1177/2399808320959079) with Justin Hollander, Alphonsus Adu-Bredu, Minyu Situ, and Shabnam Bista, Environment and Planning B: Urban Analytics and City Science, 2020.
 
 ---
-# Open Source Contributions
+# <b>Open Source Contributions</b>
 
 I'm a contributor to the following projects:
 
-### DynamicFactorModeling.jl
+## <b>DynamicFactorModeling.jl</b>
 
 [DynamicFactorModeling.jl](https://github.com/gionikola/DynamicFactorModeling.jl) is a Julia package I'm currently creating that allows users to simulate, estimate, and forecast using multi-level dynamic factor models.
 My focus at the moment is on Bayesian estimators, as they allow for inference on the latent factors, although I plan on including classical estimators in the future.
 
-### Library of Statistical Techniques (LOST)
+## <b>Library of Statistical Techniques (LOST)</b>
 
 [LOST](https://lost-stats.github.io/) is an open source website with the goal of making it easy to execute statistical techniques in statistical software.
 My contributions target the execution of time series methods using Julia and R.
