@@ -4,6 +4,7 @@ title: Teaching
 subtitle: 
 ---
 
+---
 # <b>Independent Courses</b>
 
 The following is a list of courses that I have independently prepared and taught as the instructor of record.
