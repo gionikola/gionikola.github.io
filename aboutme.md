@@ -4,4 +4,4 @@ title: About Me
 subtitle: 
 ---
 
-Text.
+Coming soon.
