@@ -6,7 +6,7 @@ subtitle:
 
 # Working Papers 
 
-"Measuring Economic Activity in the Presence of Superstar MNEs" with Philip Economides.
+["Measuring Economic Activity in the Presence of Superstar MNEs"](https://www.researchgate.net/publication/357001079_Measuring_Economic_Activity_in_the_Presence_of_Superstar_MNEs) with Philip Economides.
 
 <b>Abstract:</b> 
 In 2015, changes to Irish tax legislation, known as the "2015 Finance Act", coincided with a 25 percent annual increase in real gross domestic product. 
@@ -27,17 +27,19 @@ We suggest that our methodology may be applied by policymakers in small open eco
 ---
 # Publications 
 
-"Using deep learning to examine the correlation between transportation planning and perceived safety of the built environment" with Justin Hollander, Alphonsus Adu-Bredu, Minyu Situ, and Shabnam Bista, Environment and Planning B: Urban Analytics and City Science, 2020.
+["Using deep learning to examine the correlation between transportation planning and perceived safety of the built environment"](https://journals.sagepub.com/doi/abs/10.1177/2399808320959079) with Justin Hollander, Alphonsus Adu-Bredu, Minyu Situ, and Shabnam Bista, Environment and Planning B: Urban Analytics and City Science, 2020.
 
 ---
 # Open Source Contributions
 
+I'm a contributor to the following projects:
+
 ### DynamicFactorModeling.jl
 
-DynamicFactorModeling.jl is a Julia package I'm currently creating that allows users to simulate, estimate, and forecast using multi-level dynamic factor models.
+[DynamicFactorModeling.jl](https://github.com/gionikola/DynamicFactorModeling.jl) is a Julia package I'm currently creating that allows users to simulate, estimate, and forecast using multi-level dynamic factor models.
 My focus at the moment is on Bayesian estimators, as they allow for inference on the latent factors, although I plan on including classical estimators in the future.
 
 ### Library of Statistical Techniques (LOST)
 
-LOST is a publicly-editable website with the goal of making it easy to execute statistical techniques in statistical software.
-My contributions target the execution of time series methods across Julia and R.
+[LOST](https://lost-stats.github.io/) is an open source website with the goal of making it easy to execute statistical techniques in statistical software.
+My contributions target the execution of time series methods using Julia and R.
