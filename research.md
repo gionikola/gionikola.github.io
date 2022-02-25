@@ -28,8 +28,6 @@ I conclude that the US community banking sector has become more interconnected s
 ---
 # <b>Works in Progress</b>
 
-"Evolution of Community Bank Profitability Conditions."
-
 "Efficiently Estimating Many-Level High-Dimensional Hierarchical Dynamic Factor Models."
 
 "Arms Races and International Business Cycles".
