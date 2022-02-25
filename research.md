@@ -7,6 +7,14 @@ subtitle:
 ---
 # <b>Working Papers</b> 
 
+"The Evolution of Community Bank Interconnectedness"
+
+<b>Abstract:</b>
+I estimate national and regional latent drivers of quarterly fluctuations of state-average community bank return-on-equity (ROE) for all 50 US states. 
+I do so by modeling a dataset of state-average community bank ROE series as a multi-level / hierarchical dynamic factor model (HDFM), which I then estimate using Bayesian methods to extract posterior distributions of country- and region-level dynamic factors. 
+I find a decrease in the intensity of idiosyncratic dynamics of state-level community bank profitability since the global financial crisis, along with an increase in national comovement across most states. 
+I conclude that the US community banking sector has become more interconnected since the crisis, which implies greater exposure to systemic risk and increased vulnerability during future financial crises.
+
 ["Measuring Economic Activity in the Presence of Superstar MNEs"](https://www.researchgate.net/publication/357001079_Measuring_Economic_Activity_in_the_Presence_of_Superstar_MNEs) with Philip Economides.
 
 <b>Abstract:</b> 
@@ -15,14 +23,6 @@ We provide evidence confirming the convictions of existing literature that the p
 Furthermore, we provide an alternative method of statistically isolating the variation in GDP growth attributable solely to domestic activity growth to infer the prevailing state of the Irish economy.
 Our findings imply a 21% lower level of GDP relative to the official measure recorded for 2020. 
 We suggest that our methodology may be applied by policymakers in small open economies to improve the accuracy of growth and business cycle monitoring.
-
-"The Evolution of Community Bank Interconnectedness"
-
-<b>Abstract:</b>
-I estimate national and regional latent drivers of quarterly fluctuations of state-average community bank return-on-equity (ROE) for all 50 US states. 
-I do so by modeling a dataset of state-average community bank ROE series as a multi-level / hierarchical dynamic factor model (HDFM), which I then estimate using Bayesian methods to extract posterior distributions of country- and region-level dynamic factors. 
-I find a decrease in the intensity of idiosyncratic dynamics of state-level community bank profitability since the global financial crisis, along with an increase in national comovement across most states. 
-I conclude that the US community banking sector has become more interconnected since the crisis, which implies greater exposure to systemic risk and increased vulnerability during future financial crises.
 
 
 ---
