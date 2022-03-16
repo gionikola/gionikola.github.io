@@ -7,7 +7,7 @@ subtitle:
 ---
 # <b>Working Papers</b> 
 
-"The Evolution of Community Bank Interconnectedness".
+["The Evolution of Community Bank Interconnectedness"](https://drive.google.com/file/d/1v5cE693qDAx3z3vlZ_voRbUePFVwBMWx/view?usp=sharing).
 
 <b>Abstract:</b>
 I estimate national and regional latent drivers of quarterly fluctuations of state-average community bank return-on-equity (ROE) for all 50 US states. 
