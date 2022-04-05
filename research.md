@@ -32,8 +32,6 @@ We suggest that our methodology may be applied by policymakers in small open eco
 
 "Arms Races and International Business Cycles".
 
-"The Effect of Sleep Loss on Productivity" with Andrew Dickinson and Philip Economides.
-
 ---
 # <b>Publications</b>
 
