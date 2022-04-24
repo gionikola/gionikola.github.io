@@ -1,1 +1,7 @@
-# Beginner `R` Resources
+---
+layout: page
+title: Beginner `R` Resources
+subtitle: 
+---
+
+Text.
