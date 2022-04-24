@@ -4,15 +4,15 @@ title: Beginner `R` Resources
 subtitle: 
 ---
 
-When undergraduate students begin learning econometrics, they're required to master a few unrelated skills:
+When undergraduate students begin learning econometrics, they're required to master the following skills:
 
 1. Probabilistic and statistical thinking
 2. Calculus and (linear) algebra
 3. Programming in R (at UO -- the language of choice may vary by school)
 
-In my experience, students tend to struggle or neglect programming skills when starting out, mainly due to a complete lack of familiarity.
+In my experience, students tend to struggle or neglect programming when starting out, mainly due to a complete lack of familiarity and "fear" of the unknown.
 
-This page provides a list of links to carefully-selected free online resources that will hopefully ease students' transition into econometric programming using R.
+This page provides a list of links to carefully-picked free online resources that should ease students' transition into econometric programming using R.
 
 ## **General guides/tutorials**
 
