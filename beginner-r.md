@@ -14,43 +14,50 @@ In my experience, students tend to struggle or neglect programming skills when s
 
 This page provides a list of links to carefully-selected free online resources that will hopefully ease students' transition into econometric programming using R.
 
-## General guides/tutorials
+## **General guides/tutorials**
 
-https://r-coder.com/learn-r/
+R is a large and diverse statistical programming language.
+In an introductory econometrics course, there usually isn't enough time to cover all of the fundamentals and nuances that are necessary to achieve full competence as an R-user -- you're expected to dive into statistical analysis pretty early on instead of mastering data types, loops etc.
+The following beginner-friendly tutorials should help with this problem: 
 
-https://www.tutorialspoint.com/r/index.htm
+1. The best thorough step-by-step *tutorial* I could find: https://r-coder.com/learn-r/
 
-https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf
+2. Brief document. I recommend skipping Ch. 4: https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf
 
-https://www.statmethods.net/r-tutorial/index.html
+3. Not as great of a tutorial as r-coder, but still fine as an additional reference: https://www.statmethods.net/r-tutorial/index.html
 
-## Manipulating data
+## **Manipulating data**
 
-https://suzan.rbind.io/2018/01/dplyr-tutorial-1/
-https://suzan.rbind.io/2018/02/dplyr-tutorial-2/
-https://suzan.rbind.io/2018/02/dplyr-tutorial-3/
-https://suzan.rbind.io/2018/04/dplyr-tutorial-4/
+One of the most universally practical skills you can gain while learning R, in my opinion, is data manipulation using `dplyr`. 
+I highly recommend the following set of tutorials by Susan Baert that take you through basic `dplyr` concepts step-by-step:
 
-## Plotting 
+1. https://suzan.rbind.io/2018/01/dplyr-tutorial-1/
 
-https://statsandr.com/blog/graphics-in-r-with-ggplot2/
+2. https://suzan.rbind.io/2018/02/dplyr-tutorial-2/
 
-https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/
+3. https://suzan.rbind.io/2018/02/dplyr-tutorial-3/
 
-https://www.data-to-viz.com/
+4. https://suzan.rbind.io/2018/04/dplyr-tutorial-4/
 
-http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
+## **Plotting**
 
-## Statistics with R
+The following resources are excellent for learning how to plot using `ggplot2`. 
+I recommend sticking with `ggplot2` for any kind of plot-making in R.
 
-http://www.atmos.albany.edu/facstaff/timm/ATM315spring14/R/IPSUR.pdf
+1. Step-by-step plotting tutorial: https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/
 
-## Helpful references
+2. Another step-by-step tutorial, but less thorough: https://statsandr.com/blog/graphics-in-r-with-ggplot2/
 
-https://rc2e.com/index.html
+3. Any time you want to make some sort of graph, and you don't know how -- simply go to this website, select the relevant plot type, select `R gallery`, select the most relevant example plot that is provided, and follow the instructions: https://www.data-to-viz.com/
 
-https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf
+4. Learn how to make 50 different types of plots through examples: http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
 
-https://ggplot2-book.org/index.html
+## **Helpful references**
+
+- https://rc2e.com/index.html
+
+- https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf
+
+- https://ggplot2-book.org/index.html
 
 
