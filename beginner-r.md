@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Beginner **R** Resources
+title: Beginner R Resources
 subtitle: 
 ---
 
