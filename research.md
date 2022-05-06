@@ -28,9 +28,13 @@ We suggest that our methodology may be applied by policymakers in small open eco
 ---
 # <b>Works in Progress</b>
 
+"Monetary Policy Transmission Heterogeneity."
+
 "Efficiently Estimating Many-Level High-Dimensional Hierarchical Dynamic Factor Models."
 
 "Arms Races and International Business Cycles".
+
+“Model Uncertainty and Agent Survival” with David Evans.
 
 ---
 # <b>Publications</b>
