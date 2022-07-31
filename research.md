@@ -28,7 +28,7 @@ We suggest that our methodology may be applied by policymakers in small open eco
 ---
 # <b>Works in Progress</b>
 
-**"Commercial Bank Heterogeneity and the Transmission of Monetary Policy: Decomposing the Bank Lending Channel".**
+**"Commercial Bank Heterogeneity and the Transmission of Monetary Policy".**
 
 <b>Abstract:</b>
 The literature on the aggregate bank lending channel (BLC) shows evidence of the transmission of monetary policy into the real economy through changes in the supply of bank loans.
