@@ -7,7 +7,7 @@ subtitle:
 ---
 # <b>Working Papers</b> 
 
-["The Evolution of Community Bank Interconnectedness"](https://drive.google.com/file/d/1v5cE693qDAx3z3vlZ_voRbUePFVwBMWx/view?usp=sharing).
+**"The Evolution of Community Bank Interconnectedness"**
 
 <b>Abstract:</b>
 I estimate national and regional latent drivers of quarterly fluctuations of state-average community bank return-on-equity (ROE) for all 50 US states. 
@@ -15,7 +15,7 @@ I do so by modeling a dataset of state-average community bank ROE series as a mu
 I find a decrease in the intensity of idiosyncratic dynamics of state-level community bank profitability since the global financial crisis, along with an increase in national comovement across most states. 
 I conclude that the US community banking sector has become more interconnected since the crisis, which implies greater exposure to systemic risk and increased vulnerability during future financial crises.
 
-["Measuring Economic Activity in the Presence of Superstar MNEs"](https://www.researchgate.net/publication/357001079_Measuring_Economic_Activity_in_the_Presence_of_Superstar_MNEs) with Philip Economides.
+**"Measuring Economic Activity in the Presence of Superstar MNEs"** with Philip Economides.
 
 <b>Abstract:</b> 
 In 2015, changes to Irish tax legislation, known as the "2015 Finance Act", coincided with a 25 percent annual increase in real gross domestic product. 
