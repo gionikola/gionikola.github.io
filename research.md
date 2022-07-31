@@ -7,7 +7,7 @@ subtitle:
 ---
 # <b>Working Papers</b> 
 
-**"The Evolution of Community Bank Interconnectedness."**
+**"The Evolution of Community Bank Interconnectedness".**
 
 <b>Abstract:</b>
 I estimate national and regional latent drivers of quarterly fluctuations of state-average community bank return-on-equity (ROE) for all 50 US states. 
@@ -28,7 +28,7 @@ We suggest that our methodology may be applied by policymakers in small open eco
 ---
 # <b>Works in Progress</b>
 
-**"Commercial Bank Heterogeneity and the Transmission of Monetary Policy: Decomposing the Bank Lending Channel."**
+**"Commercial Bank Heterogeneity and the Transmission of Monetary Policy: Decomposing the Bank Lending Channel".**
 
 <b>Abstract:</b>
 The literature on the aggregate bank lending channel (BLC) shows evidence of the transmission of monetary policy into the real economy through changes in the supply of bank loans.
@@ -39,14 +39,14 @@ My results also suggest that output growth is affected quite differently by shoc
 Lastly, I find that community banks play a key role in influencing the real output growth of certain sectors of the U.S. economy. 
 My findings can be used by monetary and regulatory policymakers in gauging the potential distributional implications of the usage of blunt (monetary policy) or targeted (regulatory policy) policy tools by assessing the heterogeneous impact on the banking sector.
 
-**"Efficiently Estimating Many-Level High-Dimensional Hierarchical Dynamic Factor Models."**
+**"Efficiently Estimating Many-Level High-Dimensional Hierarchical Dynamic Factor Models".**
 
 <b>Abstract:</b>
 As the availability of high-dimensional panel data improves, it is crucial for the computational usability of Bayesian dimension-reduction methods to keep up in order to allow researchers to take full advantage of growing resources.
 I combine existing Bayesian multi-level/hierarchical dynamic factor model (HDFM) estimators into a single procedure with the purpose of estimating HDFMs with rich hierarchical structures in a computationally and econometrically optimal manner.
 HDFMs allow for flexible modeling of both cross-sectional and dynamic dependence in large panel datasets, and Bayesian estimators offer particularly useful means of inference on the underlying latent factors.
 
-"Arms Races and International Business Cycles".
+**"Arms Races and International Business Cycles".**
 
 <b>Abstract:</b>
 Arms races are characterized by international co-movements in military resource accumulation, which may be linked with economic growth.
