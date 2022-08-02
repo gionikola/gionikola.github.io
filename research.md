@@ -16,7 +16,6 @@ I study how different dimensions of bank heterogeneity influence their individua
 I find that the bank-level responses of lending growth to monetary policy shocks are quite diffuse across both community and non-community banks, but also that the spread of community bank responses to monetary policy shocks is greater than that of non-community banks. 
 My results also suggest that output growth is affected quite differently by shocks to community bank lending than those to non-community bank lending.
 Lastly, I find that community banks play a key role in influencing the real output growth of certain sectors of the U.S. economy. 
-My findings can be used by monetary and regulatory policymakers in gauging the potential distributional implications of the usage of blunt (monetary policy) or targeted (regulatory policy) policy tools by assessing the heterogeneous impact on the banking sector.
 
 **"The Evolution of Community Bank Interconnectedness".**
 
