@@ -9,7 +9,7 @@ subtitle:
 
 The following is a list of courses that I have independently prepared and taught as the instructor of record.
 
-### <b>Intermediate Macroeconomics (EC313)</b>
+### <b>Intermediate Macroeconomic Theory (EC313)</b>
 
 Asynchronous. Spring 2023. Class size: 120.
 
