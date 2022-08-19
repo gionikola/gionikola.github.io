@@ -9,7 +9,7 @@ subtitle:
 
 The following is a list of courses that I have independently prepared and taught as the instructor of record.
 
-### <b>Intermediate Macroeconomics (EC370)</b>
+### <b>Intermediate Macroeconomics (EC313)</b>
 
 Asynchronous. Spring 2023. Class size: 120.
 
@@ -74,6 +74,14 @@ Sample size = 33.
 # <b>Teaching Assistance</b>
 
 The following is a list of courses I have assisted as TA.
+
+### <b>Introduction to Econometrics (EC320)</b>
+
+Spring 2022.
+
+Undergraduate-level course taught by Emmett Saulnier. 
+
+Access my weekly R coding labs on [GitHub](https://github.com/emmettsaulnier/EC320s22).
 
 ### <b>Advanced Macroecon. Theory (EC413/513)</b>
 
