@@ -9,9 +9,19 @@ subtitle:
 
 The following is a list of courses that I have independently prepared and taught as the instructor of record.
 
+### <b>Intermediate Macroeconomics (EC370)</b>
+
+Asynchronous. Spring 2023. Class size: 120.
+
+<b>Description:</b> 
+This class is designed to provide economics majors and minors, as well as interested non-majors, the theoretical foundations necessary to understand the macroeconomic problems commonly confronted in developed market economies, and to evaluate solutions to those problems. 
+I teach students how to build models that help explain fluctuations in output, employment, the price level, inflation, interest rates, and other key macroeconomic variables. 
+Students also learn how to use models to understand how policy changes (for example, monetary policy, tax reductions, and deficit spending) may affect macroeconomic variables, with primary applications to the U.S. and other developed economies.
+I build my course content around Olivier Blanchard's 8th edition of <i>Macroeconomics</i> using recent data, and provide more detailed coverage of certain topics.
+
 ### <b>Money and Banking (EC370)</b>
 
-Fall 2021. Class size: 60.
+Fall 2021. Winter 2023. Class size: 60.
 
 <b>Description:</b> 
 In this course I teach students how the monetary and banking systems function, interact, and ultimately cause fluctuations in the macroeconomy.
