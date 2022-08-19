@@ -14,6 +14,7 @@ author: Giorgi Nikolaishvili
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "https://giorginikolaishvili.com"
   CV: "cv"
   Research: "research"
   Teaching: "teaching"
@@ -107,7 +108,8 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#206b09"
+footer-col: "#FFFFFF"
+#footer-col: "#206b09"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
