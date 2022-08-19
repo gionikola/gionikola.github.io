@@ -83,19 +83,19 @@ Undergraduate-level course taught by Emmett Saulnier.
 
 Access my weekly R coding labs on [GitHub](https://github.com/emmettsaulnier/EC320s22).
 
-### <b>Advanced Macroecon. Theory (EC413/513)</b>
+### <b>Advanced Macroeconomic Theory (EC413/513)</b>
 
 Winter 2022.
 
 Master's-level macroeconomics course taught by Prof. George Evans.
 
-### <b>Intermediate Macroecon. Theory (EC313)</b>
+### <b>Intermediate Macroeconomic Theory (EC313)</b>
 
 Winter 2022. 
 
 Undergraduate-level macroeconomics course taught by Prof. David Evans.
 
-### <b>Doctoral Macroecon. III (EC607)</b>
+### <b>Doctoral Macroeconomics III (EC607)</b>
 
 Spring 2021.
 
@@ -103,13 +103,13 @@ Final module in the PhD Core Macro sequence taught by Prof. David Evans.
 
 Access my weekly Julia coding labs on [GitHub](https://github.com/gionikola/spring2021_core_macro_lab).
 
-### <b>Doctoral Macroecon. II (EC607)</b>
+### <b>Doctoral Macroeconomics II (EC607)</b>
 
 Winter 2021. 
 
 Second module in the PhD Core Macro sequence taught by Prof. Shankha Chakraborty.
 
-### <b>Doctoral Macroecon. I (EC607)</b>
+### <b>Doctoral Macroeconomics I (EC607)</b>
 
 Fall 2020.
 
