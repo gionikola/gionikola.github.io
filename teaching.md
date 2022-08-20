@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 subtitle: 
 ---
-
+<style>body {text-align: justify}</style>
 ---
 # <b>Independent Courses</b>
 
