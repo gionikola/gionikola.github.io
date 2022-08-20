@@ -3,13 +3,12 @@ layout: page
 title: Research
 subtitle: 
 ---
-
+<style>body {text-align: justify}</style>
 ---
 # <b>Working Papers</b> 
 
 **"Commercial Bank Heterogeneity and the Transmission of Monetary Policy".**
 
-<div style="text-align: justify">
 <b>Abstract:</b>
 The literature on the aggregate bank lending channel (BLC) shows evidence of the transmission of monetary policy into the real economy through changes in the supply of bank loans.
 However, insights on the distributional properties of the BLC are scarce and inconclusive. 
@@ -17,7 +16,6 @@ I study how different dimensions of bank heterogeneity influence their individua
 I find that the bank-level responses of lending growth to monetary policy shocks are quite diffuse across both community and non-community banks, but also that the spread of community bank responses to monetary policy shocks is greater than that of non-community banks. 
 My results also suggest that output growth is affected quite differently by shocks to community bank lending than those to non-community bank lending.
 Lastly, I find that community banks play a key role in influencing the real output growth of certain sectors of the U.S. economy. 
-</div>
 
 **"The Evolution of Community Bank Interconnectedness".**
 
