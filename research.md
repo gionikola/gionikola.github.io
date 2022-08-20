@@ -9,7 +9,7 @@ subtitle:
 
 **"Commercial Bank Heterogeneity and the Transmission of Monetary Policy".**
 
-<div style="text-align: right">
+<div style="text-align: justify">
 <b>Abstract:</b>
 The literature on the aggregate bank lending channel (BLC) shows evidence of the transmission of monetary policy into the real economy through changes in the supply of bank loans.
 However, insights on the distributional properties of the BLC are scarce and inconclusive. 
