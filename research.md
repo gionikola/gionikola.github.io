@@ -51,17 +51,7 @@ We suggest that our methodology may be applied by policymakers in small open eco
 
 **"Efficiently Estimating Many-Level High-Dimensional Hierarchical Dynamic Factor Models".**
 
-<b>Abstract:</b>
-As the availability of high-dimensional panel data improves, it is crucial for the computational usability of Bayesian dimension-reduction methods to keep up in order to allow researchers to take full advantage of growing resources.
-I combine existing Bayesian multi-level/hierarchical dynamic factor model (HDFM) estimators into a single procedure with the purpose of estimating HDFMs with rich hierarchical structures in a computationally and econometrically optimal manner.
-HDFMs allow for flexible modeling of both cross-sectional and dynamic dependence in large panel datasets, and Bayesian estimators offer particularly useful means of inference on the underlying latent factors.
-
 **"Arms Races and International Business Cycles".**
-
-<b>Abstract:</b>
-Arms races are characterized by international co-movements in military resource accumulation, which may be linked with economic growth.
-I measure and study the relationship between international military resource accumulation and business cycles.
-I present a novel method of analyzing trends and cycles in military arms races, as well as a flexible framework for identifying the relationship between arms races and international business cycles.
 
 **“Model Uncertainty and Agent Survival”** with David Evans.
 
