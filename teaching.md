@@ -44,7 +44,13 @@ Similar to EC370, the required textbook for this course at University of Oregon 
 The following charts show student feedback aggregated across all of my independent courses. 
 Sample size = 33.
 
+![instructor_support](images/course_evals/instructor_support.png)
+
+![communication](images/course_evals/communication.png)
+
 ![accessibility](images/course_evals/accessibility.png)
+
+![organization](images/course_evals/organization.png)
 
 ![active_learning](images/course_evals/active_learning.png)
 
@@ -54,17 +60,11 @@ Sample size = 33.
 
 ![clarity](images/course_evals/clarity.png)
 
-![communication](images/course_evals/communication.png)
-
 ![feedback](images/course_evals/feedback.png)
 
 ![inclusiveness](images/course_evals/inclusiveness.png)
 
-![instructor_support](images/course_evals/instructor_support.png)
-
 ![material_quality](images/course_evals/material_quality.png)
-
-![organization](images/course_evals/organization.png)
 
 ![relevance](images/course_evals/relevance.png)
 
