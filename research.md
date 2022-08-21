@@ -40,11 +40,12 @@ I conclude that the US community banking sector has become more interconnected s
 *(Submitted)*
 
 <b>Abstract:</b> 
-In 2015, changes to Irish tax legislation, known as the "2015 Finance Act", coincided with a 25 percent annual increase in real gross domestic product. 
-We provide evidence confirming the convictions of existing literature that the presence of large multinational enterprises (MNEs) is likely to have "distorted" Irish GDP, a measure previously considered to be a reliable proxy of domestic economic activity. 
-Furthermore, we provide an alternative method of statistically isolating the variation in GDP growth attributable solely to domestic activity growth to infer the prevailing state of the Irish economy.
+In 2015, changes to Irish tax legislation, known as the "2015 Finance Act", coincided with a 26% annual increase in real gross domestic product.
+We show evidence confirming the conclusions of existing literature, which suggests that the presence of large multinational enterprises (MNEs) is likely to have distorted Irish GDP -- a measure previously considered to be a reliable proxy of domestic economic activity. 
+Furthermore, we provide an alternative method of statistically isolating the variation in GDP growth attributable solely to domestic activity growth to infer the prevailing state of the Irish economy. 
 Our findings imply a 21% lower level of GDP relative to the official measure recorded for 2020. 
 We suggest that our methodology may be applied by policymakers in small open economies to improve the accuracy of growth and business cycle monitoring.
+
 
 
 ---
