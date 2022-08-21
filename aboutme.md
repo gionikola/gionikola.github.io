@@ -13,3 +13,5 @@ My goal is to build on the progress of my brilliant colleagues in the field to u
 Outside of research and teaching, most of my hobbies revolve around learning and creating -- I enjoy playing jazz and blues guitar, making art by either sculpting or woodworking, being a mediocre chess player (you can sometimes find me messing around on [chess.com](https://www.chess.com/member/gionikola)), lifting weights or doing calisthenics at the UO Rec Center, practicing mixed martial arts, growing a vegetable garden, learning about software and computers, exploring topics in mathematics that I had neglected as an undergraduate student, learning new languages, and more. 
 
 I am always happy to speak with people with similar interests, whether it be economics or something unrelated, so please feel welcome to reach out!
+
+![](images/img.png)
