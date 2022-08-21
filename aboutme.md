@@ -3,6 +3,7 @@ layout: page
 title: About Me
 subtitle: 
 ---
+<style>body {text-align: justify}</style>
 
 In 2019 I earned a B.S. in Quantitative Economics and Mathematics from Tufts University in Sommerville, MA, where I discovered my affinity for economic theory, econometrics, and probability. 
 In the same year I began my PhD in Economics at the University of Oregon in Eugene, OR, where I currently live and work. 
