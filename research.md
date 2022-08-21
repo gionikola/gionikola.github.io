@@ -17,6 +17,17 @@ I find that the bank-level responses of lending growth to monetary policy shocks
 My results also suggest that output growth is affected quite differently by shocks to community bank lending than those to non-community bank lending.
 Lastly, I find that community banks play a key role in influencing the real output growth of certain sectors of the U.S. economy. 
 
+**"Pass-Through Impulse Response Function (PT-IRF)".**
+
+<b>Abstract:</b>
+The impulse response function (IRF) of a vector autoregression (VAR) represents the partial effect of a shock on a given endogenous variable over time. 
+However, what if we are interested in the dynamic effect of a shock on a given variable *through another* endogenous variable in the system? 
+For example, suppose we are interested in estimating the effect of monetary policy on output growth *through* bank lending in a simple VAR.
+Determining such a partial effect would require decomposing an IRF according to contributions attributable to all given endogenous variables in the system, and then isolating the contributions of the variable of interest.
+Currently, there exists no methodology that allows for such a decomposition.
+I construct an object called a pass-through IRF (PT-IRF), which decomposes IRFs with the aim of identifying the passage of structural shocks through specific media in the system.
+I demonstrate the applicability of the PT-IRF by estimating and performing inference on the effect of a monetary policy shock on output growth through bank lending in a VAR, effectively estimating and testing the existence of the credit channel of monetary transmission.
+
 **"The Evolution of Community Bank Interconnectedness".**
 
 <b>Abstract:</b>
@@ -37,17 +48,6 @@ We suggest that our methodology may be applied by policymakers in small open eco
 
 ---
 # <b>Works in Progress</b>
-
-**"Pass-Through Impulse Response Function (PT-IRF)".**
-
-<b>Abstract:</b>
-The impulse response function (IRF) of a vector autoregression (VAR) represents the partial effect of a shock on a given endogenous variable over time. 
-However, what if we are interested in the dynamic effect of a shock on a given variable *through another* endogenous variable in the system? 
-For example, suppose we are interested in estimating the effect of monetary policy on output growth *through* bank lending in a simple VAR.
-Determining such a partial effect would require decomposing an IRF according to contributions attributable to all given endogenous variables in the system, and then isolating the contributions of the variable of interest.
-Currently, there exists no methodology that allows for such a decomposition.
-I construct an object called a pass-through IRF (PT-IRF), which decomposes IRFs with the aim of identifying the passage of structural shocks through specific media in the system.
-I demonstrate the applicability of the PT-IRF by estimating and performing inference on the effect of a monetary policy shock on output growth through bank lending in a VAR, effectively estimating and testing the existence of the credit channel of monetary transmission.
 
 **"Efficiently Estimating Many-Level High-Dimensional Hierarchical Dynamic Factor Models".**
 
