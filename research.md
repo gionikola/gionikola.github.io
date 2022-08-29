@@ -36,7 +36,7 @@ I do so by modeling a dataset of state-average community bank ROE series as a mu
 I find a decrease in the intensity of idiosyncratic dynamics of state-level community bank profitability since the global financial crisis, along with an increase in national comovement across most states. 
 I conclude that the US community banking sector has become more interconnected since the crisis, which implies greater exposure to systemic risk and increased vulnerability during future financial crises.
 
-**"Measuring Economic Activity in the Presence of Superstar MNEs"** with Philip Economides.
+[**"Measuring Economic Activity in the Presence of Superstar MNEs"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4195891) with Philip Economides.
 *(Submitted)*
 
 <b>Abstract:</b> 
