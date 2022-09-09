@@ -169,3 +169,5 @@ Here are some resources from which I've benefitted greatly over the years, both 
 - [Hands-on Scientific Computing](https://handsonscicomp.readthedocs.io/en/latest/)
 
 - [Probability, Mathematical Statistics, Stochastic Processes](http://www.randomservices.org/random/index.html)
+
+- [Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
