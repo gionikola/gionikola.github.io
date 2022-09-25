@@ -28,7 +28,7 @@ Currently, there exists no methodology that allows for such a decomposition.
 I construct an object called a pass-through IRF (PT-IRF), which decomposes IRFs with the aim of identifying the passage of structural shocks through specific media in the system.
 I demonstrate the applicability of the PT-IRF by estimating and performing inference on the effect of a monetary policy shock on output growth through bank lending in a VAR, effectively estimating and testing the existence of the credit channel of monetary transmission.
 
-**"The Evolution of Community Bank Interconnectedness".**
+[**"The Evolution of Community Bank Interconnectedness".**](https://github.com/gionikola/gionikola.github.io/blob/d689da0ffa8f5226164a9f77272e6744ee2e35c4/cv/wp_cbinterconnectedness_nikolaishvili.pdf)
 
 <b>Abstract:</b>
 I estimate national and regional latent drivers of quarterly fluctuations of state-average community bank return-on-equity (ROE) for all 50 US states. 
@@ -37,7 +37,7 @@ I find a decrease in the intensity of idiosyncratic dynamics of state-level comm
 I conclude that the US community banking sector has become more interconnected since the crisis, which implies greater exposure to systemic risk and increased vulnerability during future financial crises.
 
 [**"Measuring Economic Activity in the Presence of Superstar MNEs"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4195891) with Philip Economides.
-*(Submitted)*
+*(Under Review)*
 
 <b>Abstract:</b> 
 In 2015, changes to Irish tax legislation, known as the "2015 Finance Act", coincided with a 26% annual increase in real gross domestic product.
