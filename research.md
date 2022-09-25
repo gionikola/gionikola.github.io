@@ -28,7 +28,7 @@ Currently, there exists no methodology that allows for such a decomposition.
 I construct an object called a pass-through IRF (PT-IRF), which decomposes IRFs with the aim of identifying the passage of structural shocks through specific media in the system.
 I demonstrate the applicability of the PT-IRF by estimating and performing inference on the effect of a monetary policy shock on output growth through bank lending in a VAR, effectively estimating and testing the existence of the credit channel of monetary transmission.
 
-[**"The Evolution of Community Bank Interconnectedness".**](https://github.com/gionikola/gionikola.github.io/blob/d689da0ffa8f5226164a9f77272e6744ee2e35c4/cv/wp_cbinterconnectedness_nikolaishvili.pdf)
+[**"The Evolution of Community Bank Interconnectedness".**](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf)
 
 <b>Abstract:</b>
 I estimate national and regional latent drivers of quarterly fluctuations of state-average community bank return-on-equity (ROE) for all 50 US states. 
