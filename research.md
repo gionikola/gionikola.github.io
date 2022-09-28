@@ -37,7 +37,6 @@ I find a decrease in the intensity of idiosyncratic dynamics of state-level comm
 I conclude that the US community banking sector has become more interconnected since the crisis, which implies greater exposure to systemic risk and increased vulnerability during future financial crises.
 
 [**"Measuring Economic Activity in the Presence of Superstar MNEs"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4195891) with Philip Economides.
-*(Under Review)*
 
 <b>Abstract:</b> 
 In 2015, changes to Irish tax legislation, known as the "2015 Finance Act", coincided with a 26% annual increase in real gross domestic product.
