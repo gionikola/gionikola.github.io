@@ -52,7 +52,7 @@ We suggest that our methodology may be applied by policymakers in small open eco
 
 **"Efficiently Estimating Many-Level High-Dimensional Hierarchical Dynamic Factor Models".**
 
-**"Arms Races and International Business Cycles".**
+**"Aggregating Policy Rules to Approximate Temporary Equilibria"** with David Evans.
 
 **“Model Uncertainty and Agent Survival”** with David Evans.
 
