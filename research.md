@@ -61,7 +61,7 @@ We suggest that our methodology may be applied by policymakers in small open eco
 
 Julia package for simulating and estimating multi-level/hierarchical dynamic factor models (HDFMs).
 
-## <b>[PassThroughIRF.jl](https://github.com/gionikola/PassThroughIRF.jl)</b>
+### <b>[PassThroughIRF.jl](https://github.com/gionikola/PassThroughIRF.jl)</b>
 
 Julia package for estimating pass-through impulse response functions (PTIRFs).
 
