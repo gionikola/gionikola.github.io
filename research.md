@@ -10,9 +10,7 @@ subtitle:
 **"Commercial Bank Heterogeneity and the Transmission of Monetary Policy".**
 
 <b>Abstract:</b>
-The literature on the aggregate bank lending channel (BLC) shows evidence of the transmission of monetary policy into the real economy through changes in the supply of bank loans.
-However, insights on the distributional properties of the BLC are scarce and inconclusive. 
-I study how different dimensions of bank heterogeneity influence their individual roles in the BLC, with a special focus on the distinction between community and non-community banks in the United States.
+I study how different dimensions of bank heterogeneity influence their individual roles in the bank lending channel (BLC) of monetary transmission, with a special focus on the distinction between community and non-community banks in the United States.
 I find that the bank-level responses of lending growth to monetary policy shocks are quite diffuse across both community and non-community banks, but also that the spread of community bank responses to monetary policy shocks is greater than that of non-community banks. 
 My results also suggest that output growth is affected quite differently by shocks to community bank lending than those to non-community bank lending.
 Lastly, I find that community banks play a key role in influencing the real output growth of certain sectors of the U.S. economy. 
@@ -20,13 +18,8 @@ Lastly, I find that community banks play a key role in influencing the real outp
 **"Pass-Through Impulse Response Function (PT-IRF)".**
 
 <b>Abstract:</b>
-The impulse response function (IRF) of a vector autoregression (VAR) represents the partial effect of a shock on a given endogenous variable over time. 
-However, what if we are interested in the dynamic effect of a shock on a given variable *through another* endogenous variable in the system? 
-For example, suppose we are interested in estimating the effect of monetary policy on output growth *through* bank lending in a simple VAR.
-Determining such a partial effect would require decomposing an IRF according to contributions attributable to all given endogenous variables in the system, and then isolating the contributions of the variable of interest.
-Currently, there exists no methodology that allows for such a decomposition.
-I construct an object called a pass-through IRF (PT-IRF), which decomposes IRFs with the aim of identifying the passage of structural shocks through specific media in the system.
-I demonstrate the applicability of the PT-IRF by estimating and performing inference on the effect of a monetary policy shock on output growth through bank lending in a VAR, effectively estimating and testing the existence of the credit channel of monetary transmission.
+I construct a new tool called a pass-through impulse response function (PTIRF), which decomposes IRFs with the aim of identifying the passage of structural shocks through specific media in the system. 
+I demonstrate the applicability of the PTIRF by estimating and performing inference on the effect of a monetary policy shock on output growth through bank lending in a vector autoregression, effectively estimating and testing the existence of the credit channel of monetary transmission.
 
 [**"The Evolution of Community Bank Interconnectedness".**](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf)
 
@@ -64,10 +57,13 @@ We suggest that our methodology may be applied by policymakers in small open eco
 ---
 # <b>Software</b>
 
-### <b>DynamicFactorModeling.jl</b>
+### <b>[DynamicFactorModeling.jl](https://github.com/gionikola/DynamicFactorModeling.jl)</b>
 
-[DynamicFactorModeling.jl](https://github.com/gionikola/DynamicFactorModeling.jl) is a Julia package I'm currently creating that allows users to simulate, estimate, and forecast using multi-level dynamic factor models.
-My focus at the moment is on Bayesian estimators, as they allow for inference on the latent factors, although I plan on including classical estimators in the future.
+Julia package for simulating and estimating multi-level/hierarchical dynamic factor models (HDFMs).
+
+## <b>[PassThroughIRF.jl](https://github.com/gionikola/PassThroughIRF.jl)</b>
+
+Julia package for estimating pass-through impulse response functions (PTIRFs).
 
 ---
 # <b>Other</b>
