@@ -15,7 +15,7 @@ I find that the bank-level responses of lending growth to monetary policy shocks
 My results also suggest that output growth is affected quite differently by shocks to community bank lending than those to non-community bank lending.
 Lastly, I find that community banks play a key role in influencing the real output growth of certain sectors of the U.S. economy. 
 
-**"Pass-Through Impulse Response Function (PT-IRF)".**
+**"Pass-Through Impulse Response Functions".**
 
 <b>Abstract:</b>
 I construct a new tool called a pass-through impulse response function (PTIRF), which decomposes IRFs with the aim of identifying the passage of structural shocks through specific media in the system. 
