@@ -29,7 +29,7 @@ I do so by modeling a dataset of state-average community bank ROE series as a mu
 I find a decrease in the intensity of idiosyncratic dynamics of state-level community bank profitability since the global financial crisis, along with an increase in national comovement across most states. 
 I conclude that the US community banking sector has become more interconnected since the crisis, which implies greater exposure to systemic risk and increased vulnerability during future financial crises.
 
-[**"Measuring Economic Activity in the Presence of Superstar MNEs"**](https://gionikola.github.io/cv/economides&nikolaishvili_2022.pdf) with Philip Economides.
+[**"Measuring Economic Activity in the Presence of Superstar MNEs"**](https://gionikola.github.io/cv/economides&nikolaishvili_2022.pdf) with [Philip Economides](https://philip-economides.com/).
 
 <b>Abstract:</b> 
 In 2015, changes to Irish tax legislation, known as the "2015 Finance Act", coincided with a 26% annual increase in real gross domestic product.
@@ -45,9 +45,9 @@ We suggest that our methodology may be applied by policymakers in small open eco
 
 **"Efficiently Estimating Many-Level High-Dimensional Hierarchical Dynamic Factor Models".**
 
-**"Aggregating Policy Rules to Approximate Temporary Equilibria"** with David Evans.
+**"Aggregating Policy Rules to Approximate Temporary Equilibria"** with [David Evans](http://econevans.com/).
 
-**“Model Uncertainty and Agent Survival”** with David Evans.
+**“Model Uncertainty and Agent Survival”** with [David Evans](http://econevans.com/).
 
 ---
 # <b>Publications</b>
