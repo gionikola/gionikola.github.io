@@ -10,16 +10,19 @@ subtitle:
 **"Commercial Bank Heterogeneity and the Transmission of Monetary Policy".**
 
 <b>Abstract:</b>
-I study how different dimensions of bank heterogeneity influence their individual roles in the bank lending channel (BLC) of monetary transmission, with a special focus on the distinction between community and non-community banks in the United States.
+Insights on the distributional properties of the bank lending channel (BLC) of monetary transmission are scarce and inconclusive.
+I study how different dimensions of bank heterogeneity influence their individual roles in the BLC, with a special focus on the distinction between community and non-community banks in the United States.
 I find that the bank-level responses of lending growth to monetary policy shocks are quite diffuse across both community and non-community banks, but also that the spread of community bank responses to monetary policy shocks is greater than that of non-community banks. 
 My results also suggest that output growth is affected quite differently by shocks to community bank lending than those to non-community bank lending.
 Lastly, I find that community banks play a key role in influencing the real output growth of certain sectors of the U.S. economy. 
 
+
 **"Pass-Through Impulse Response Functions".**
 
 <b>Abstract:</b>
-I construct a new tool called a pass-through impulse response function (PTIRF), which decomposes IRFs with the aim of identifying the passage of structural shocks through specific media in the system. 
-I demonstrate the applicability of the PTIRF by estimating and performing inference on the effect of a monetary policy shock on output growth through bank lending in a vector autoregression, effectively estimating and testing the existence of the credit channel of monetary transmission.
+Impulse response functions (IRFs) are uninformative about the channels through which a shock propagates through a dynamical system. 
+I formulate the concept of a pass-through impulse response function (PT-IRF), which decomposes an IRF by identifying the passage of a structural shock through specific media in a given system. 
+I demonstrate the applicability of the PT-IRF by performing inference on the effect of a monetary policy shock on unemployment through changes in bank lending in a simple vector autoregression, effectively estimating and testing the existence of the credit channel of the monetary transmission mechanism.
 
 [**"The Evolution of Community Bank Interconnectedness".**](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf)
 
