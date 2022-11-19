@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Yrsa';
+  font-family: 'Helvetica';
   font-size: 1.1rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
