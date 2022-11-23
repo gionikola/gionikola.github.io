@@ -17,7 +17,7 @@ My results also suggest that output growth is affected quite differently by shoc
 Lastly, I find that community banks play a key role in influencing the real output growth of certain sectors of the U.S. economy. 
 
 
-**"Pass-Through Impulse Response Functions"**
+[**"Pass-Through Impulse Response Functions"**](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf)
 
 <b>Abstract:</b>
 Impulse response functions (IRFs) offer no insight regarding the channels through which a shock propagates through a dynamical system. 
