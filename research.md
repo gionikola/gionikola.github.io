@@ -46,7 +46,7 @@ We suggest that our methodology may be applied by policymakers in small open eco
 ---
 # <b>Works in Progress</b>
 
-**"Efficiently Estimating Bayesian Many-Level High-Dimensional Hierarchical Dynamic Factor Models"**
+**"Estimating Large Bayesian Hierarchical Dynamic Factor Models"**
 
 **"Aggregating Policy Rules to Approximate Temporary Equilibria"** with [David Evans](http://econevans.com/)
 
