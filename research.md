@@ -24,7 +24,7 @@ Impulse response functions (IRFs) offer no insight regarding the channels throug
 I formulate the concept of a pass-through impulse response function (PT-IRF), which measures the passage of a structural shock through specific media in a given system. 
 I demonstrate the applicability of the PT-IRF by performing inference on the effect of a monetary policy shock on unemployment through various channels of the monetary transmission mechanism using a simple structural vector autoregression.
 
-**"Aggregating Policy Rules to Approximate Temporary Equilibria"** with [David Evans](http://econevans.com/)
+**"Aggregating Policy Rules to Approximate Temporary Equilibria in Heterogeneous Agent Models"** with [David Evans](http://econevans.com/)
 
 <b>Abstract:</b>
 We suggest a new method of approximating temporary equilibria in heterogeneous agent models. 
