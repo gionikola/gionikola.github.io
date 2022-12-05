@@ -24,6 +24,13 @@ Impulse response functions (IRFs) offer no insight regarding the channels throug
 I formulate the concept of a pass-through impulse response function (PT-IRF), which measures the passage of a structural shock through specific media in a given system. 
 I demonstrate the applicability of the PT-IRF by performing inference on the effect of a monetary policy shock on unemployment through various channels of the monetary transmission mechanism using a simple structural vector autoregression.
 
+**"Aggregating Policy Rules to Approximate Temporary Equilibria"** with [David Evans](http://econevans.com/)
+
+<b>Abstract:</b>
+We suggest a new method of approximating temporary equilibria in heterogeneous agent models. 
+Our approach offers a significant speedup without a notable drop in accuracy relative to established methods.
+We demonstrate the effectiveness of our procedure by applying it to a model with heterogeneous boundedly rational agents, and comparing its performance to that of alternative methods.
+
 [**"The Evolution of Community Bank Interconnectedness"**](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf)
 
 <b>Abstract:</b>
@@ -47,8 +54,6 @@ We suggest that our methodology may be applied by policymakers in small open eco
 # <b>Works in Progress</b>
 
 **"Estimating Large Bayesian Hierarchical Dynamic Factor Models"**
-
-**"Aggregating Policy Rules to Approximate Temporary Equilibria"** with [David Evans](http://econevans.com/)
 
 **“Model Uncertainty and Agent Survival”** with [David Evans](http://econevans.com/)
 
