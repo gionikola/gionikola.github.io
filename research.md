@@ -20,9 +20,9 @@ Lastly, I find that community banks play a key role in influencing the real outp
 [**"Pass-Through Impulse Response Functions"**](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf)
 
 <b>Abstract:</b>
-Impulse response functions (IRFs) offer no insight regarding the channels through which a shock propagates through a dynamical system. 
-I formulate the concept of a pass-through impulse response function (PT-IRF), which measures the passage of a structural shock through specific media in a given system. 
-I demonstrate the applicability of the PT-IRF by performing inference on the effect of a monetary policy shock on unemployment through various channels of the monetary transmission mechanism using a simple structural vector autoregression.
+Impulse response functions (IRFs) offer little insight regarding the channels through which a shock propagates through a dynamical system. 
+I formulate the concept of a pass-through impulse response function (PT-IRF), which measures the passage of a structural shock through specific sets of variables in a given system. 
+I demonstrate the applicability of the PT-IRF by performing inference on the effect of a monetary policy shock on unemployment through various channels of the monetary transmission mechanism using a structural vector autoregression.
 
 **"Computing Temporary Equilibria using Exact Aggregation"** with [David Evans](http://econevans.com/)
 
