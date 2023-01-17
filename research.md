@@ -62,7 +62,7 @@ We suggest that our methodology may be applied by policymakers in small open eco
 ---
 # <b>Publications</b>
 
-["Using deep learning to examine the correlation between transportation planning and perceived safety of the built environment"](https://journals.sagepub.com/doi/abs/10.1177/2399808320959079) with Justin Hollander, Alphonsus Adu-Bredu, Minyu Situ, and Shabnam Bista, Environment and Planning B: Urban Analytics and City Science, 2020.
+["Using deep learning to examine the correlation between transportation planning and perceived safety of the built environment"](https://journals.sagepub.com/doi/abs/10.1177/2399808320959079) with Justin Hollander, Alphonsus Adu-Bredu, Minyu Situ, and Shabnam Bista, **Environment and Planning B: Urban Analytics and City Science**, 2020.
 
 ---
 # <b>Software</b>
