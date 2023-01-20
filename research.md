@@ -31,14 +31,6 @@ We suggest a new method of approximating temporary equilibria in heterogeneous a
 Our approach offers a significant speedup without a notable drop in accuracy relative to established methods.
 We demonstrate the effectiveness of our procedure by applying it to a model with heterogeneous boundedly rational agents, and comparing its performance to that of alternative methods.
 
-[**"The Evolution of Community Bank Interconnectedness"**](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf)
-
-<b>Abstract:</b>
-I estimate national and regional latent drivers of quarterly fluctuations of state-average community bank return-on-equity (ROE) for all 50 US states. 
-I do so by modeling a dataset of state-average community bank ROE series as a multi-level / hierarchical dynamic factor model (HDFM), which I then estimate using Bayesian methods to extract posterior distributions of country- and region-level dynamic factors. 
-I find a decrease in the intensity of idiosyncratic dynamics of state-level community bank profitability since the global financial crisis, along with an increase in national comovement across most states. 
-I conclude that the US community banking sector has become more interconnected since the crisis, which implies greater exposure to systemic risk and increased vulnerability during future financial crises.
-
 [**"Measuring Economic Activity in the Presence of Superstar MNEs"**](https://gionikola.github.io/cv/economides&nikolaishvili_2022.pdf) with [Philip Economides](https://philip-economides.com/)
 
 (Revise and resubmit: **Economics Letters**)
@@ -49,6 +41,14 @@ We show evidence confirming the conclusions of existing literature, which sugges
 Furthermore, we provide an alternative method of statistically isolating the variation in GDP growth attributable solely to domestic activity growth to infer the prevailing state of the Irish economy. 
 Our findings imply a 21% lower level of GDP relative to the official measure recorded for 2020. 
 We suggest that our methodology may be applied by policymakers in small open economies to improve the accuracy of growth and business cycle monitoring.
+
+[**"The Evolution of Community Bank Interconnectedness"**](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf)
+
+<b>Abstract:</b>
+I estimate national and regional latent drivers of quarterly fluctuations of state-average community bank return-on-equity (ROE) for all 50 US states. 
+I do so by modeling a dataset of state-average community bank ROE series as a multi-level / hierarchical dynamic factor model (HDFM), which I then estimate using Bayesian methods to extract posterior distributions of country- and region-level dynamic factors. 
+I find a decrease in the intensity of idiosyncratic dynamics of state-level community bank profitability since the global financial crisis, along with an increase in national comovement across most states. 
+I conclude that the US community banking sector has become more interconnected since the crisis, which implies greater exposure to systemic risk and increased vulnerability during future financial crises.
 
 
 
