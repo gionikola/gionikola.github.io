@@ -45,35 +45,30 @@ The following charts show student feedback aggregated across all of my independe
 Sample size = 33.
 
 <div id="image-box">
-  <img src="images/course_evals/instructor_support.png" id="current_image">
+  <img src="images/course_evals/instructor_support.png" id="current-image">
+  <button id="previous-button">Previous</button>
+  <button id="next-button">Next</button>
 </div>
 
 <script>
-  var images = ["images/course_evals/instructor_support.png",
-      "images/course_evals/communication.png",
-      "images/course_evals/accessibility.png",
-      "images/course_evals/organization.png",
-      "images/course_evals/active_learning.png",
-      "images/course_evals/assignments.png",
-      "images/course_evals/challenge.png",
-      "images/course_evals/clarity.png",
-      "images/course_evals/feedback.png",
-      "images/course_evals/inclusiveness.png",
-      "images/course_evals/material_quality.png",
-      "images/course_evals/relevance.png",
-      "images/course_evals/student_interaction.png"
- ];
-  var currentIndex = 0;
+var images = ["images/course_evals/instructor_support.png", "images/course_evals/communication.png","images/course_evals/accessibility.png","images/course_evals/organization.png","images/course_evals/active_learning.png","images/course_evals/assignments.png","images/course_evals/challenge.png","images/course_evals/clarity.png","images/course_evals/feedback.png","images/course_evals/inclusiveness.png","images/course_evals/material_quality.png","images/course_evals/relevance.png","images/course_evals/student_interaction.png"];
+var currentImage = 0;
 
-  function nextImage() {
-    currentIndex++;
-    if (currentIndex >= images.length) {
-      currentIndex = 0;
-    }
-    document.getElementById("current-image").src = images[currentIndex];
+document.getElementById("next-button").onclick = function() {
+  currentImage++;
+  if (currentImage >= images.length) {
+    currentImage = 0;
   }
+  document.getElementById("current-image").src = images[currentImage];
+};
 
-  setInterval(nextImage, 1000);
+document.getElementById("previous-button").onclick = function() {
+  currentImage--;
+  if (currentImage < 0) {
+    currentImage = images.length - 1;
+  }
+  document.getElementById("current-image").src = images[currentImage];
+};
 </script>
 
 ![instructor_support](images/course_evals/instructor_support.png)
