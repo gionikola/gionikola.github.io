@@ -44,6 +44,7 @@ Similar to EC370, the required textbook for this course at University of Oregon 
 The following charts show student feedback aggregated across all of my independent courses. 
 Sample size = 33.
 
+```html
 <div id="image-box">
   <img src="images/course_evals/instructor_support.png" id="current-image">
   <button id="previous-button">Previous</button>
@@ -70,6 +71,7 @@ document.getElementById("previous-button").onclick = function() {
   document.getElementById("current-image").src = images[currentImage];
 };
 </script>
+```
 
 ![instructor_support](images/course_evals/instructor_support.png)
 
