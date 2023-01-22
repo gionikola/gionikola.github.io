@@ -44,6 +44,38 @@ Similar to EC370, the required textbook for this course at University of Oregon 
 The following charts show student feedback aggregated across all of my independent courses. 
 Sample size = 33.
 
+<div id="image-box">
+  <img src="images/course_evals/instructor_support.png" id="current_image">
+</div>
+
+<script>
+  var images = ["images/course_evals/instructor_support.png",
+      "images/course_evals/communication.png",
+      "images/course_evals/accessibility.png",
+      "images/course_evals/organization.png",
+      "images/course_evals/active_learning.png",
+      "images/course_evals/assignments.png",
+      "images/course_evals/challenge.png",
+      "images/course_evals/clarity.png",
+      "images/course_evals/feedback.png",
+      "images/course_evals/inclusiveness.png",
+      "images/course_evals/material_quality.png",
+      "images/course_evals/relevance.png",
+      "images/course_evals/student_interaction.png"
+ ];
+  var currentIndex = 0;
+
+  function nextImage() {
+    currentIndex++;
+    if (currentIndex >= images.length) {
+      currentIndex = 0;
+    }
+    document.getElementById("current-image").src = images[currentIndex];
+  }
+
+  setInterval(nextImage, 1000);
+</script>
+
 ![instructor_support](images/course_evals/instructor_support.png)
 
 ![communication](images/course_evals/communication.png)
