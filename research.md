@@ -44,13 +44,13 @@ We suggest that our methodology may be applied by policymakers in small open eco
 
 [**"The Evolution of Community Bank Interconnectedness"**](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf)
 
+(Departmental Award: Best Field Paper / PhD Research Paper Award)
+
 <b>Abstract:</b>
-I estimate national and regional latent drivers of quarterly fluctuations of state-average community bank return-on-equity (ROE) for all 50 US states. 
-I do so by modeling a dataset of state-average community bank ROE series as a multi-level / hierarchical dynamic factor model (HDFM), which I then estimate using Bayesian methods to extract posterior distributions of country- and region-level dynamic factors. 
-I find a decrease in the intensity of idiosyncratic dynamics of state-level community bank profitability since the global financial crisis, along with an increase in national comovement across most states. 
-I conclude that the US community banking sector has become more interconnected since the crisis, which implies greater exposure to systemic risk and increased vulnerability during future financial crises.
-
-
+I find that the community banking sector in the United States has become more interconnected since the crisis, which implies greater exposure to systemic risk and increased vulnerability in future financial crises.
+I estimate a hierarchical dynamic factor model (HDFM) using a Bayesian approach to extract posterior distributions of national, regional, and state-level latent drivers of quarterly fluctuations in state-average community bank return-on-equity (ROE) for all 50 US states.
+The resulting estimates show evidence of both considerable national comovement and state-specific idiosyncrasy with no significant signs of regional comovement. 
+Furthermore, the results show a decrease in the intensity of idiosyncratic dynamics of state-level community bank profitability since the crisis, along with an increase in national comovement across most states.
 
 ---
 # <b>Works in Progress</b>
