@@ -19,8 +19,6 @@ Lastly, I find that community banks play a key role in influencing the real outp
 
 [**"Pass-Through Impulse Response Functions"**](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf)
 
-(Submitted)
-
 <b>Abstract:</b>
 Impulse response functions (IRFs) offer little insight regarding the channels through which a shock propagates through a dynamical system. 
 I formulate the concept of a pass-through impulse response function (PT-IRF), which measures the passage of a structural shock through specific sets of variables in a given system. 
