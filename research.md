@@ -7,7 +7,7 @@ subtitle:
 ---
 # <b>Working Papers</b> 
 
-1. **"Commercial Bank Heterogeneity and the Transmission of Monetary Policy"**
+**"Commercial Bank Heterogeneity and the Transmission of Monetary Policy"**
 
 <b>Abstract:</b>
 Insights on the distributional properties of the bank lending channel (BLC) of monetary transmission are scarce and inconclusive.
@@ -17,21 +17,21 @@ My results also suggest that output growth is affected quite differently by shoc
 Lastly, I find that community banks play a key role in influencing the real output growth of certain sectors of the U.S. economy. 
 
 
-2. [**"Pass-Through Impulse Response Functions"**](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf) (Submitted)
+[**"Pass-Through Impulse Response Functions"**](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf) (Submitted)
 
 <b>Abstract:</b>
 Impulse response functions (IRFs) offer little insight regarding the channels through which a shock propagates through a dynamical system. 
 I formulate the concept of a pass-through impulse response function (PT-IRF), which measures the passage of a structural shock through specific sets of variables in a given system. 
 I demonstrate the applicability of the PT-IRF by performing inference on the effect of a monetary policy shock on unemployment through various channels of the monetary transmission mechanism using a structural vector autoregression.
 
-3. **"Computing Temporary Equilibria using Exact Aggregation"** with [David Evans](http://econevans.com/)
+**"Computing Temporary Equilibria using Exact Aggregation"** with [David Evans](http://econevans.com/)
 
 <b>Abstract:</b>
 We suggest a new method of approximating temporary equilibria in heterogeneous agent models. 
 Our approach offers a significant speedup without a notable drop in accuracy relative to established methods.
 We demonstrate the effectiveness of our procedure by applying it to a model with heterogeneous boundedly rational agents, and comparing its performance to that of alternative methods.
 
-4. [**"Measuring Economic Activity in the Presence of Superstar MNEs"**](https://gionikola.github.io/cv/economides&nikolaishvili_2022.pdf) with [Philip Economides](https://philip-economides.com/) (Revise and resubmit: **Economics Letters**)
+[**"Measuring Economic Activity in the Presence of Superstar MNEs"**](https://gionikola.github.io/cv/economides&nikolaishvili_2022.pdf) with [Philip Economides](https://philip-economides.com/) (Revise and resubmit: **Economics Letters**)
 
 <b>Abstract:</b> 
 In 2015, changes to Irish tax legislation, known as the "2015 Finance Act", coincided with a 26% annual increase in real gross domestic product.
@@ -40,7 +40,7 @@ Furthermore, we provide an alternative method of statistically isolating the var
 Our findings imply a 21% lower level of GDP relative to the official measure recorded for 2020. 
 We suggest that our methodology may be applied by policymakers in small open economies to improve the accuracy of growth and business cycle monitoring.
 
-5. [**"The Evolution of Community Bank Interconnectedness"**](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf) (Departmental Award: Best Field Paper / PhD Research Paper Award)
+[**"The Evolution of Community Bank Interconnectedness"**](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf) (Departmental Award: Best Field Paper / PhD Research Paper Award)
 
 <b>Abstract:</b>
 I find that the community banking sector in the United States has become more interconnected since the global financial crisis, which implies greater exposure to systemic risk and increased vulnerability in future financial crises.
