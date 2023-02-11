@@ -53,6 +53,8 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 
 **"Estimating Large Bayesian Hierarchical Dynamic Factor Models"**
 
+**“Monetary Pass-Through via Inflation Expectations”**
+
 **“Model Uncertainty and Agent Survival”** with [David Evans](http://econevans.com/)
 
 ---
