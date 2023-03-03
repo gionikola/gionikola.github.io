@@ -31,7 +31,7 @@ We suggest a new method of approximating temporary equilibria in heterogeneous a
 Our approach offers a significant speedup without a notable drop in accuracy relative to established methods.
 We demonstrate the effectiveness of our procedure by applying it to a model with heterogeneous boundedly rational agents, and comparing its performance to that of alternative methods.
 
-[**"Measuring Economic Activity in the Presence of Superstar MNEs"**](https://gionikola.github.io/cv/economides&nikolaishvili_2023.pdf) with [Philip Economides](https://philip-economides.com/) (Revise and resubmit: **Economics Letters**)
+[**"Measuring Economic Activity in the Presence of Superstar MNEs"**](https://gionikola.github.io/cv/economides&nikolaishvili_2023.pdf) with [Philip Economides](https://philip-economides.com/) (Accepted: **Economics Letters**)
 
 <b>Abstract:</b> 
 In 2015, changes to Irish tax legislation, known as the "2015 Finance Act", coincided with a 26% annual increase in real gross domestic product.
