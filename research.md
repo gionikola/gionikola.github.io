@@ -17,7 +17,7 @@ My results also suggest that output growth is affected quite differently by shoc
 Lastly, I find that community banks play a key role in influencing the real output growth of certain sectors of the U.S. economy. 
 
 
-[**"Pass-Through Impulse Response Functions"**](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf) (Submitted)
+[<ins>**"Pass-Through Impulse Response Functions"**</ins>](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf) (Submitted)
 
 <b>Abstract:</b>
 Impulse response functions (IRFs) offer little insight regarding the channels through which a shock propagates through a dynamical system. 
@@ -31,7 +31,7 @@ We suggest a new method of approximating temporary equilibria in heterogeneous a
 Our approach offers a significant speedup without a notable drop in accuracy relative to established methods.
 We demonstrate the effectiveness of our procedure by applying it to a model with heterogeneous boundedly rational agents, and comparing its performance to that of alternative methods.
 
-[**"Measuring Economic Activity in the Presence of Superstar MNEs"**](https://gionikola.github.io/cv/economides&nikolaishvili_2023.pdf) with [Philip Economides](https://philip-economides.com/) (Accepted: **Economics Letters**)
+[<ins>**"Measuring Economic Activity in the Presence of Superstar MNEs"**</ins>](https://gionikola.github.io/cv/economides&nikolaishvili_2023.pdf) with [Philip Economides](https://philip-economides.com/) (Accepted: **Economics Letters**)
 
 <b>Abstract:</b> 
 In 2015, changes to Irish tax legislation, known as the "2015 Finance Act", coincided with a 26% annual increase in real gross domestic product.
@@ -40,7 +40,7 @@ Furthermore, we provide an alternative method of statistically isolating the var
 Our findings imply a 21% lower level of GDP relative to the official measure recorded for 2020. 
 We suggest that our methodology may be applied by policymakers in small open economies to improve the accuracy of growth and business cycle monitoring.
 
-[**"The Evolution of Community Bank Interconnectedness"**](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf) (Departmental Award: Best Field Paper / PhD Research Paper Award)
+[<ins>**"The Evolution of Community Bank Interconnectedness"**</ins>](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf) (Departmental Award: Best Field Paper / PhD Research Paper Award)
 
 <b>Abstract:</b>
 I find that the community banking sector in the United States has become more interconnected since the global financial crisis, which implies greater exposure to systemic risk and increased vulnerability in future financial crises.
