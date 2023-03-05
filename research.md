@@ -7,7 +7,7 @@ subtitle:
 ---
 # <b>Working Papers</b> 
 
-<ins>"Commercial Bank Heterogeneity and the Transmission of Monetary Policy"</ins> (Job Market Paper)
+<ins>**"Commercial Bank Heterogeneity and the Transmission of Monetary Policy"**</ins> (Job Market Paper)
 
 <b>Abstract:</b>
 Insights on the distributional properties of the bank lending channel (BLC) of monetary transmission are scarce and inconclusive.
@@ -16,21 +16,21 @@ I find that the bank-level responses of lending growth to monetary policy shocks
 My results also suggest that output growth is affected quite differently by shocks to community bank lending than those to non-community bank lending.
 Lastly, I find that community banks play a key role in influencing the real output growth of certain sectors of the U.S. economy. 
 
-<ins>"Computing Temporary Equilibria using Exact Aggregation"</ins> with [David Evans](http://econevans.com/)
+<ins>**"Computing Temporary Equilibria using Exact Aggregation"**</ins> with [David Evans](http://econevans.com/)
 
 <b>Abstract:</b>
 We suggest a new method of approximating temporary equilibria in heterogeneous agent models. 
 Our approach offers a significant speedup without a notable drop in accuracy relative to established methods.
 We demonstrate the effectiveness of our procedure by applying it to a model with heterogeneous boundedly rational agents, and comparing its performance to that of alternative methods.
 
-[<ins>"Pass-Through Impulse Response Functions"</ins>](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf) (Submitted)
+[<ins>**"Pass-Through Impulse Response Functions"**</ins>](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf) (Submitted)
 
 <b>Abstract:</b>
 Impulse response functions (IRFs) offer little insight regarding the channels through which a shock propagates through a dynamical system. 
 I formulate the concept of a pass-through impulse response function (PT-IRF), which measures the passage of a structural shock through specific sets of variables in a given system. 
 I demonstrate the applicability of the PT-IRF by performing inference on the effect of a monetary policy shock on unemployment through various channels of the monetary transmission mechanism using a structural vector autoregression.
 
-[<ins>"The Evolution of Community Bank Interconnectedness"</ins>](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf) (Departmental Award: Best Field Paper / PhD Research Paper Award)
+[<ins>**"The Evolution of Community Bank Interconnectedness"**</ins>](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf) (Departmental Award: Best Field Paper / PhD Research Paper Award)
 
 <b>Abstract:</b>
 I find that the community banking sector in the United States has become more interconnected since the global financial crisis, which implies greater exposure to systemic risk and increased vulnerability in future financial crises.
