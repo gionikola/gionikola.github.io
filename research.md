@@ -30,7 +30,7 @@ Impulse response functions (IRFs) offer little insight regarding the channels th
 I formulate the concept of a pass-through impulse response function (PT-IRF), which measures the passage of a structural shock through specific sets of variables in a given system. 
 I demonstrate the applicability of the PT-IRF by performing inference on the effect of a monetary policy shock on unemployment through various channels of the monetary transmission mechanism using a structural vector autoregression.
 
-[<ins>**"The Evolution of Community Bank Interconnectedness"**</ins>](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf) [Internal Award: Best Field Paper / PhD Research Paper Award]
+[<ins>**"The Evolution of Community Bank Interconnectedness"**</ins>](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf) [Internal Award: Best Field Paper / PhD Research Paper]
 
 <b>Abstract:</b>
 I find that the community banking sector in the United States has become more interconnected since the global financial crisis, which implies greater exposure to systemic risk and increased vulnerability in future financial crises.
