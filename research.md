@@ -41,7 +41,7 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 ---
 # <b>Publications</b>
 
-[2] [<ins>"Measuring Economic Activity in the Presence of Superstar MNEs"</ins>](https://gionikola.github.io/cv/economides&nikolaishvili_2023.pdf) (with [Philip Economides](https://philip-economides.com/)) Accepted: **Economics Letters**
+[2] [<ins>"Measuring Economic Activity in the Presence of Superstar MNEs"</ins>](https://doi.org/10.1016/j.econlet.2023.111077) (with [Philip Economides](https://philip-economides.com/)) **Economics Letters (In Press)**
 
 [1] [<ins>"Using deep learning to examine the correlation between transportation planning and perceived safety of the built environment"</ins>](https://journals.sagepub.com/doi/abs/10.1177/2399808320959079) (with Justin Hollander, Alphonsus Adu-Bredu, Minyu Situ, and Shabnam Bista) **Environment and Planning B: Urban Analytics and City Science (2021)**
 
