@@ -41,34 +41,9 @@ Similar to EC370, the required textbook for this course at University of Oregon 
 ---
 # <b>Student Feedback</b>
 
-The following charts show student feedback aggregated across all of my independent courses. 
-Sample size = 33.
+The following chart shows student feedback aggregated across all of my independent courses.
 
-![instructor_support](images/course_evals/instructor_support.png)
-
-![communication](images/course_evals/communication.png)
-
-![accessibility](images/course_evals/accessibility.png)
-
-![organization](images/course_evals/organization.png)
-
-![active_learning](images/course_evals/active_learning.png)
-
-![assignments](images/course_evals/assignments.png)
-
-![challenge](images/course_evals/challenge.png)
-
-![clarity](images/course_evals/clarity.png)
-
-![feedback](images/course_evals/feedback.png)
-
-![inclusiveness](images/course_evals/inclusiveness.png)
-
-![material_quality](images/course_evals/material_quality.png)
-
-![relevance](images/course_evals/relevance.png)
-
-![student_interaction](images/course_evals/student_interaction.png)
+![student_evals](images/course_evals/student_evaluations.png)
 
 ---
 # <b>Teaching Assistance</b>
