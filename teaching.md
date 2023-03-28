@@ -45,11 +45,7 @@ The following chart shows student feedback aggregated across all of my independe
 
 ![student_evals](images/course_evals/student_evaluations.png)
 
-A = "Beneficial to my learning"
-
-B = "Neutral"
-
-C = "Needs improvement"
+A = "Beneficial to my learning"; B = "Neutral"; C = "Needs improvement".
 
 **Select student comments:**
 
