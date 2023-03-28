@@ -45,6 +45,20 @@ The following chart shows student feedback aggregated across all of my independe
 
 ![student_evals](images/course_evals/student_evaluations.png)
 
+A = "Beneficial to my learning"
+
+B = "Neutral"
+
+C = "Needs improvement"
+
+**Select student comments:**
+
+> Gio does a fantastic job taking very complex subjects and putting them into plain English. Its very common to see professors especially in economics make the subject more complex than it has too, but Gio is not one of those professors.
+
+> I appreciate the effort that it takes to teach a course in such a way that it is very beneficial to the student, something a lot of professors especially in economics that I have been taught by, don't seem to care about. Cheers to you and my experience in your course and classroom is what I wish every economics course I have taken at UO would've been like.
+
+> Great teacher.
+
 ---
 # <b>Teaching Assistance</b>
 
