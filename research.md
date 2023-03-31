@@ -16,13 +16,6 @@ I find that the bank-level responses of lending growth to monetary policy shocks
 My results also suggest that output growth is affected quite differently by shocks to community bank lending than those to non-community bank lending.
 Lastly, I find that community banks play a key role in influencing the real output growth of certain sectors of the U.S. economy. 
 
-<ins>**"Computing Temporary Equilibria using Exact Aggregation"**</ins> (with [David Evans](http://econevans.com/))
-
-<b>Abstract:</b>
-We suggest a new method of approximating temporary equilibria in heterogeneous agent models. 
-Our approach offers a significant speedup without a notable drop in accuracy relative to established methods.
-We demonstrate the effectiveness of our procedure by applying it to a model with heterogeneous boundedly rational agents, and comparing its performance to that of alternative methods.
-
 [<ins>**"Pass-Through Impulse Response Functions"**</ins>](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf) [Submitted]
 
 <b>Abstract:</b>
@@ -37,6 +30,13 @@ I find that the community banking sector in the United States has become more in
 I estimate a hierarchical dynamic factor model using a Bayesian approach to extract posterior distributions of national, regional, and state-level latent drivers of quarterly fluctuations in state-average community bank return-on-equity for all 50 US states.
 The resulting estimates show evidence of both considerable national comovement and state-specific idiosyncrasy with no signs of significant regional comovement. 
 Furthermore, the results show a decrease in the intensity of idiosyncratic dynamics of state-level community bank profitability since the crisis, along with an increase in national comovement across most states.
+
+[<ins>**"Computing Temporary Equilibria using Exact Aggregation"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2022.pdf) (with [David Evans](http://econevans.com/))
+
+<b>Abstract:</b>
+We suggest a new method of approximating temporary equilibria in heterogeneous agent models. 
+Our approach offers a significant speedup without a notable drop in accuracy relative to established methods.
+We demonstrate the effectiveness of our procedure by applying it to a model with heterogeneous boundedly rational agents, and comparing its performance to that of alternative methods.
 
 ---
 # <b>Publications</b>
