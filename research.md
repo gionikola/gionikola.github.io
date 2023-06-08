@@ -7,14 +7,14 @@ subtitle:
 ---
 # <b>Working Papers</b> 
 
-<ins>**"Commercial Bank Heterogeneity and the Transmission of Monetary Policy"**</ins> [Job Market Paper]
+<ins>**"Commercial Bank Heterogeneity and the Transmission of Monetary Policy Through Bank Lending"**</ins> [Job Market Paper, Available Upon Request]
 
 <b>Abstract:</b>
-Insights on the distributional properties of the bank lending channel (BLC) of monetary transmission are scarce and inconclusive.
-I study how different dimensions of bank heterogeneity influence their individual roles in the BLC, with a special focus on the distinction between community and non-community banks in the United States.
-I find that the bank-level responses of lending growth to monetary policy shocks are quite diffuse across both community and non-community banks, but also that the spread of community bank responses to monetary policy shocks is greater than that of non-community banks. 
-My results also suggest that output growth is affected quite differently by shocks to community bank lending than those to non-community bank lending.
-Lastly, I find that community banks play a key role in influencing the real output growth of certain sectors of the U.S. economy. 
+I find empirical evidence that community and noncommunity banks in the United States differ in the extent to which they allow for the pass-through of monetary policy shocks to the real economy via changes in bank lending.
+Using a large panel of quarterly bank-level data, I estimate a structural hierarchical factor-augmented vector autoregression with externally identified monetary policy shocks.
+I then use the estimated model to generate pass-through impulse responses of output growth to monetary policy shocks via community and noncommunity bank lending.
+My results indicate that contractionary monetary policy shocks contribute negatively to both GDP and industrial production through changes in bank lending both in the short and medium run. 
+In the short run, such pass-through of monetary policy occurs mainly via noncommunity bank lending, while community bank lending allows for greater monetary transmission in the medium run.
 
 [<ins>**"Pass-Through Impulse Response Functions"**</ins>](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf) [Submitted]
 
