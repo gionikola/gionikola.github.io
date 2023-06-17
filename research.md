@@ -31,7 +31,7 @@ I estimate a hierarchical dynamic factor model using a Bayesian approach to extr
 The resulting estimates show evidence of both considerable national comovement and state-specific idiosyncrasy with no signs of significant regional comovement. 
 Furthermore, the results show a decrease in the intensity of idiosyncratic dynamics of state-level community bank profitability since the crisis, along with an increase in national comovement across most states.
 
-[<ins>**"Computing Temporary Equilibria using Exact Aggregation"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2022.pdf) (with [David Evans](http://econevans.com/))
+[<ins>**"Computing Temporary Equilibria using Exact Aggregation"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2023.pdf) (with [David Evans](http://econevans.com/))
 
 <b>Abstract:</b>
 We suggest a new method of approximating temporary equilibria in heterogeneous agent models. 
