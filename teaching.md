@@ -47,10 +47,6 @@ The following chart shows student feedback aggregated across my in-person and re
 
 ![student_evals](images/course_evals/student_evaluations.png)
 
-## Remote Asynchronous
-
-![student_evals](images/course_evals/student_evaluations_async.png)
-
 A = "Beneficial to my learning"; B = "Neutral"; C = "Needs improvement".
 
 **Select student comments:**
@@ -60,6 +56,22 @@ A = "Beneficial to my learning"; B = "Neutral"; C = "Needs improvement".
 > I appreciate the effort that it takes to teach a course in such a way that it is very beneficial to the student, something a lot of professors especially in economics that I have been taught by, don't seem to care about. Cheers to you and my experience in your course and classroom is what I wish every economics course I have taken at UO would've been like.
 
 > Great teacher.
+
+## Remote Asynchronous
+
+![student_evals](images/course_evals/student_evaluations_async.png)
+
+A = "Beneficial to my learning"; B = "Neutral"; C = "Needs improvement".
+
+**Select student comments:**
+
+> Very helpful, and wants to help students succeed. This is something I look for in a professor, he goes above and beyond what most professors do.
+
+> Super immersive instructor, spends lots of time helping students understand content
+
+> Gio did a great job keeping this class organized. It was very clear what was expected on a weekly basis and the material progression was very fitting for the work environment.
+
+> He does a good job in teaching, would love to have him as an in-person instructor
 
 ---
 # <b>Teaching Assistance</b>
