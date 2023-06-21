@@ -41,9 +41,15 @@ Similar to EC370, the required textbook for this course at University of Oregon 
 ---
 # <b>Student Feedback</b>
 
-The following chart shows student feedback aggregated across all of my independent courses.
+The following chart shows student feedback aggregated across my in-person and remote (asynchronous) courses, respectively.
+
+## In-Person
 
 ![student_evals](images/course_evals/student_evaluations.png)
+
+## Remote Asynchronous
+
+![student_evals](images/course_evals/student_evaluations_async.png)
 
 A = "Beneficial to my learning"; B = "Neutral"; C = "Needs improvement".
 
