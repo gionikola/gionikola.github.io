@@ -16,7 +16,7 @@ I then use the estimated model to generate pass-through impulse responses of out
 My results indicate that contractionary monetary policy shocks contribute negatively to both GDP and industrial production through changes in bank lending both in the short and medium run. 
 In the short run, such pass-through of monetary policy occurs mainly via noncommunity bank lending, while community bank lending allows for greater monetary transmission in the medium run.
 
-[<ins>**"Pass-Through Impulse Response Functions"**</ins>](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf) [Submitted]
+[<ins>**"Pass-Through Impulse Response Functions"**</ins>](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf)
 
 <b>Abstract:</b>
 Impulse response functions (IRFs) offer little insight regarding the channels through which a shock propagates through a dynamical system. 
