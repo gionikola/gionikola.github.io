@@ -55,6 +55,11 @@ We demonstrate the effectiveness of our procedure by applying it to a model with
 **“Model Uncertainty and Agent Survival”** (with [David Evans](http://econevans.com/))
 
 ---
+# <b>Other Works</b>
+
+[1] [<ins>**"News Shocks under Financial Frictions: A Comment on Görtz et al. (2022)"**</ins>](https://journals.sagepub.com/doi/abs/10.1177/2399808320959079) (with [Thomas Ash](https://sites.google.com/view/thomasash) and [Ethan Struby](https://sites.google.com/site/strubyecon/)) **I4R Discussion Paper Series (2023)**
+
+---
 # <b>Software</b>
 
 ### <b>[DynamicFactorModeling.jl](https://github.com/gionikola/DynamicFactorModeling.jl)</b>
@@ -64,11 +69,3 @@ Julia package for simulating and estimating multi-level/hierarchical dynamic fac
 ### <b>[PassThroughIRF.jl](https://github.com/gionikola/PassThroughIRF.jl)</b>
 
 Julia package for estimating pass-through impulse response functions (PTIRFs).
-
----
-# <b>Other</b>
-
-### <b>Library of Statistical Techniques (LOST)</b>
-
-[LOST](https://lost-stats.github.io/) is an open source website with the goal of making it easy to execute statistical techniques in statistical software.
-I am an author of multiple pages, and have written the Julia sections of others across time series methods. 
