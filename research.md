@@ -7,7 +7,7 @@ subtitle:
 ---
 # <b>Working Papers</b> 
 
-[<ins>**"Commercial Bank Heterogeneity and the Transmission of Monetary Policy Through Bank Lending"**</ins>](https://gionikola.github.io/cv/jmp_nikolaishvili.pdf)) [Job Market Paper]
+[<ins>**"Commercial Bank Heterogeneity and the Transmission of Monetary Policy Through Bank Lending"**</ins>](https://gionikola.github.io/cv/jmp_nikolaishvili.pdf) [Job Market Paper]
 
 <b>Abstract:</b>
 I find empirical evidence that community and noncommunity banks in the United States differ in the extent to which they allow for the pass-through of monetary policy shocks to the real economy via changes in bank lending.
