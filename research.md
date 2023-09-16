@@ -10,11 +10,12 @@ subtitle:
 [<ins>**"Commercial Bank Heterogeneity and the Transmission of Monetary Policy Through Bank Lending"**</ins>](https://gionikola.github.io/cv/jmp_nikolaishvili.pdf) [Job Market Paper]
 
 <b>Abstract:</b>
-I find empirical evidence that community and noncommunity banks in the United States differ in the extent to which they allow for the pass-through of monetary policy shocks to the real economy via changes in bank lending.
-Using a large panel of quarterly bank-level data, I estimate a structural hierarchical factor-augmented vector autoregression with externally identified monetary policy shocks.
-I then use the estimated model to generate pass-through impulse responses of output growth to monetary policy shocks via community and noncommunity bank lending.
-My results indicate that contractionary monetary policy shocks contribute negatively to both GDP and industrial production through changes in bank lending both in the short and medium run. 
-In the short run, such pass-through of monetary policy occurs mainly via noncommunity bank lending, while community bank lending allows for greater monetary transmission in the medium run.
+I study the role of bank heterogeneity in the transmission of monetary policy to the real economy via bank lending. 
+I use the novel approach of pass-through impulse response functions (PT-IRFs), introduced in Nikolaishvili (2023), to quantify and estimate the dynamic response of output attributed to changes in community and noncommunity bank lending as a result of a monetary policy shock. 
+By leveraging a large panel of quarterly bank-level lending series, I estimate a structural hierarchical factor-augmented monetary vector autoregression with externally identified monetary policy shocks. 
+I use the model to estimate and conduct inference on PT-IRFs. 
+My results show evidence that (1) an unexpected monetary tightening indeed contributes negatively to output through changes in bank lending both in the short-to-medium run, as well as (2) community and noncommunity banks in the United States differ in the extent to which their lending behavior allows for the pass-through of monetary policy shocks to output. 
+These findings suggest that considering the composition of the commercial banking sector is crucial in understanding the potency and timing of the effects of monetary policy shocks.
 
 [<ins>**"Pass-Through Impulse Response Functions"**</ins>](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf)
 
