@@ -24,6 +24,13 @@ Impulse response functions (IRFs) offer little insight regarding the channels th
 I formulate the concept of a pass-through impulse response function (PT-IRF), which measures the passage of a structural shock through specific sets of variables in a given system. 
 I demonstrate the applicability of the PT-IRF by performing inference on the effect of a monetary policy shock on unemployment through various channels of the monetary transmission mechanism using a structural vector autoregression.
 
+[<ins>**"Computing Temporary Equilibria using Exact Aggregation"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2023.pdf) (with [David Evans](http://econevans.com/)) [Preparing for Submission]
+
+<b>Abstract:</b>
+We suggest a new method of approximating temporary equilibria in heterogeneous agent models. 
+Our approach offers a significant speedup without a notable drop in accuracy relative to established methods.
+We demonstrate the effectiveness of our procedure by applying it to a model with heterogeneous boundedly rational agents, and comparing its performance to that of alternative methods.
+
 [<ins>**"The Evolution of Community Bank Interconnectedness"**</ins>](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf) [Internal Award: Best Field Paper / PhD Research Paper]
 
 <b>Abstract:</b>
@@ -31,13 +38,6 @@ I find that the community banking sector in the United States has become more in
 I estimate a hierarchical dynamic factor model using a Bayesian approach to extract posterior distributions of national, regional, and state-level latent drivers of quarterly fluctuations in state-average community bank return-on-equity for all 50 US states.
 The resulting estimates show evidence of both considerable national comovement and state-specific idiosyncrasy with no signs of significant regional comovement. 
 Furthermore, the results show a decrease in the intensity of idiosyncratic dynamics of state-level community bank profitability since the crisis, along with an increase in national comovement across most states.
-
-[<ins>**"Computing Temporary Equilibria using Exact Aggregation"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2023.pdf) (with [David Evans](http://econevans.com/))
-
-<b>Abstract:</b>
-We suggest a new method of approximating temporary equilibria in heterogeneous agent models. 
-Our approach offers a significant speedup without a notable drop in accuracy relative to established methods.
-We demonstrate the effectiveness of our procedure by applying it to a model with heterogeneous boundedly rational agents, and comparing its performance to that of alternative methods.
 
 ---
 # <b>Publications</b>
