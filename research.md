@@ -7,7 +7,7 @@ subtitle:
 ---
 # <b>Working Papers</b> 
 
-[<ins>**"Commercial Bank Heterogeneity and the Transmission of Monetary Policy Through Bank Lending"**</ins>](https://gionikola.github.io/cv/jmp_nikolaishvili.pdf) [Job Market Paper]
+[<ins>**"Commercial Bank Heterogeneity and the Transmission of Monetary Policy Through Bank Lending"**</ins>](https://gionikola.github.io/cv/jmp_nikolaishvili.pdf) [**Job Market Paper**; Internal Award: Kleinsorge Research Award]
 
 <b>Abstract:</b>
 I study the role of bank heterogeneity in the transmission of monetary policy to the real economy via bank lending. 
@@ -52,8 +52,6 @@ We demonstrate the effectiveness of our procedure by applying it to a model with
 **“Monetary Pass-Through via Inflation Expectations”** (with [Edder Martínez Lazo](https://economics.uoregon.edu/profile/edderfer/))
 
 **"Estimating Large Bayesian Hierarchical Dynamic Factor Models"**
-
-**“Model Uncertainty and Agent Survival”** (with [David Evans](http://econevans.com/))
 
 ---
 # <b>Other Works</b>
