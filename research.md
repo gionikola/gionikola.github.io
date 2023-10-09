@@ -17,7 +17,7 @@ I use the model to estimate and conduct inference on PT-IRFs.
 My results show evidence that (1) an unexpected monetary tightening indeed contributes negatively to output through changes in bank lending both in the short-to-medium run, as well as (2) community and noncommunity banks in the United States differ in the extent to which their lending behavior allows for the pass-through of monetary policy shocks to output. 
 These findings suggest that considering the composition of the commercial banking sector is crucial in understanding the potency and timing of the effects of monetary policy shocks.
 
-[<ins>**"Pass-Through Impulse Response Functions"**</ins>](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf)
+[<ins>**"Pass-Through Impulse Response Functions (PT-IRFs)"**</ins>](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf)
 
 <b>Abstract:</b>
 Impulse response functions (IRFs) offer little insight regarding the channels through which a shock propagates through a dynamical system. 
@@ -49,7 +49,9 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 ---
 # <b>Works in Progress</b>
 
-**“Monetary Pass-Through via Inflation Expectations”** (with [Edder Martínez Lazo](https://economics.uoregon.edu/profile/edderfer/))
+**“Monetary Pass-Through via Inflation Expectations”** (with [Edder Martínez Lazo](https://economics.uoregon.edu/profile/edderfer/)) 
+
+**"Inference on PT-IRFs: VARs and Local Projections"**
 
 **"Estimating Large Bayesian Hierarchical Dynamic Factor Models"**
 
