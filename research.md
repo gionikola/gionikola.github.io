@@ -54,7 +54,7 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 **"Estimating Large Bayesian Hierarchical Dynamic Factor Models"**
 
 ---
-# <b>Other Works \& Publications </b>
+# <b>Other Works & Publications </b>
 
 [2] [<ins>**"News Shocks under Financial Frictions: A Comment on Görtz et al. (2022)"**</ins>](https://journals.sagepub.com/doi/abs/10.1177/2399808320959079) (with [Thomas Ash](https://sites.google.com/view/thomasash) and [Ethan Struby](https://sites.google.com/site/strubyecon/)) **I4R Discussion Paper Series (2023)**
 
@@ -66,7 +66,3 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 ### <b>[DynamicFactorModeling.jl](https://github.com/gionikola/DynamicFactorModeling.jl)</b>
 
 Julia package for simulating and estimating multi-level/hierarchical dynamic factor models (HDFMs).
-
-### <b>[PassThroughIRF.jl](https://github.com/gionikola/PassThroughIRF.jl)</b>
-
-Julia package for estimating pass-through impulse response functions (PTIRFs).
