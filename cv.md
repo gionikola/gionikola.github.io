@@ -4,4 +4,4 @@ title: Curriculum Vitae
 subtitle: 
 ---
 
-Download my CV [here](cv/cv_giorginikolaishvili.pdf).
+Click [here](cv/cv_giorginikolaishvili.pdf) to open my CV.
