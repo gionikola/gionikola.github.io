@@ -16,7 +16,7 @@ I estimate PT-IRFs using a factor-augmented vector autoregression with externall
 My results show that: 
 (1) An unanticipated monetary tightening contributes negatively to output through changes in bank lending, both in the short and medium run; 
 (2) Community and noncommunity banks differ in the extent to which their lending behavior allows for the pass-through of monetary policy shocks to output.
-These findings highlight the importance of the composition of the commercial banking in assessing the potency and timing of monetary transmission.
+These findings highlight the importance of the composition of the commercial banking sector in assessing the potency and timing of monetary transmission.
 
 [<ins>**"Pass-Through Impulse Response Functions (PT-IRFs)"**</ins>](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf) [New Draft Coming Soon]
 
