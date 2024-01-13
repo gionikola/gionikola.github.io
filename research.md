@@ -10,13 +10,13 @@ subtitle:
 [<ins>**"Commercial Bank Heterogeneity and the Transmission of Monetary Policy Through Bank Lending"**</ins>](https://gionikola.github.io/cv/jmp_nikolaishvili.pdf) [**Job Market Paper**; Internal Award: Kleinsorge Research Award]
 
 <b>Abstract:</b>
-I study the role of bank heterogeneity in the transmission of monetary policy to the real economy via bank lending.
-Using the novel pass-through impulse response function (PT-IRF) -- introduced in Nikolaishvili (2023) -- I quantify the respective contributions of community and noncommunity bank lending in the United States to the dynamic effect of a monetary policy shock on output.
-I estimate PT-IRFs using a factor-augmented vector autoregression with externally-identified monetary policy shocks and hierarchical bank lending factors based on a large panel of bank-level data.
-My results show that: 
-(1) An unanticipated monetary tightening contributes negatively to output through changes in bank lending, both in the short and medium run; 
-(2) Community and noncommunity banks differ in the extent to which their lending behavior allows for the pass-through of monetary policy shocks to output.
-These findings highlight the importance of the composition of the commercial banking sector in assessing the potency and timing of monetary transmission.
+The commercial banking sector in the United States comprises numerous small, local (community) banks primarily focused on small business lending, alongside a smaller group of large, geographically-diversified (non-community) banks that cater to larger borrowers.
+I study how heterogeneity in lending practices across these two types of banks influences the transmission of monetary policy to the real economy.
+Using the novel pass-through impulse response function (PT-IRF) introduced in Nikolaishvili (2023), I quantify the contributions of community versus noncommunity bank lending to the dynamic effect of a monetary policy shock on output.
+My findings show that noncommunity bank lending amplifies the contractionary effects of a monetary tightening in the short run, whereas community bank lending has a stronger amplificatory contribution in the medium run.
+These results suggest that a continued decline in the relative presence of community banks may lead to a subsequent decline in the persistence of monetary transmission.
+Furthermore, the adverse impact of a monetary tightening on spending must linger more heavily among small businesses and agricultural producers in remote rural areas, since these borrower segments tend to heavily rely on community bank lending as a source of funds.
+In short, I show that the composition of the commercial banking sector affects the timing and distributional impact of monetary policy transmission through heterogeneity in lending practices.
 
 [<ins>**"Pass-Through Impulse Response Functions (PT-IRFs)"**</ins>](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf) [New Draft Coming Soon]
 
