@@ -167,6 +167,8 @@ Here are some resources from which I've benefitted greatly over the years, both 
 
 - [PhD Research and Writing Seminar -- Eric Sims](https://www3.nd.edu/~esims1/grad_writing.html)
 
+- [Data Science Texts](https://datasciencetexts.com/homepage.html)
+
 - [The Missing Semester of Your CS Education -- MIT](https://missing.csail.mit.edu/)
 
 - [Hands-on Scientific Computing](https://handsonscicomp.readthedocs.io/en/latest/)
@@ -174,3 +176,4 @@ Here are some resources from which I've benefitted greatly over the years, both 
 - [Probability, Mathematical Statistics, Stochastic Processes](http://www.randomservices.org/random/index.html)
 
 - [Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
+
