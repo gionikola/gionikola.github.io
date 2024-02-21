@@ -5,6 +5,11 @@ subtitle:
 ---
 <style>body {text-align: justify}</style>
 ---
+
+> "If you're teaching a class, you can think about the elementary things that you know very well. These things are kind of fun and delightful. It doesn't do any harm to think them over again. Is there a better way to present them? Are there any new problems associated with them? Are there any new thoughts you can make about them? The elementary things are easy to think about; if you can't think of a new thought, no harm done; what you thought about it before is good enough for the class. If you do think of something new, you're rather pleased that you have a new way of looking at it... I find that teaching and the students keep life going, and I would never accept any position in which somebody has invented a happy situation for me where I don't have to teach. Never."
+>
+> -- <cite>Richard Feynman, <i>Surely You're Joking, Mr. Feynman!</i></cite>
+
 # <b>Independent Courses</b>
 
 The following is a list of courses that I have independently prepared and taught as the instructor of record.
