@@ -142,3 +142,5 @@ Here are some resources from which I've benefitted greatly over the years, both 
 
 - [Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
 
+- [Spurious Correlations](https://www.tylervigen.com/spurious-correlations)
+
