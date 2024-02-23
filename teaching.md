@@ -10,7 +10,7 @@ subtitle:
 >
 > <p style='text-align: right;'> -- <cite>Richard Feynman, <i>Surely You're Joking, Mr. Feynman!</i></cite> </p>
 
-# <b>Independent Courses</b>
+# <b>Courses</b>
 
 The following is a list of courses that I have independently prepared and taught as the instructor of record.
 
@@ -42,51 +42,6 @@ Summer 2021. Class size: 30.
 In this course I teach students how the monetary system functions, and how central banks may use monetary policy to manipulate its trajectory.
 I put less emphasis on quantitative modeling skills (for which the UO Econ. Department offers other advanced macroeconomics courses), and more on economic intuition, historical awareness, and institutional knowledge.
 Similar to EC370, the required textbook for this course at University of Oregon is Frederic Mishkin's <i>Economics of Money, Banking and Financial Markets</i>, but I prefer to use Laurence Ball's <i>Money, Banking and Financial Markets</i> for its exceptionally friendly exposition.
-
----
-# <b>Teaching Assistance</b>
-
-The following is a list of courses I have assisted as TA.
-
-### <b>Introduction to Econometrics (EC320)</b>
-
-Spring 2022.
-
-Undergraduate-level course taught by Emmett Saulnier. 
-
-Access my weekly R coding labs on [GitHub](https://github.com/emmettsaulnier/EC320s22).
-
-### <b>Advanced Macroeconomic Theory (EC413/513)</b>
-
-Winter 2022.
-
-Master's-level macroeconomics course taught by Prof. George Evans.
-
-### <b>Intermediate Macroeconomic Theory (EC313)</b>
-
-Winter 2022. 
-
-Undergraduate-level macroeconomics course taught by Prof. David Evans.
-
-### <b>Doctoral Macroeconomics III (EC607)</b>
-
-Spring 2021.
-
-Final module in the PhD Core Macro sequence taught by Prof. David Evans.
-
-Access my weekly Julia coding labs on [GitHub](https://github.com/gionikola/spring2021_core_macro_lab).
-
-### <b>Doctoral Macroeconomics II (EC607)</b>
-
-Winter 2021. 
-
-Second module in the PhD Core Macro sequence taught by Prof. Shankha Chakraborty.
-
-### <b>Doctoral Macroeconomics I (EC607)</b>
-
-Fall 2020.
-
-First module in the PhD Core Macro sequence taught by Prof. Bruce McGough.
 
 ---
 # <b>Resources</b>
@@ -121,9 +76,13 @@ Here are some resources from which I've benefitted greatly over the years, both 
 
 - [Quantitative Economics with Julia](https://julia.quantecon.org/intro.html)
 
+- [My weekly coding labs for PhD Comp Econ Field Course at University of Oregon](https://github.com/gionikola/spring2021_core_macro_lab)
+
 ### <b>R</b>
 
 - [Data Science for Economics -- Grant McDermott](https://github.com/uo-ec607/lectures)
+
+- [My weekly coding labs for undergraduate introductory econometrics at University of Oregon](https://github.com/emmettsaulnier/EC320s22).
 
 ### <b>LaTeX</b>
  
