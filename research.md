@@ -52,7 +52,7 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 
 **"Inference on PT-IRFs: VARs and Local Projections"**
 
-**“Monetary Transmission via Expectations in DSGEs with Bounded Rationality”** (with [Edder Martínez Lazo]([https://economics.uoregon.edu/profile/edderfer/](https://cas.uoregon.edu/directory/social-sciences/all/edderfer))) 
+**“Monetary Transmission via Expectations in DSGEs with Bounded Rationality”** (with [Edder Martínez Lazo](https://cas.uoregon.edu/directory/social-sciences/all/edderfer)) 
 
 ---
 # <b>Other Works & Publications </b>
