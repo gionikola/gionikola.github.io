@@ -31,7 +31,9 @@ Here are some (free) resources from which I've benefitted greatly over the years
 
 - [Lectures on the The Federal Reserve and the Financial Crisis (Parts 1-4) -- Ben Bernanke](https://www.youtube.com/watch?v=E3fFg8XIS0k)
 
-- [Financial Markets (Yale, 2011) -- Robert Shiller](https://www.youtube.com/playlist?list=PL8FB14A2200B87185)
+- [Financial Markets (Yale) -- Robert Shiller](https://www.youtube.com/playlist?list=PL8FB14A2200B87185)
+
+- [The Failure of Silicon Valley Bank: Everything You Need to Know about Banking and Bailouts (Yale) -- Andrew Metrick](https://www.youtube.com/watch?v=E9V50YSNIbI)
 
 - [Statistical Modeling of Monetary Policy and its Effects -- Chris Sims](https://www.youtube.com/watch?v=ipw7zPRa_TI&list=PLHQhFGpFT9WiU8pJNovZ2gHRiTGGzxM1E&index=18)
   
