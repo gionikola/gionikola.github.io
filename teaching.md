@@ -12,7 +12,7 @@ subtitle:
 
 # <b>Courses</b>
 
-A list of courses I am currently teaching and have taught in the past:
+A list of courses I am currently teaching / have taught in the past:
 
 - <b>Intermediate Macroeconomic Theory</b>, University of Oregon
 - <b>Money and Banking</b>, University of Oregon
