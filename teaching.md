@@ -35,7 +35,7 @@ Here are some (free) resources from which I've benefitted greatly over the years
 
 - [The Failure of Silicon Valley Bank: Everything You Need to Know about Banking and Bailouts (Yale) -- Andrew Metrick](https://www.youtube.com/watch?v=E9V50YSNIbI)
 
-- [Statistical Modeling of Monetary Policy and its Effects -- Chris Sims](https://www.youtube.com/watch?v=ipw7zPRa_TI&list=PLHQhFGpFT9WiU8pJNovZ2gHRiTGGzxM1E&index=18)
+- [Statistical Modeling of Monetary Policy and its Effects -- Chris Sims](https://www.youtube.com/watch?v=ipw7zPRa_TI)
   
 - [PhD Monetary Economics -- John Cochrane & Tom Sargent](https://www.johnhcochrane.com/monetary-economics-phd-course)
 
@@ -46,6 +46,8 @@ Here are some (free) resources from which I've benefitted greatly over the years
 - [PhD Macro Theory II -- Eric Sims](https://www3.nd.edu/~esims1/grad_macro_17.html)
 
 - [PhD Advanced Macro -- Eric Sims](https://www3.nd.edu/~esims1/adv_macro_2021.html)
+
+- [The Bank Lending Channel -- Jeremy Stein](https://www.youtube.com/watch?v=o6shJDC72cw)
 
 ### <b>Time Series Econometrics/Analysis</b>
 
