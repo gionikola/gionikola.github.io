@@ -27,7 +27,7 @@ Here are some (free) resources from which I've benefitted greatly over the years
 
 - [Comprehensive Archive of Federal Open Market Committee Materials (minutes, policy statements, projections, etc.)](https://www.federalreserve.gov/monetarypolicy/fomc_historical.htm)
 
-- [Intemediate Macroeconomics (latest manuscript version) -- Garin, Lester, and Sims](https://juliogarin.com/files/textbook/GLS_Intermediate_Macro.pdf)
+- [Intemediate Macroeconomics (latest manuscript) -- Garin, Lester, and Sims](https://juliogarin.com/files/textbook/GLS_Intermediate_Macro.pdf)
 
 - [Lectures on the The Federal Reserve and the Financial Crisis (Parts 1-4) -- Ben Bernanke](https://www.youtube.com/watch?v=E3fFg8XIS0k)
 
