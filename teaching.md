@@ -12,49 +12,32 @@ subtitle:
 
 # <b>Courses</b>
 
-The following is a list of courses that I have independently prepared and taught as the instructor of record.
+A list of courses I am currently teaching and have taught in the past:
 
-### <b>Intermediate Macroeconomic Theory (EC313)</b>
-
-Asynchronous. Spring 2023. Class size: 120.
-
-<b>Description:</b> 
-This class is designed to provide economics majors and minors, as well as interested non-majors, the theoretical foundations necessary to understand the macroeconomic problems commonly confronted in developed market economies, and to evaluate solutions to those problems. 
-I teach students how to build models that help explain fluctuations in output, employment, the price level, inflation, interest rates, and other key macroeconomic variables. 
-Students also learn how to use models to understand how policy changes (for example, monetary policy, tax reductions, and deficit spending) may affect macroeconomic variables, with primary applications to the U.S. and other developed economies.
-I build my course content around Olivier Blanchard's 8th edition of <i>Macroeconomics</i> using recent data, and provide more detailed coverage of certain topics.
-
-### <b>Money and Banking (EC370)</b>
-
-Fall 2021. Winter 2023. Class size: 60.
-
-<b>Description:</b> 
-In this course I teach students how the monetary and banking systems function, interact, and ultimately cause fluctuations in the macroeconomy.
-I tend to put more emphasis on an intuitive understanding of how the incentives of key players and institutions across both systems drive their decision-making, which I leverage to construct simplified yet informative models of the aggregate economy.
-I then try to apply the models to as many historical episodes and realistic hypothetical scenarios as I possibly can, given the time constraint. 
-The usual required textbook for this course at University of Oregon is Frederic Mishkin's <i>Economics of Money, Banking and Financial Markets</i>, but I prefer to use Laurence Ball's <i>Money, Banking and Financial Markets</i> while also drawing upon Mishkin's materials and <i>Foundations of Financial Markets and Institutions</i> (Fabozzi et al.).
-
-### <b>Monetary Policy (EC470)</b>
-
-Summer 2021. Class size: 30.
-
-<b>Description:</b>
-In this course I teach students how the monetary system functions, and how central banks may use monetary policy to manipulate its trajectory.
-I put less emphasis on quantitative modeling skills (for which the UO Econ. Department offers other advanced macroeconomics courses), and more on economic intuition, historical awareness, and institutional knowledge.
-Similar to EC370, the required textbook for this course at University of Oregon is Frederic Mishkin's <i>Economics of Money, Banking and Financial Markets</i>, but I prefer to use Laurence Ball's <i>Money, Banking and Financial Markets</i> for its exceptionally friendly exposition.
+- <b>Intermediate Macroeconomic Theory</b>, University of Oregon
+- <b>Money and Banking</b>, University of Oregon
+- <b>Monetary Policy</b>, University of Oregon
 
 ---
 # <b>Resources</b>
 
-Here are some resources from which I've benefitted greatly over the years, both as a teacher and a student:
+Here are some (free) resources from which I've benefitted greatly over the years, both as a teacher and a student:
 
-### <b>Macroeconomics & Monetary Economics</b>
+### <b>Macro, Financial, and Monetary Economics</b>
 
-- [PhD Monetary Economics -- John H. Cochrane & Tom Sargent](https://www.johnhcochrane.com/monetary-economics-phd-course)
+- [Comprehensive Archive of Federal Open Market Committee Materials (minutes, policy statements, projections, etc.)](https://www.federalreserve.gov/monetarypolicy/fomc_historical.htm)
+
+- [Intemediate Macroeconomics by Garin, Lester, and Sims (latest manuscript version)](https://juliogarin.com/files/textbook/GLS_Intermediate_Macro.pdf)
+
+- [Lectures on the The Federal Reserve and the Financial Crisis (Parts 1-4) -- Ben Bernanke](https://www.youtube.com/watch?v=E3fFg8XIS0k)
+
+- [Financial Markets (Yale, 2011) -- Robert Shiller](https://www.youtube.com/playlist?list=PL8FB14A2200B87185)
 
 - [Statistical Modeling of Monetary Policy and its Effects -- Chris Sims](https://www.youtube.com/watch?v=ipw7zPRa_TI&list=PLHQhFGpFT9WiU8pJNovZ2gHRiTGGzxM1E&index=18)
+  
+- [PhD Monetary Economics -- John Cochrane & Tom Sargent](https://www.johnhcochrane.com/monetary-economics-phd-course)
 
-- [Lectures Notes on Graduate Macroeconomics -- Christopher Carroll](http://www.econ2.jhu.edu/people/ccarroll/public/lecturenotes/IndexAll/Index/)
+- [Lectures Notes on Graduate Macroeconomics -- Christopher Carroll](https://www.econ2.jhu.edu/people/ccarroll/public/lecturenotes/)
 
 - [Notes on Computational Methods for Macroeconomics -- Makoto Nakajima](https://makotonakajima.github.io/comp/)
 
@@ -66,15 +49,15 @@ Here are some resources from which I've benefitted greatly over the years, both 
 
 - [Time Series for Macroeconomics and Finance -- John H. Cochrane](https://econ.lse.ac.uk/staff/wdenhaan/teach/cochrane.pdf)
 
-- [Applied Bayesian Econometrics for Central Bankers](https://www.bankofengland.co.uk/ccbs/applied-bayesian-econometrics-for-central-bankers-updated-2017)
+- [Applied Bayesian Econometrics for Central Bankers -- Andrew Blake and Haroon Mumtaz](https://www.bankofengland.co.uk/ccbs/applied-bayesian-econometrics-for-central-bankers-updated-2017)
 
 ### <b>Julia</b>
 
-- [Introduction to Computational Thinking -- MIT](https://computationalthinking.mit.edu/Spring21/)
+- [Introduction to Computational Thinking (MIT) -- Alan Edelman, David Sanders, and Charles Leiserson](https://computationalthinking.mit.edu/Spring21/)
 
-- [First Semester in Numerical Analysis with Julia -- MIT](https://open.umn.edu/opentextbooks/textbooks/710)
+- [First Semester in Numerical Analysis with Julia -- Giray Ökten](https://open.umn.edu/opentextbooks/textbooks/710)
 
-- [Quantitative Economics with Julia](https://julia.quantecon.org/intro.html)
+- [Quantitative Economics with Julia -- Jesse Perla, Tom Sargent, and John Stachurski](https://julia.quantecon.org/intro.html)
 
 - [My weekly coding labs for PhD Comp Econ Field Course at University of Oregon](https://github.com/gionikola/spring2021_core_macro_lab)
 
@@ -98,7 +81,7 @@ Here are some resources from which I've benefitted greatly over the years, both 
 
 - [Data Science Texts](https://datasciencetexts.com/homepage.html)
 
-- [The Missing Semester of Your CS Education -- MIT](https://missing.csail.mit.edu/)
+- [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu/)
 
 - [Hands-on Scientific Computing](https://handsonscicomp.readthedocs.io/en/latest/)
 
@@ -106,5 +89,5 @@ Here are some resources from which I've benefitted greatly over the years, both 
 
 - [Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
 
-- [Spurious Correlations](https://www.tylervigen.com/spurious-correlations)
+- [Spurious Correlations -- Tyler Vigen](https://www.tylervigen.com/spurious-correlations)
 
