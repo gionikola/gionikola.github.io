@@ -21,7 +21,7 @@ A list of courses I am currently teaching / have taught in the past as the instr
 ---
 # <b>Resources</b>
 
-Here are some (free) resources from which I've benefitted greatly over the years, both as a teacher and a student:
+Here are some (free) resources from which I've benefited greatly over the years, both as a teacher and a student:
 
 ### <b>Macro, Financial, and Monetary Economics</b>
 
