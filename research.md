@@ -7,7 +7,14 @@ subtitle:
 ---
 # <b>Working Papers</b> 
 
-[<ins>**"Commercial Bank Heterogeneity and the Transmission of Monetary Policy Through Bank Lending"**</ins>](https://gionikola.github.io/cv/jmp_nikolaishvili.pdf) [**Job Market Paper**; Internal Award: Kleinsorge Research Award]
+[<ins>**"Pass-Through Impulse Response Functions (PT-IRFs)"**</ins>](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf) [New Draft Coming Soon]
+
+<b>Abstract:</b>
+Impulse response functions (IRFs) offer little insight regarding the channels through which a shock propagates through a dynamical system. 
+I formulate the concept of a pass-through impulse response function (PT-IRF), which measures the passage of a structural shock through specific sets of variables in a given system. 
+I demonstrate the applicability of the PT-IRF by performing inference on the effect of a monetary policy shock on unemployment through various channels of the monetary transmission mechanism using a structural vector autoregression.
+
+[<ins>**"Commercial Bank Heterogeneity and the Transmission of Monetary Policy Through Bank Lending"**</ins>](https://gionikola.github.io/cv/jmp_nikolaishvili.pdf) [Kleinsorge Research Award (University of Oregon)]
 
 <b>Abstract:</b>
 The commercial banking sector in the United States comprises numerous small, local (community) banks primarily focused on small business lending, alongside a smaller group of large, geographically-diversified (non-community) banks that cater to larger borrowers.
@@ -18,13 +25,6 @@ These results suggest that a continued decline in the relative presence of commu
 Furthermore, the adverse impact of a monetary tightening on spending must linger more heavily among small businesses and agricultural producers in remote rural areas, since these borrower segments tend to heavily rely on community bank lending as a source of funds.
 In short, I show that the composition of the commercial banking sector affects the timing and distributional impact of monetary policy transmission through heterogeneity in lending practices.
 
-[<ins>**"Pass-Through Impulse Response Functions (PT-IRFs)"**</ins>](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf) [New Draft Coming Soon]
-
-<b>Abstract:</b>
-Impulse response functions (IRFs) offer little insight regarding the channels through which a shock propagates through a dynamical system. 
-I formulate the concept of a pass-through impulse response function (PT-IRF), which measures the passage of a structural shock through specific sets of variables in a given system. 
-I demonstrate the applicability of the PT-IRF by performing inference on the effect of a monetary policy shock on unemployment through various channels of the monetary transmission mechanism using a structural vector autoregression.
-
 [<ins>**"Computing Temporary Equilibria using Exact Aggregation"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2023.pdf) (with [David Evans](http://econevans.com/)) [Preparing for Submission]
 
 <b>Abstract:</b>
@@ -32,7 +32,7 @@ We suggest a new method of approximating temporary equilibria in heterogeneous a
 Our approach offers a significant speedup without a notable drop in accuracy relative to established methods.
 We demonstrate the effectiveness of our procedure by applying it to a model with heterogeneous boundedly rational agents, and comparing its performance to that of alternative methods.
 
-[<ins>**"The Evolution of Community Bank Interconnectedness"**</ins>](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf) [Internal Award: Best Field Paper / PhD Research Paper]
+[<ins>**"The Evolution of Community Bank Interconnectedness"**</ins>](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf) [Best Field Paper / PhD Research Paper (University of Oregon)]
 
 <b>Abstract:</b>
 I find that the community banking sector in the United States has become more interconnected since the global financial crisis, which implies greater exposure to systemic risk and increased vulnerability in future financial crises.
@@ -56,6 +56,8 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 
 ---
 # <b>Other Works & Publications </b>
+
+[3] [<ins>**"Mass Reproducibility and Replicability: A New Hope"**</ins>](https://econpapers.repec.org/paper/zbwi4rdps/107.htm) (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/), [Derek Mikola](https://sites.google.com/view/derekmikola/), [Nikolai Cook](https://sites.google.com/site/nikolaimcook/home), and many others) **I4R Discussion Paper Series (2023)**
 
 [2] [<ins>**"News Shocks under Financial Frictions: A Comment on Görtz et al. (2022)"**</ins>](https://journals.sagepub.com/doi/abs/10.1177/2399808320959079) (with [Thomas Ash](https://sites.google.com/view/thomasash) and [Ethan Struby](https://sites.google.com/site/strubyecon/)) **I4R Discussion Paper Series (2023)**
 
