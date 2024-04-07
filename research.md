@@ -59,7 +59,7 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 
 [3] [<ins>**"Mass Reproducibility and Replicability: A New Hope"**</ins>](https://econpapers.repec.org/paper/zbwi4rdps/107.htm) (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/), [Derek Mikola](https://sites.google.com/view/derekmikola/), [Nikolai Cook](https://sites.google.com/site/nikolaimcook/home), and many others) **I4R Discussion Paper Series (2024)**
 
-[2] [<ins>**"News Shocks under Financial Frictions: A Comment on Görtz et al. (2022)"**</ins>](https://journals.sagepub.com/doi/abs/10.1177/2399808320959079) (with [Thomas Ash](https://sites.google.com/view/thomasash) and [Ethan Struby](https://sites.google.com/site/strubyecon/)) **I4R Discussion Paper Series (2023)**
+[2] [<ins>**"News Shocks under Financial Frictions: A Comment on Görtz et al. (2022)"**</ins>](https://econpapers.repec.org/paper/zbwi4rdps/51.htm) (with [Thomas Ash](https://sites.google.com/view/thomasash) and [Ethan Struby](https://sites.google.com/site/strubyecon/)) **I4R Discussion Paper Series (2023)**
 
 [1] [<ins>**"Using deep learning to examine the correlation between transportation planning and perceived safety of the built environment"**</ins>](https://journals.sagepub.com/doi/abs/10.1177/2399808320959079) (with Justin Hollander, Alphonsus Adu-Bredu, Minyu Situ, and Shabnam Bista) **Environment and Planning B: Urban Analytics and City Science (2021)**
 
