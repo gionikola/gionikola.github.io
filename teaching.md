@@ -65,6 +65,8 @@ Here are some (free) resources from which I've benefited greatly over the years,
 
 - [My weekly coding labs for PhD Comp Econ Field Course at University of Oregon](https://github.com/gionikola/spring2021_core_macro_lab)
 
+- [Fundamentals of Numerical Computation (Julia Edition) -- Tobin Driscoll and Richard Braun](https://tobydriscoll.net/fnc-julia/home.html)
+
 ### <b>R</b>
 
 - [Data Science for Economics -- Grant McDermott](https://github.com/uo-ec607/lectures)
