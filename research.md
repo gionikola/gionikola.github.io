@@ -8,7 +8,7 @@ subtitle:
 
 > I can predict the movement of heavenly bodies, but not the madness of crowds.
 >
-> <p style='text-align: right;'> -- <cite>Isaac Newton</i></cite> </p>
+> <p style='text-align: right;'> -- <cite>Isaac Newton</cite> </p>
 
 # <b>Working Papers</b> 
 
