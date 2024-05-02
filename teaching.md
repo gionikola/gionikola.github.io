@@ -73,7 +73,7 @@ Here are some (free) resources from which I've benefited greatly over the years,
 
 - [My weekly coding labs for undergraduate introductory econometrics at University of Oregon](https://github.com/emmettsaulnier/EC320s22).
 
-### <b>LaTeX</b>
+### <b>Typesetting</b>
  
 - [Take Notes in Mathematics Lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
 
@@ -94,6 +94,8 @@ Here are some (free) resources from which I've benefited greatly over the years,
 - [Probability, Mathematical Statistics, Stochastic Processes](http://www.randomservices.org/random/index.html)
 
 - [Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
+
+- [The Big Picture of Linear Algebra -- Gilbert Strang](https://www.youtube.com/watch?v=ggWYkes-n6E) (This simple video helped me ace linear algebra in 2017 :))
 
 - [Spurious Correlations -- Tyler Vigen](https://www.tylervigen.com/spurious-correlations)
 
