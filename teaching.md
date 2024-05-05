@@ -57,7 +57,7 @@ Here are some (free) resources from which I've benefited greatly over the years,
 
 ### <b>Other Econometrics</b>
 
-- [Panel Data Econometrics](https://chrisconlon.github.io/metrics.html)
+- [Panel Data Econometrics -- Chris Conlon](https://chrisconlon.github.io/metrics.html)
 
 ### <b>Julia</b>
 
