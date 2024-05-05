@@ -55,6 +55,10 @@ Here are some (free) resources from which I've benefited greatly over the years,
 
 - [Applied Bayesian Econometrics for Central Bankers -- Andrew Blake and Haroon Mumtaz](https://www.bankofengland.co.uk/ccbs/applied-bayesian-econometrics-for-central-bankers-updated-2017)
 
+### <b>Other Econometrics</b>
+
+- [Panel Data Econometrics](https://chrisconlon.github.io/metrics.html)
+
 ### <b>Julia</b>
 
 - [Introduction to Computational Thinking (MIT) -- Alan Edelman, David Sanders, and Charles Leiserson](https://computationalthinking.mit.edu/Spring21/)
