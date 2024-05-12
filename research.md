@@ -12,16 +12,16 @@ subtitle:
 
 # <b>Working Papers</b> 
 
-[<ins>**"Pass-Through Impulse Response Functions (PT-IRFs)"**</ins>](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf) [New Draft Coming Soon]
+[<ins>**"Measuring Dynamic Transmission using Pass-Through Impulse Response Functions"**</ins>](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf) 
 
 <b>Abstract:</b>
-An impulse response function (IRF) captures the net dynamic effect of a shock, but offers no insight regarding the composition of the effect.
-Instead, the quantification of shock transmission channels is commonly done using structural parameter counterfactual exercises.
-In this paper, I formulate the concept of a pass-through IRF (PT-IRF) and propose it as a reduced-form alternative to measuring transmission channel dynamics.
-In essence, a PT-IRF quantifies the propagation of a shock through the Granger causality of a specified set of endogenous media within a dynamical system.
-I present convenient parametric and semi-parametric methods of conducting inference on PT-IRFs, and discuss their practical advantages over alternative methods of transmission channel quantification.
-I also demonstrate the empirical flexibility of PT-IRFs by applying them to study the transmission of oil price shocks to key macroeconomic variables via monetary policy, and monetary policy shocks to output via credit supply.
-Finally, I present an example case in which PT-IRFs have a direct structural interpretation. 
+An impulse response function (IRF) captures the net dynamic effect of a shock, but offers no insight regarding the composition of the effect. 
+Instead, the quantification of shock transmission channels is commonly done using structural parameter counterfactual exercises. 
+In this paper, I formulate the concept of a pass-through IRF (PT-IRF) and propose it as a reduced-form alternative to measuring transmission channel dynamics. 
+In essence, a PT-IRF quantifies the propagation of a shock through the Granger causality of a specified set of endogenous media within a dynamical system. 
+I present convenient parametric and semi-parametric methods of conducting inference on PT-IRFs, and discuss their practical advantages over alternative methods of transmission channel quantification. 
+I also demonstrate the empirical flexibility of PT-IRFs by applying them to study the transmission of oil price shocks to inflation and output via monetary policy, and monetary policy shocks to output via credit supply.
+Finally, I present two example cases in which PT-IRFs have a direct structural interpretation.
 
 [<ins>**"Commercial Bank Heterogeneity and the Transmission of Monetary Policy Through Bank Lending"**</ins>](https://gionikola.github.io/cv/jmp_nikolaishvili.pdf) [Kleinsorge Research Award (University of Oregon)]
 
