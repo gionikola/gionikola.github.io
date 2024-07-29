@@ -77,6 +77,8 @@ Here are some (free) resources from which I've benefited greatly over the years,
 
 - [Organizing your R code into a package -- Eli Holmes](https://rverse-tutorials.github.io/RWorkflow/week4-packages.html)
 
+- [R Packages (2ed) -- Hadley Wickham and Jennifer Bryan](https://r-pkgs.org/)
+
 - [My weekly coding labs for undergraduate introductory econometrics at University of Oregon](https://github.com/emmettsaulnier/EC320s22).
 
 ### <b>Typesetting</b>
