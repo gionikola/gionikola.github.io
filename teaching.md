@@ -60,6 +60,8 @@ Here are some (free) resources from which I've benefited greatly over the years,
 
 - [Panel Data Econometrics -- Chris Conlon](https://chrisconlon.github.io/metrics.html)
 
+- [Econometrics Books (A list of econometrics books by topic)](https://www.econometricsbooks.com/#timeseries)
+
 ### <b>Julia</b>
 
 - [Introduction to Computational Thinking (MIT) -- Alan Edelman, David Sanders, and Charles Leiserson](https://computationalthinking.mit.edu/Spring21/)
