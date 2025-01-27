@@ -21,23 +21,21 @@ This approach has fewer informational requirements than alternative methods, suc
 A PT-IRF only requires the specification of a reduced-form VAR and identification of a shock of interest, bypassing the need to either build a structural model or identify multiple shocks.
 I demonstrate the flexibility of PT-IRFs by empirically analyzing the indirect dynamic transmission of oil price shocks to inflation and output via interest rates, as well as the indirect dynamic effect of monetary policy shocks on output via changes in credit supply.
 
-[<ins>**"Commercial Bank Heterogeneity and the Transmission of Monetary Policy Through Bank Lending"**</ins>](https://gionikola.github.io/cv/jmp_nikolaishvili.pdf) [Kleinsorge Research Award (University of Oregon)]
+[<ins>**"Monetary Transmission Through Community and Noncommunity Bank Lending"**</ins>](https://gionikola.github.io/cv/jmp_nikolaishvili.pdf) [Kleinsorge Research Award (University of Oregon)]
 
 <b>Abstract:</b>
-The commercial banking sector in the United States comprises numerous small, local (community) banks primarily focused on small business lending, alongside a smaller group of large, geographically-diversified (non-community) banks that cater to larger borrowers.
-I study how heterogeneity in lending practices across these two types of banks influences the transmission of monetary policy to the real economy.
-Using the novel pass-through impulse response function (PT-IRF) introduced in Nikolaishvili (2023), I quantify the contributions of community versus noncommunity bank lending to the dynamic effect of a monetary policy shock on output.
-My findings show that noncommunity bank lending amplifies the contractionary effects of a monetary tightening in the short run, whereas community bank lending has a stronger amplificatory contribution in the medium run.
-These results suggest that a continued decline in the relative presence of community banks may lead to a subsequent decline in the persistence of monetary transmission.
-Furthermore, the adverse impact of a monetary tightening on spending must linger more heavily among small businesses and agricultural producers in remote rural areas, since these borrower segments tend to heavily rely on community bank lending as a source of funds.
-In short, I show that the composition of the commercial banking sector affects the timing and distributional impact of monetary policy transmission through heterogeneity in lending practices.
+This paper examines the dynamic macroeconomic effects of monetary transmission through community and noncommunity bank lending in the United States. 
+I find that while both types of banks amplify the impact of monetary policy shocks on output, community banks exhibit a more delayed and persistent amplificatory influence than their noncommunity counterparts. 
+These results suggest that continued decline in community banks' market share may dampen the efficacy of monetary policy over longer horizons. 
+Moreover, the adverse real effects of monetary tightening are likely to be longer-lasting for small business borrowers who depend on community banks for funding.
 
-[<ins>**"Computing Temporary Equilibria using Exact Aggregation"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2023.pdf) (with [David Evans](http://econevans.com/)) [Preparing for Submission]
+[<ins>**"Computing Temporary Equilibria using Exact Aggregation"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2023.pdf) (with [David Evans](http://econevans.com/))
 
 <b>Abstract:</b>
-We suggest a new method of approximating temporary equilibria in heterogeneous agent models. 
-Our approach offers a significant speedup without a notable drop in accuracy relative to established methods.
-We demonstrate the effectiveness of our procedure by applying it to a model with heterogeneous boundedly rational agents, and comparing its performance to that of alternative methods.
+Simulations of heterogeneous agents models with multiple markets in the style of Krusell and Smith (1997, 1998) require solving for market-clearing conditions at each period to determine temporary equilibria. 
+Existing solution procedures can be computationally intensive, especially in settings with a high-dimensional state space and large number of agents. 
+We suggest a new method of approximating temporary equilibria in heterogeneous agents models that offers a speedup of multiple orders of magnitude compared to a conventional benchmark. 
+We demonstrate the effectiveness of our procedure by applying it to a model with heterogeneous boundedly rational agents featuring a large idiosyncratic state space.
 
 [<ins>**"The Evolution of Community Bank Interconnectedness"**</ins>](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf) [Best Field Paper / PhD Research Paper (University of Oregon)]
 
