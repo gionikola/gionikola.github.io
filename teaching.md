@@ -8,7 +8,7 @@ subtitle:
 
 > What I cannot create, I do not understand.
 >
-> <p style='text-align: right;'> -- <cite>Richard Feynman</i></cite> </p>
+> <p style='text-align: right;'> -- <cite>Richard Feynman</cite> </p>
 
 # <b>Courses</b>
 
