@@ -6,9 +6,9 @@ subtitle:
 <style>body {text-align: justify}</style>
 ---
 
-> If you're teaching a class, you can think about the elementary things that you know very well. These things are kind of fun and delightful. It doesn't do any harm to think them over again. Is there a better way to present them? Are there any new problems associated with them? Are there any new thoughts you can make about them? The elementary things are easy to think about; if you can't think of a new thought, no harm done; what you thought about it before is good enough for the class. If you do think of something new, you're rather pleased that you have a new way of looking at it... The questions of the students are often the source of new research. They often ask profound questions that I've thought about at times and then given up on, so to speak, for a while. It wouldn't do any harm to think about them again and see if I can go any further now. The students may not be able to see the thing I want to answer, or the subtleties I want to think about, but they remind me of a problem by asking questions in the neighborhood of that problem... So I find that teaching and the students keep life going, and I would never accept any position in which somebody has invented a happy situation for me where I don't have to teach. Never.
+> What I cannot create, I do not understand.
 >
-> <p style='text-align: right;'> -- <cite>Richard Feynman, <i>Surely You're Joking, Mr. Feynman!</i></cite> </p>
+> <p style='text-align: right;'> -- <cite>Richard Feynman</i></cite> </p>
 
 # <b>Courses</b>
 
@@ -83,6 +83,8 @@ Here are some (free) resources from which I've benefited greatly over the years,
 - [R Packages (2ed) -- Hadley Wickham and Jennifer Bryan](https://r-pkgs.org/)
 
 - [My weekly coding labs for undergraduate introductory econometrics at University of Oregon](https://github.com/emmettsaulnier/EC320s22).
+
+- [R for Data Science (2ed) -- Hadley Wickham, Mine Cetinkaya-Rundel, Garrett Grolemund](https://r4ds.hadley.nz/)
 
 ### <b>Typesetting</b>
  
