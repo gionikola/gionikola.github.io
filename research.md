@@ -29,7 +29,8 @@ I find that while both types of banks amplify the impact of monetary policy shoc
 These results suggest that continued decline in community banks' market share may dampen the efficacy of monetary policy over longer horizons. 
 Moreover, the adverse real effects of monetary tightening are likely to be longer-lasting for small business borrowers who depend on community banks for funding.
 
-[<ins>**"Computing Temporary Equilibria using Exact Aggregation"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2025.pdf) (with [David Evans](http://econevans.com/))
+[<ins>**"Efficient Aggregation in Heterogeneous
+Agents Models with Bounded Rationality"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2025.pdf) (with [David Evans](http://econevans.com/))
 
 <b>Abstract:</b>
 Simulations of heterogeneous agents models with boundedly rational agents and multiple markets in the style of Krusell and Smith (1997, 1998) require solving for market-clearing conditions at each period to determine temporary equilibria.
