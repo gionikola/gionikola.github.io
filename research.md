@@ -29,12 +29,12 @@ I find that while both types of banks amplify the impact of monetary policy shoc
 These results suggest that continued decline in community banks' market share may dampen the efficacy of monetary policy over longer horizons. 
 Moreover, the adverse real effects of monetary tightening are likely to be longer-lasting for small business borrowers who depend on community banks for funding.
 
-[<ins>**"Computing Temporary Equilibria using Exact Aggregation"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2023.pdf) (with [David Evans](http://econevans.com/))
+[<ins>**"Computing Temporary Equilibria using Exact Aggregation"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2025.pdf) (with [David Evans](http://econevans.com/))
 
 <b>Abstract:</b>
-Simulations of heterogeneous agents models with multiple markets in the style of Krusell and Smith (1997, 1998) require solving for market-clearing conditions at each period to determine temporary equilibria. 
-Existing solution procedures can be computationally intensive, especially in settings with a high-dimensional state space and large number of agents. 
-We suggest a new method of approximating temporary equilibria in heterogeneous agents models that offers a speedup of multiple orders of magnitude compared to a conventional benchmark. 
+Simulations of heterogeneous agents models with boundedly rational agents and multiple markets in the style of Krusell and Smith (1997, 1998) require solving for market-clearing conditions at each period to determine temporary equilibria.
+Existing solution procedures can be computationally intensive, especially in settings with a high-dimensional state space and a large number of agents.
+We suggest a new method for approximating temporary equilibria in heterogeneous agents models that offers a speedup of multiple orders of magnitude compared to a conventional benchmark.
 We demonstrate the effectiveness of our procedure by applying it to a model with heterogeneous boundedly rational agents featuring a large idiosyncratic state space.
 
 [<ins>**"The Evolution of Community Bank Interconnectedness"**</ins>](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf) [Best Field Paper / PhD Research Paper (University of Oregon)]
