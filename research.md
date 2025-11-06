@@ -46,7 +46,7 @@ This cost scales with belief heterogeneity, creating a severe bottleneck.
 We propose a fast aggregation method that replaces repeated summations with a compact representation of aggregate demand as a function of prices, delivering speedups of several orders of magnitude over conventional approaches while preserving accuracy. 
 Demonstrated in a model with several dimensions of belief heterogeneity, our method directly overcomes a central obstacle to simulating boundedly rational heterogeneous agent economies and extends the scope of feasible applications.
 
-[<ins>**"The Evolution of Community Bank Interconnectedness"**</ins>](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf) [Best Field Paper / PhD Research Paper (University of Oregon)]
+[<ins>**"The Evolution of Community Bank Interconnectedness"**</ins>](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf) 
 
 <b>Abstract:</b>
 I find that the community banking sector in the United States has become more interconnected since the global financial crisis, which implies greater exposure to systemic risk and increased vulnerability in future financial crises.
