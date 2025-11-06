@@ -64,7 +64,7 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 
 **"False Discovery Rate of Impulse Response Analysis in Macroeconomics"** (with [Noah Gade](https://sites.google.com/view/noahdgade/home))
 
-**"International Evidence on Monetary Policy Transmission: High-Frequency Analysis of Central Bank Communications"** (with [Aeimit Lakdawala](https://aeimit.weebly.com/) and [Saroj Bhattari](https://sites.google.com/site/bhattaraisaroj/))
+**"International Evidence on Monetary Policy Transmission: High-Frequency Analysis of Central Bank Communications"** (with [Aeimit Lakdawala](https://aeimit.weebly.com/) and [Saroj Bhattarai](https://sites.google.com/site/bhattaraisaroj/))
 
 **“UncertaintyandthePricePuzzle”** (with [Sebastian Laumer](https://sites.google.com/view/sebastianlaumer))
 
