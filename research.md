@@ -12,7 +12,7 @@ subtitle:
 
 # <b>Working Papers</b> 
 
-<ins>**"Measuring Dynamic Transmission using Pass-Through Impulse Response Functions"** (Available Upon Request)</ins>
+<ins>**"The Complexity and Source of Small Bank Systemic Risk"** (Available Upon Request)</ins>
 
 <b>Abstract:</b>
 The large segment of U.S. commercial banks with under $1 billion in assets is often regarded as a collection of institutions whose performance varies idiosyncratically, posing limited macroeconomic risk.
