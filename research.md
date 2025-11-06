@@ -29,7 +29,7 @@ This approach has fewer informational requirements than alternative methods, suc
 A PT-IRF only requires the specification of a reduced-form VAR and identification of a shock of interest, bypassing the need to either build a structural model or identify multiple shocks.
 I demonstrate the flexibility of PT-IRFs by empirically analyzing the indirect dynamic transmission of oil price shocks to inflation and output via interest rates, as well as the indirect dynamic effect of monetary policy shocks on output via changes in credit supply.
 
-[<ins>**"Monetary Transmission Through Community and Noncommunity Bank Lending"**</ins>](https://gionikola.github.io/cv/jmp_nikolaishvili.pdf) [Kleinsorge Research Award (University of Oregon)]
+[<ins>**"Monetary Transmission Through Community and Noncommunity Bank Lending"**</ins>](https://gionikola.github.io/cv/jmp_nikolaishvili.pdf) 
 
 <b>Abstract:</b>
 This paper examines the dynamic macroeconomic effects of monetary transmission through community and noncommunity bank lending in the United States. 
