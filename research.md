@@ -12,6 +12,14 @@ subtitle:
 
 # <b>Working Papers</b> 
 
+<ins>**"Measuring Dynamic Transmission using Pass-Through Impulse Response Functions"** (Available Upon Request)</ins>
+
+<b>Abstract:</b>
+The large segment of U.S. commercial banks with under $1 billion in assets is often regarded as a collection of institutions whose performance varies idiosyncratically, posing limited macroeconomic risk.
+In contrast to this view, I document substantial comovement in the profitability of small banks. 
+More strikingly, I find that this comovement cannot be explained by shared exposure to macroeconomic shocks, suggesting that its origins lie within the financial system itself.
+These findings uncover an overlooked channel of systemic risk in the commercial banking sector and highlight that such risk need not originate solely from large institutions.
+
 [<ins>**"Measuring Dynamic Transmission using Pass-Through Impulse Response Functions"**</ins>](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf) 
 
 <b>Abstract:</b>
@@ -33,10 +41,10 @@ Moreover, the adverse real effects of monetary tightening are likely to be longe
 Agents Models with Bounded Rationality"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2025.pdf) (with [David Evans](http://econevans.com/))
 
 <b>Abstract:</b>
-Simulations of heterogeneous agents models with boundedly rational agents and multiple markets in the style of Krusell and Smith (1997, 1998) require solving for market-clearing conditions at each period to determine temporary equilibria.
-Existing solution procedures can be computationally intensive, especially in settings with a high-dimensional state space and a large number of agents.
-We suggest a new method for approximating temporary equilibria in heterogeneous agents models that offers a speedup of multiple orders of magnitude compared to a conventional benchmark.
-We demonstrate the effectiveness of our procedure by applying it to a model with heterogeneous boundedly rational agents featuring a large idiosyncratic state space.
+Akeychallenge in heterogeneous agent models with bounded rationality is the intensive computational burden of repeatedly aggregating policy functions within equilibrium solvers. 
+This cost scales with belief heterogeneity, creating a severe bottleneck. 
+We propose a fast aggregation method that replaces repeated summations with a compact representation of aggregate demand as a function of prices, delivering speedups of several orders of magnitude over conventional approaches while preserving accuracy. 
+Demonstrated in a model with several dimensions of belief heterogeneity, our method directly overcomes a central obstacle to simulating boundedly rational heterogeneous agent economies and extends the scope of feasible applications.
 
 [<ins>**"The Evolution of Community Bank Interconnectedness"**</ins>](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf) [Best Field Paper / PhD Research Paper (University of Oregon)]
 
