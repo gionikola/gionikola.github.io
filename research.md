@@ -62,11 +62,13 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 ---
 # <b>Works in Progress</b>
 
-**"Estimating Large Bayesian Hierarchical Dynamic Factor Models"**
+**"False Discovery Rate of Impulse Response Analysis in Macroeconomics"** (with [Noah Gade](https://sites.google.com/view/noahdgade/home))
 
-**"Inference on PT-IRFs: VARs and Local Projections"**
+**"International Evidence on Monetary Policy Transmission: High-Frequency Analysis of Central Bank Communications"** (with [Aeimit Lakdawala](https://aeimit.weebly.com/) and [Saroj Bhattari](https://sites.google.com/site/bhattaraisaroj/))
 
-**“Monetary Transmission via Expectations in DSGEs with Bounded Rationality”** (with [Edder Martínez Lazo](https://cas.uoregon.edu/directory/social-sciences/all/edderfer)) 
+**“UncertaintyandthePricePuzzle”** (with [Sebastian Laumer](https://sites.google.com/view/sebastianlaumer))
+
+**“Monetary Transmission via Expectations in DSGEs with Bounded Rationality”** (with [Edder Martínez Lazo](https://www.emartinezlazo.com/)) 
 
 ---
 # <b>Other Works & Publications </b>
