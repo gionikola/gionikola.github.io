@@ -66,7 +66,7 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 
 **"International Evidence on Monetary Policy Transmission: High-Frequency Analysis of Central Bank Communications"** (with [Aeimit Lakdawala](https://aeimit.weebly.com/) and [Saroj Bhattarai](https://sites.google.com/site/bhattaraisaroj/))
 
-**“UncertaintyandthePricePuzzle”** (with [Sebastian Laumer](https://sites.google.com/view/sebastianlaumer))
+**“Uncertainty and the Price Puzzle”** (with [Sebastian Laumer](https://sites.google.com/view/sebastianlaumer))
 
 **“Monetary Transmission via Expectations in DSGEs with Bounded Rationality”** (with [Edder Martínez Lazo](https://www.emartinezlazo.com/)) 
 
