@@ -38,7 +38,7 @@ These results suggest that continued decline in community banks' market share ma
 Moreover, the adverse real effects of monetary tightening are likely to be longer-lasting for small business borrowers who depend on community banks for funding.
 
 [<ins>**"Efficient Aggregation in Heterogeneous
-Agents Models with Bounded Rationality"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2025.pdf) (with [David Evans](http://econevans.com/))
+Agent Models with Bounded Rationality"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2025.pdf) (with [David Evans](http://econevans.com/))
 
 <b>Abstract:</b>
 Akeychallenge in heterogeneous agent models with bounded rationality is the intensive computational burden of repeatedly aggregating policy functions within equilibrium solvers. 
