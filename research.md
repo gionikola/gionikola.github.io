@@ -37,14 +37,13 @@ I find that while both types of banks amplify the impact of monetary policy shoc
 These results suggest that continued decline in community banks' market share may dampen the efficacy of monetary policy over longer horizons. 
 Moreover, the adverse real effects of monetary tightening are likely to be longer-lasting for small business borrowers who depend on community banks for funding.
 
-[<ins>**"Efficient Aggregation in Heterogeneous
-Agent Models with Bounded Rationality"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2025.pdf) (with [David Evans](http://econevans.com/))
+[<ins>**"Efficient Aggregation in Heterogeneous-Agent Models with Bounded Rationality"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2025.pdf) (with [David Evans](http://econevans.com/))
 
 <b>Abstract:</b>
-Akeychallenge in heterogeneous agent models with bounded rationality is the intensive computational burden of repeatedly aggregating policy functions within equilibrium solvers. 
-This cost scales with belief heterogeneity, creating a severe bottleneck. 
-We propose a fast aggregation method that replaces repeated summations with a compact representation of aggregate demand as a function of prices, delivering speedups of several orders of magnitude over conventional approaches while preserving accuracy. 
-Demonstrated in a model with several dimensions of belief heterogeneity, our method directly overcomes a central obstacle to simulating boundedly rational heterogeneous agent economies and extends the scope of feasible applications.
+A key challenge in heterogeneous-agent models with bounded rationality is the intensive computational burden of repeatedly aggregating policy functions when solving for temporary equilibrium within a given period. 
+This cost scales with belief heterogeneity, creating a severe bottleneck. We propose a fast aggregation method that replaces
+repeated summations with a compact representation of aggregate demand as a function of prices, delivering speedups of several orders of magnitude over conventional approaches while preserving accuracy. 
+Demonstrated in a model with multiple dimensions of belief heterogeneity, our method directly overcomes a central obstacle to simulating boundedly rational heterogeneous-agent economies and extends the scope of feasible applications.
 
 [<ins>**"The Evolution of Community Bank Interconnectedness"**</ins>](https://gionikola.github.io/cv/wp_cbinterconnectedness_nikolaishvili.pdf) 
 
