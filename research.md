@@ -20,7 +20,7 @@ In contrast to this view, I document substantial comovement in the profitability
 More strikingly, I find that this comovement cannot be explained by shared exposure to macroeconomic shocks, suggesting that its origins lie within the financial system itself.
 These findings uncover an overlooked channel of systemic risk in the commercial banking sector and highlight that such risk need not originate solely from large institutions.
 
-[<ins>**"Measuring Dynamic Transmission using Pass-Through Impulse Response Functions"**</ins>](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf) 
+[<ins>**"Measuring Dynamic Transmission using Pass-Through Impulse Response Functions"**</ins>](https://gionikola.github.io/cv/ptirfs_nikolaishvili.pdf) (A major update to this draft coming soon.)
 
 <b>Abstract:</b>
 I propose the pass-through impulse response function (PT-IRF) as a novel reduced-form empirical approach to measuring transmission channel dynamics.
