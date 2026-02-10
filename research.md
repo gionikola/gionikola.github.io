@@ -32,10 +32,9 @@ I demonstrate the flexibility of PT-IRFs by empirically analyzing the indirect d
 [<ins>**"Monetary Transmission Through Community and Noncommunity Bank Lending"**</ins>](https://gionikola.github.io/cv/jmp_nikolaishvili.pdf) 
 
 <b>Abstract:</b>
-This paper examines the dynamic macroeconomic effects of monetary transmission through community and noncommunity bank lending in the United States. 
-I find that while both types of banks amplify the impact of monetary policy shocks on output, community banks exhibit a more delayed and persistent amplificatory influence than their noncommunity counterparts. 
-These results suggest that continued decline in community banks' market share may dampen the efficacy of monetary policy over longer horizons. 
-Moreover, the adverse real effects of monetary tightening are likely to be longer-lasting for small business borrowers who depend on community banks for funding.
+This paper develops a horizon-by-horizon decomposition of impulse responses to quantify how monetary policy shocks transmit to U.S. real activity through community and noncommunity bank lending. 
+Endogenous responses in lending by both bank types are shown to amplify the output effects of monetary policy, but with distinct timing: noncommunity bank lending contributes more at short horizons, whereas community bank lending contributes with greater delay and persistence.
+The evidence suggests that this bank-type heterogeneity reflects differences in the responsiveness of output to lending, rather than differences in how strongly lending responds to monetary policy shocks.
 
 [<ins>**"Efficient Aggregation in Heterogeneous-Agent Models with Bounded Rationality"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2025.pdf) (with [David Evans](http://econevans.com/))
 
@@ -56,12 +55,18 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 ---
 # <b>Publications</b>
 
-[1] [<ins>**"Measuring economic activity in the presence of superstar MNEs"**</ins>](https://doi.org/10.1016/j.econlet.2023.111077) (with [Philip Economides](https://philip-economides.com/)) **Economics Letters (2023)**
+[3] [<ins>**"Mass Reproducibility and Replicability: A New Hope"**</ins>](https://econpapers.repec.org/paper/zbwi4rdps/107.htm) (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/), [Derek Mikola](https://sites.google.com/view/derekmikola/), [Nikolai Cook](https://sites.google.com/site/nikolaimcook/home), and many others) **Nature** [Accepted]
+
+[2] [<ins>**"Measuring economic activity in the presence of superstar MNEs"**</ins>](https://doi.org/10.1016/j.econlet.2023.111077) (with [Philip Economides](https://philip-economides.com/)) **Economics Letters (2023)**
+
+[1] [<ins>**"Using deep learning to examine the correlation between transportation planning and perceived safety of the built environment"**</ins>](https://journals.sagepub.com/doi/abs/10.1177/2399808320959079) (with Justin Hollander, Alphonsus Adu-Bredu, Minyu Situ, and Shabnam Bista) **Environment and Planning B: Urban Analytics and City Science (2021)** [Predoctoral work]
 
 ---
 # <b>Works in Progress</b>
 
-**"False Discovery Rate of Impulse Response Analysis in Macroeconomics"** (with [Noah Gade](https://sites.google.com/view/noahdgade/home))
+**“Impulse Response Inference Under a Stochastic Null”** (with [Noah Gade](https://sites.google.com/view/noahdgade/home))
+
+**"False Discovery and Coverage Rate-Adjusted Inference for Impulse Response Functions"** (with [Noah Gade](https://sites.google.com/view/noahdgade/home))
 
 **"International Evidence on Monetary Policy Transmission: High-Frequency Analysis of Central Bank Communications"** (with [Aeimit Lakdawala](https://aeimit.weebly.com/) and [Saroj Bhattarai](https://sites.google.com/site/bhattaraisaroj/))
 
@@ -72,13 +77,9 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 ---
 # <b>Other Works & Publications </b>
 
-[4] [<ins>**"A Replication of 'The Macroeconomic Impact of Europe's Carbon Taxes' by Metcalf and Stock (2023)"**</ins>](https://ideas.repec.org/p/zbw/i4rdps/167.html) (with [Thomas Ash](https://sites.google.com/view/thomasash)) **I4R Discussion Paper Series (2024)**
+[2] [<ins>**"A Replication of 'The Macroeconomic Impact of Europe's Carbon Taxes' by Metcalf and Stock (2023)"**</ins>](https://ideas.repec.org/p/zbw/i4rdps/167.html) (with [Thomas Ash](https://sites.google.com/view/thomasash)) **I4R Discussion Paper Series (2024)**
 
-[3] [<ins>**"Mass Reproducibility and Replicability: A New Hope"**</ins>](https://econpapers.repec.org/paper/zbwi4rdps/107.htm) (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/), [Derek Mikola](https://sites.google.com/view/derekmikola/), [Nikolai Cook](https://sites.google.com/site/nikolaimcook/home), and many others) **IZA Discussion Paper (2024)**
-
-[2] [<ins>**"News Shocks under Financial Frictions: A Comment on Görtz et al. (2022)"**</ins>](https://econpapers.repec.org/paper/zbwi4rdps/51.htm) (with [Thomas Ash](https://sites.google.com/view/thomasash) and [Ethan Struby](https://sites.google.com/site/strubyecon/)) **I4R Discussion Paper Series (2023)**
-
-[1] [<ins>**"Using deep learning to examine the correlation between transportation planning and perceived safety of the built environment"**</ins>](https://journals.sagepub.com/doi/abs/10.1177/2399808320959079) (with Justin Hollander, Alphonsus Adu-Bredu, Minyu Situ, and Shabnam Bista) **Environment and Planning B: Urban Analytics and City Science (2021)**
+[1] [<ins>**"News Shocks under Financial Frictions: A Comment on Görtz et al. (2022)"**</ins>](https://econpapers.repec.org/paper/zbwi4rdps/51.htm) (with [Thomas Ash](https://sites.google.com/view/thomasash) and [Ethan Struby](https://sites.google.com/site/strubyecon/)) **I4R Discussion Paper Series (2023)**
 
 ---
 # <b>Software</b>
