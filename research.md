@@ -12,7 +12,17 @@ subtitle:
 
 # <b>Working Papers</b> 
 
-<ins>**"The Complexity and Source of Small Bank Systemic Risk"**</ins> (Available Upon Request)
+<ins>**"False Discovery and Coverage Rate-Adjusted Inference for Impulse Response Functions"**</ins> (with [Noah Gade](https://sites.google.com/view/noahdgade/home))
+
+<b>Abstract:</b>
+Inference for impulse response functions (IRFs) is typically reported using pointwise confidence bands, which can substantially overstate evidence when researchers examine a large family of responses (across multiple horizons, outcomes, shocks, and/or states) due to a lack of multiplicity-related error control.
+A growing literature proposes IRF-specific simultaneous inference procedures targeting family-wise error rate control --- such procedures often become overly conservative in practice and lose power quickly as the dimension of the response family grows, leading to uninformative empirical results.
+We advocate for targeting combined false discovery rate (FDR) and false coverage-statement rate (FCR) control as a natural middleground for IRF inference: 
+this approach bounds the expected proportion of false rejections among the set of rejected null responses, and delivers appropriate post-selection confidence intervals for the selected set of impulse responses.
+We adapt an FDR/FCR-control procedure to VAR and LP IRF estimators that accommodates the strong cross-response dependence common in macroeconomic and financial applications through a resampling-based, stepwise algorithm.
+Monte Carlo experiments, together with applications using identified monetary policy, fiscal policy, and oil supply shocks, show that the proposed approach increases power and informativeness relative to simultaneous inference while limiting false inference induced by multiplicity.
+
+<ins>**"The Complexity and Source of Small Bank Systemic Risk"**</ins>
 
 <b>Abstract:</b>
 The large segment of U.S. commercial banks with under $1 billion in assets is often regarded as a collection of institutions whose performance varies idiosyncratically, posing limited macroeconomic risk.
@@ -65,8 +75,6 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 # <b>Works in Progress</b>
 
 **“Impulse Response Inference Under a Stochastic Null”** (with [Noah Gade](https://sites.google.com/view/noahdgade/home))
-
-**"False Discovery and Coverage Rate-Adjusted Inference for Impulse Response Functions"** (with [Noah Gade](https://sites.google.com/view/noahdgade/home))
 
 **"International Evidence on Monetary Policy Transmission: High-Frequency Analysis of Central Bank Communications"** (with [Aeimit Lakdawala](https://aeimit.weebly.com/) and [Saroj Bhattarai](https://sites.google.com/site/bhattaraisaroj/))
 
