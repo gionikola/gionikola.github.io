@@ -15,12 +15,13 @@ subtitle:
 <ins>**"False Discovery and Coverage Rate-Adjusted Inference for Impulse Response Functions"**</ins> (with [Noah Gade](https://sites.google.com/view/noahdgade/home))
 
 <b>Abstract:</b>
-Inference for impulse response functions (IRFs) is typically reported using pointwise confidence bands, which can substantially overstate evidence when researchers examine a large family of responses (across multiple horizons, outcomes, shocks, and/or states) due to a lack of multiplicity-related error control.
-A growing literature proposes IRF-specific simultaneous inference procedures targeting family-wise error rate control --- such procedures often become overly conservative in practice and lose power quickly as the dimension of the response family grows, leading to uninformative empirical results.
-We advocate for targeting combined false discovery rate (FDR) and false coverage-statement rate (FCR) control as a natural middleground for IRF inference: 
-this approach bounds the expected proportion of false rejections among the set of rejected null responses, and delivers appropriate post-selection confidence intervals for the selected set of impulse responses.
-We adapt an FDR/FCR-control procedure to VAR and LP IRF estimators that accommodates the strong cross-response dependence common in macroeconomic and financial applications through a resampling-based, stepwise algorithm.
-Monte Carlo experiments, together with applications using identified monetary policy, fiscal policy, and oil supply shocks, show that the proposed approach increases power and informativeness relative to simultaneous inference while limiting false inference induced by multiplicity.
+Empirical impulse response analysis routinely examines dozens or hundreds of response coefficients across horizons, variables, states, and shocks, yet inference is almost always conducted as if each coefficient were tested in isolation.
+This pointwise approach ignores testing multiplicity, yielding an unbounded rate of false rejections as the response family grows.
+Simultaneous inference methods correct for this but impose family-wise error rate control that becomes prohibitively conservative in high dimensions.
+We argue that false discovery rate and false coverage rate control provide a more appropriate inferential target for how researchers actually use IRFs --- scanning for significant responses and building narratives around them.
+Rather than guarding against any false rejection across the response family, we bound the expected proportion of false rejections among those impulse responses declared significant, and deliver post-selection confidence intervals for the selected set.
+Monte Carlo experiments across VAR and LP estimators document systematic power gains over simultaneous inference while maintaining false discovery control.
+Applications to impulse responses from monetary policy, fiscal policy, and oil supply shocks show that our procedure recovers economically meaningful dynamic effects that simultaneous bands fail to detect.
 
 <ins>**"The Complexity and Source of Small Bank Systemic Risk"**</ins>
 
