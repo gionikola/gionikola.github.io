@@ -12,7 +12,7 @@ subtitle:
 
 # <b>Working Papers</b> 
 
-<ins>**"False Discovery and Coverage Rate-Adjusted Inference for Impulse Response Functions"**</ins> (with [Noah Gade](https://sites.google.com/view/noahdgade/home))
+<ins>**"Scanning for Significance: False Discovery Control for Impulse Responses"**</ins> (with [Noah Gade](https://sites.google.com/view/noahdgade/home))
 
 <b>Abstract:</b>
 Empirical impulse response analysis routinely examines dozens or hundreds of response coefficients across horizons, variables, states, and shocks, yet inference is almost always conducted as if each coefficient were tested in isolation.
