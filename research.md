@@ -12,16 +12,17 @@ subtitle:
 
 # <b>Working Papers</b> 
 
-<ins>**"Scanning for Significance: False Discovery Control for Impulse Responses"**</ins> (with [Noah Gade](https://sites.google.com/view/noahdgade/home))
+[<ins>**"Scanning for Significance: False Discovery Control for Impulse Responses"**</ins>](https://gionikola.github.io/cv/irf-fdr_nikolaishvili-gade.pdf) (with [Noah Gade](https://sites.google.com/view/noahdgade/home))
 
 <b>Abstract:</b>
-Empirical impulse response analysis routinely examines dozens or hundreds of response coefficients across horizons, variables, states, and shocks, yet inference is almost always conducted as if each coefficient were tested in isolation.
-This pointwise approach ignores testing multiplicity, yielding an unbounded rate of false rejections as the response family grows.
-Simultaneous inference methods correct for this but impose family-wise error rate control that becomes prohibitively conservative in high dimensions.
-We argue that false discovery rate and false coverage rate control provide a more appropriate inferential target for how researchers actually use IRFs --- scanning for significant responses and building narratives around them.
-Rather than guarding against any false rejection across the response family, we bound the expected proportion of false rejections among those impulse responses declared significant, and deliver post-selection confidence intervals for the selected set.
-Monte Carlo experiments across VAR and LP estimators document systematic power gains over simultaneous inference while maintaining false discovery control.
-Applications to impulse responses from monetary policy, fiscal policy, and oil supply shocks show that our procedure recovers economically meaningful dynamic effects that simultaneous bands fail to detect.
+Empirical impulse response analysis builds economic narratives by scanning dozens or hundreds of coefficients for significant effects.
+Standard pointwise inference ignores this multiplicity, so the false rejection rate grows unbounded with the response family.
+Simultaneous methods correct for multiplicity by bounding the probability of even a single false rejection, which yields increasingly uninformative results as the family expands.
+Researchers are left to choose between overstating their evidence and understating it.
+To address this limitation, we propose false discovery rate (FDR) and false coverage rate (FCR) control as a more appropriate target: bounding the expected share of false rejections among responses declared significant, with calibrated post-selection confidence intervals.
+Neither guarantee deteriorates as the response family grows, so researchers are rewarded for investigating transmission mechanisms thoroughly rather than penalized for it.
+The procedure integrates into standard VAR and local projection bootstrap workflows.
+Applications to monetary policy and oil supply shocks show that FDR/FCR-controlled inference recovers effects lost under simultaneous bands while discarding fragile pointwise findings, in some cases materially altering the economic narrative.
 
 <ins>**"The Complexity and Source of Small Bank Systemic Risk"**</ins>
 
