@@ -17,7 +17,7 @@ subtitle:
 <b>Abstract:</b>
 Empirical impulse response analysis builds economic narratives by scanning dozens or hundreds of coefficients for significant effects.
 Standard pointwise inference ignores this multiplicity, so the false rejection rate grows unbounded with the response family.
-Simultaneous methods correct for multiplicity by bounding the probability of even a single false rejection, which yields increasingly uninformative results as the family expands.
+Simultaneous inference methods correct for multiplicity by bounding the probability of even a single false rejection, which yields increasingly uninformative results as the family expands.
 Researchers are left to choose between overstating their evidence and understating it.
 To address this limitation, we propose false discovery rate (FDR) and false coverage rate (FCR) control as a more appropriate target: bounding the expected share of false rejections among responses declared significant, with calibrated post-selection confidence intervals.
 Neither guarantee deteriorates as the response family grows, so researchers are rewarded for investigating transmission mechanisms thoroughly rather than penalized for it.
