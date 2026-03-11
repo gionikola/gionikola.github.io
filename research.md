@@ -39,7 +39,7 @@ This paper develops a horizon-by-horizon decomposition of impulse responses to q
 Endogenous responses in lending by both bank types are shown to amplify the output effects of monetary policy, but with distinct timing: noncommunity bank lending contributes more at short horizons, whereas community bank lending contributes with greater delay and persistence.
 The evidence suggests that this bank-type heterogeneity reflects differences in the responsiveness of output to lending, rather than differences in how strongly lending responds to monetary policy shocks.
 
-<ins>**"The Complexity and Source of Small Bank Systemic Risk"**</ins>
+<ins>**"The Complexity and Source of Small Bank Systemic Risk"**</ins> [Available Upon Request]
 
 <b>Abstract:</b>
 The large segment of U.S. commercial banks with under $1 billion in assets is often regarded as a collection of institutions whose performance varies idiosyncratically, posing limited macroeconomic risk.
@@ -47,7 +47,7 @@ In contrast to this view, I document substantial comovement in the profitability
 More strikingly, I find that this comovement cannot be explained by shared exposure to macroeconomic shocks, suggesting that its origins lie within the financial system itself.
 These findings uncover an overlooked channel of systemic risk in the commercial banking sector and highlight that such risk need not originate solely from large institutions.
 
-<ins>**"Measuring Dynamic Transmission using Pass-Through Impulse Response Functions"**</ins>
+<ins>**"Measuring Dynamic Transmission using Pass-Through Impulse Response Functions"**</ins> [Available Upon Request]
 
 <b>Abstract:</b>
 I propose the pass-through impulse response function (PT-IRF) as a novel reduced-form empirical approach to measuring transmission channel dynamics.
@@ -56,7 +56,7 @@ This approach has fewer informational requirements than alternative methods, suc
 A PT-IRF only requires the specification of a reduced-form VAR and identification of a shock of interest, bypassing the need to either build a structural model or identify multiple shocks.
 I demonstrate the flexibility of PT-IRFs by empirically analyzing the indirect dynamic transmission of oil price shocks to inflation and output via interest rates, as well as the indirect dynamic effect of monetary policy shocks on output via changes in credit supply.
 
-<ins>**"The Evolution of Community Bank Interconnectedness"**</ins>
+<ins>**"The Evolution of Community Bank Interconnectedness"**</ins> [Available Upon Request]
 
 <b>Abstract:</b>
 I find that the community banking sector in the United States has become more interconnected since the global financial crisis, which implies greater exposure to systemic risk and increased vulnerability in future financial crises.
