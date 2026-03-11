@@ -67,7 +67,7 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 ---
 # <b>Publications</b>
 
-[3] [<ins>**"Mass Reproducibility and Replicability: A New Hope"**</ins>](https://econpapers.repec.org/paper/zbwi4rdps/107.htm) (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/), [Derek Mikola](https://sites.google.com/view/derekmikola/), [Nikolai Cook](https://sites.google.com/site/nikolaimcook/home), and many others) **Nature** [Accepted]
+[3] [<ins>**"Mass Reproducibility and Replicability: A New Hope"**</ins>](https://econpapers.repec.org/paper/zbwi4rdps/107.htm) (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/), [Derek Mikola](https://sites.google.com/view/derekmikola/), [Nikolai Cook](https://sites.google.com/site/nikolaimcook/home), and many others) **Nature** [Forthcoming]
 
 [2] [<ins>**"Measuring economic activity in the presence of superstar MNEs"**</ins>](https://doi.org/10.1016/j.econlet.2023.111077) (with [Philip Economides](https://philip-economides.com/)) **Economics Letters (2023)**
 
