@@ -83,6 +83,8 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 
 **“Impulse Response Inference Under a Stochastic Null”** (with [Noah Gade](https://sites.google.com/view/noahdgade/home))
 
+**"Augmented Impulse Response Matching"**
+
 **"International Evidence on Monetary Policy Transmission: High-Frequency Analysis of Central Bank Communications"** (with [Aeimit Lakdawala](https://aeimit.weebly.com/) and [Saroj Bhattarai](https://sites.google.com/site/bhattaraisaroj/))
 
 **“Uncertainty and the Price Puzzle”** (with [Sebastian Laumer](https://sites.google.com/view/sebastianlaumer))
