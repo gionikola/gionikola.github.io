@@ -87,8 +87,6 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 
 **“Uncertainty and the Price Puzzle”** (with [Sebastian Laumer](https://sites.google.com/view/sebastianlaumer))
 
-**“Monetary Transmission via Expectations in DSGEs with Bounded Rationality”** (with [Edder Martínez Lazo](https://www.emartinezlazo.com/)) 
-
 ---
 # <b>Other Works & Publications </b>
 
