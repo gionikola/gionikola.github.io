@@ -24,6 +24,15 @@ Neither guarantee deteriorates as the response family grows, so researchers are 
 The procedure integrates into standard VAR and local projection bootstrap workflows.
 Applications to monetary policy and oil supply shocks show that FDR/FCR-controlled inference recovers effects lost under simultaneous bands while discarding fragile pointwise findings, in some cases materially altering the economic narrative.
 
+<ins>**"Doubly Robust Nonparametric Local Projections"**</ins>
+
+<b>Abstract:</b>
+Nonparametric local projections estimate impulse response functions without functional form restrictions, but their performance depends entirely on the quality of the conditional mean regression --- a vulnerability for which existing estimators offer no built-in safeguard.
+I propose a doubly robust estimator that augments the standard regression-based approach with a bias correction based on the density ratio of the shock.
+The estimator is consistent when either the conditional mean regression or the density ratio is correctly specified, and it attains the semiparametric efficiency bound when both converge at sufficient rates.
+I derive this bound and show that it decomposes into the variance of the regression-based estimator plus an augmentation term that measures the cost of robustness.
+Monte Carlo simulations confirm the double robustness property under structural misspecification and quantify the efficiency--robustness trade-off.
+
 [<ins>**"Efficient Aggregation in Heterogeneous-Agent Models with Bounded Rationality"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2025.pdf) (with [David Evans](http://econevans.com/)) [Under Review]
 
 <b>Abstract:</b>
