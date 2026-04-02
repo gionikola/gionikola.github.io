@@ -6,10 +6,6 @@ subtitle:
 <style>body {text-align: justify}</style>
 ---
 
-> I can predict the movement of heavenly bodies, but not the madness of crowds.
->
-> <p style='text-align: right;'> -- <cite>Isaac Newton</cite> </p>
-
 # <b>Working Papers</b> 
 
 [<ins>**"Scanning for Significance: False Discovery Control for Impulse Responses"**</ins>](https://gionikola.github.io/cv/irf-fdr_nikolaishvili-gade.pdf) (with [Noah Gade](https://sites.google.com/view/noahdgade/home)) [Updated frequently.]
@@ -76,7 +72,7 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 ---
 # <b>Publications</b>
 
-[3] [<ins>**"Mass Reproducibility and Replicability: A New Hope"**</ins>](https://econpapers.repec.org/paper/zbwi4rdps/107.htm) (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/), [Derek Mikola](https://sites.google.com/view/derekmikola/), [Nikolai Cook](https://sites.google.com/site/nikolaimcook/home), and many others) **Nature** [Forthcoming]
+[3] [<ins>**"Reproducibility and robustness of economics and political science research"**</ins>](https://www.nature.com/articles/s41586-026-10251-x) (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/), [Derek Mikola](https://sites.google.com/view/derekmikola/), [Nikolai Cook](https://sites.google.com/site/nikolaimcook/home), and many others) **Nature (2026)**
 
 [2] [<ins>**"Measuring economic activity in the presence of superstar MNEs"**</ins>](https://doi.org/10.1016/j.econlet.2023.111077) (with [Philip Economides](https://philip-economides.com/)) **Economics Letters (2023)**
 
