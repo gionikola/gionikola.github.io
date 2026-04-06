@@ -44,7 +44,7 @@ This paper develops a horizon-by-horizon decomposition of impulse responses to q
 Endogenous responses in lending by both bank types are shown to amplify the output effects of monetary policy, but with distinct timing: noncommunity bank lending contributes more at short horizons, whereas community bank lending contributes with greater delay and persistence.
 The evidence suggests that this bank-type heterogeneity reflects differences in the responsiveness of output to lending, rather than differences in how strongly lending responds to monetary policy shocks.
 
-<ins>**"The Complexity and Source of Small Bank Systemic Risk"**</ins> [Available Upon Request]
+<ins>**"The Complexity and Source of Small Bank Systemic Risk"**</ins> (with Jimmy Ren) [Available Upon Request] 
 
 <b>Abstract:</b>
 The large segment of U.S. commercial banks with under $1 billion in assets is often regarded as a collection of institutions whose performance varies idiosyncratically, posing limited macroeconomic risk.
