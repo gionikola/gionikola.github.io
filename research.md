@@ -8,7 +8,7 @@ subtitle:
 
 # <b>Working Papers</b> 
 
-[<ins>**"Scanning for Significance: False Discovery Control for Impulse Responses"**</ins>](https://gionikola.github.io/cv/irf-fdr_nikolaishvili-gade.pdf) (with [Noah Gade](https://sites.google.com/view/noahdgade/home)) [Updated frequently.]
+[<ins>**"Scanning for Significance: False Discovery Control for Impulse Responses"**</ins>](https://gionikola.github.io/cv/irf-fdr_nikolaishvili-gade.pdf) (with [Noah Gade](https://sites.google.com/view/noahdgade/home)) [Updated frequently]
 
 <b>Abstract:</b>
 Empirical impulse response analysis builds economic narratives by scanning dozens or hundreds of coefficients for significant effects.
@@ -20,7 +20,7 @@ Neither guarantee deteriorates as the response family grows, so researchers are 
 The procedure integrates into standard VAR and local projection bootstrap workflows.
 Applications to monetary policy and oil supply shocks show that FDR/FCR-controlled inference recovers effects lost under simultaneous bands while discarding fragile pointwise findings, in some cases materially altering the economic narrative.
 
-[<ins>**"Doubly Robust Nonparametric Local Projections"**</ins>](https://github.com/gionikola/gionikola.github.io/cv/dr-lp_nikolaishvili.pdf) 
+[<ins>**"Doubly Robust Nonparametric Local Projections"**</ins>](https://gionikola.github.io/cv/dr-lp_nikolaishvili.pdf)[Updated frequently]
 
 <b>Abstract:</b>
 Nonparametric local projections estimate impulse response functions without functional form restrictions, but their performance depends entirely on the quality of the conditional mean regression --- a vulnerability for which existing estimators offer no built-in safeguard.
