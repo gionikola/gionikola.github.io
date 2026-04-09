@@ -23,11 +23,11 @@ Applications to monetary policy and oil supply shocks show that FDR/FCR-controll
 [<ins>**"Doubly Robust Nonparametric Local Projections"**</ins>](https://gionikola.github.io/cv/dr-lp_nikolaishvili.pdf) [Updated frequently]
 
 <b>Abstract:</b>
-Nonparametric local projections estimate impulse response functions without functional form restrictions, but their performance depends entirely on the quality of the conditional mean regression --- a vulnerability for which existing estimators offer no built-in safeguard.
-I propose a doubly robust estimator that augments the standard regression-based approach with a bias correction based on the density ratio of the shock.
-The estimator is consistent when either the conditional mean regression or the density ratio is correctly specified, and it attains the semiparametric efficiency bound when both converge at sufficient rates.
-I derive this bound and show that it decomposes into the variance of the regression-based estimator plus an augmentation term that measures the cost of robustness.
-Monte Carlo simulations confirm the double robustness property under structural misspecification and quantify the efficiency--robustness trade-off.
+Nonparametric local projections estimate impulse responses without functional form restrictions, but their consistency hinges on the accuracy of the conditional mean regression. 
+I propose an estimator that supplements this regression with a bias correction derived from the marginal density of the shock. 
+This estimator is doubly robust: it remains consistent when either the conditional mean or the density ratio is misspecified, and attains the semiparametric efficiency bound when the product of their errors vanishes faster than the parametric rate. 
+This bound decomposes into the regression-only variance plus an explicit cost-of-robustness term. 
+Monte Carlo simulations confirm the double robustness property and suggest that the efficiency cost of robustness is modest --- a small premium for insurance against misspecification of the conditional mean, which in nonparametric settings cannot be ruled out.
 
 [<ins>**"Efficient Aggregation in Heterogeneous-Agent Models with Bounded Rationality"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2025.pdf) (with [David Evans](http://econevans.com/)) [Under Review]
 
