@@ -8,19 +8,20 @@ subtitle:
 
 # <b>Working Papers</b> 
 
-[<ins>**"Scanning for Significance: False Discovery Control for Impulse Responses"**</ins>](https://gionikola.github.io/cv/irf-fdr_nikolaishvili-gade.pdf) (with [Noah Gade](https://sites.google.com/view/noahdgade/home)) [Updated frequently]
+[<ins>**"Scanning for Significance: False Discovery Control for Impulse Responses"**</ins>](https://gionikola.github.io/cv/irf-fdr_nikolaishvili-gade.pdf) (with [Noah Gade](https://sites.google.com/view/noahdgade/home))
 
 <b>Abstract:</b>
-Empirical impulse response analysis builds economic narratives by scanning dozens or hundreds of coefficients for significant effects.
-Standard pointwise inference ignores this multiplicity, so the false rejection rate grows unbounded with the response family.
-Simultaneous inference methods correct for multiplicity by bounding the probability of even a single false rejection, which yields increasingly uninformative results as the family expands.
-Researchers are left to choose between overstating their evidence and understating it.
-To address this limitation, we propose false discovery rate (FDR) and false coverage rate (FCR) control as a more appropriate target: bounding the expected share of false rejections among responses declared significant, with calibrated post-selection confidence intervals.
-Neither guarantee deteriorates as the response family grows, so researchers are rewarded for investigating transmission mechanisms thoroughly rather than penalized for it.
-The procedure integrates into standard VAR and local projection bootstrap workflows.
-Applications to monetary policy and oil supply shocks show that FDR/FCR-controlled inference recovers effects lost under simultaneous bands while discarding fragile pointwise findings, in some cases materially altering the economic narrative.
+Impulse response analysis builds economic narratives by scanning a large set of coefficients for significant effects. 
+Pointwise inference ignores this multiplicity, so the false rejection rate grows unbounded with the response family. 
+Simultaneous inference bounds the probability of even a single false rejection, which yields increasingly uninformative results as the family expands. 
+Researchers are left to choose between overstating their evidence and understating it. 
+We propose false discovery and false coverage control as a more appropriate target: 
+bounding the expected share of false rejections among responses declared significant, with calibrated post-selection confidence intervals. 
+Neither guarantee deteriorates as the response family grows, so researchers are not penalized for investigating thoroughly. 
+The procedure integrates into standard VAR and local projection bootstrap workflows. 
+Applications show that this inference strategy recovers effects lost under simultaneous bands while discarding fragile pointwise findings, in some cases materially altering the economic narrative.
 
-[<ins>**"Doubly Robust Nonparametric Local Projections"**</ins>](https://gionikola.github.io/cv/dr-lp_nikolaishvili.pdf) [Updated frequently]
+[<ins>**"Doubly Robust Nonparametric Local Projections"**</ins>](https://gionikola.github.io/cv/dr-lp_nikolaishvili.pdf)
 
 <b>Abstract:</b>
 Nonparametric local projections estimate impulse responses without functional form restrictions, but their consistency hinges on the accuracy of the conditional mean regression. 
