@@ -8,7 +8,7 @@ subtitle:
 
 # <b>Working Papers</b> 
 
-[<ins>**"Scanning for Significance: False Discovery Control for Impulse Responses"**</ins>](https://gionikola.github.io/cv/irf-fdr_nikolaishvili-gade.pdf) (with [Noah Gade](https://sites.google.com/view/noahdgade/home))
+[<ins>**"Scanning for Significance: False Discovery Control for Impulse Responses"**</ins>](https://gionikola.github.io/cv/irf-fdr_nikolaishvili-gade.pdf) (with [Noah Gade](https://scholar.google.com/citations?user=8QfEoKIAAAAJ&hl=en))
 
 <b>Abstract:</b>
 Impulse response analysis builds economic narratives by scanning a large set of coefficients for significant effects. 
