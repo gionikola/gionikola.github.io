@@ -8,7 +8,16 @@ subtitle:
 
 # <b>Working Papers</b> 
 
-[<ins>**"Scanning for Significance: False Discovery Control for Impulse Responses"**</ins>](https://gionikola.github.io/cv/irf-fdr_nikolaishvili-gade.pdf) (with [Noah Gade](https://scholar.google.com/citations?user=8QfEoKIAAAAJ&hl=en))
+[<ins>**"Doubly Robust Nonparametric Local Projections"**</ins>](https://gionikola.github.io/cv/dr-lp_nikolaishvili.pdf) 
+
+<b>Abstract:</b>
+Nonparametric local projections estimate impulse responses without functional form restrictions, but their consistency hinges on the accuracy of the conditional mean regression. 
+I propose an estimator that supplements this regression with a bias correction derived from the marginal density of the shock. 
+This estimator is doubly robust: it remains consistent when either the conditional mean or the density ratio is misspecified, and attains the semiparametric efficiency bound when the product of their errors vanishes faster than the parametric rate. 
+This bound decomposes into the regression-only variance plus an explicit cost-of-robustness term. 
+Monte Carlo simulations confirm the double robustness property and suggest that the efficiency cost of robustness is modest --- a small premium for insurance against misspecification of the conditional mean, which in nonparametric settings cannot be ruled out.
+
+[<ins>**"Scanning for Significance: False Discovery Control for Impulse Responses"**</ins>](https://gionikola.github.io/cv/irf-fdr_nikolaishvili-gade.pdf) (with [Noah Gade](https://scholar.google.com/citations?user=8QfEoKIAAAAJ&hl=en)) [Under Review]
 
 <b>Abstract:</b>
 Impulse response analysis builds economic narratives by scanning a large set of coefficients for significant effects. 
@@ -20,15 +29,6 @@ bounding the expected share of false rejections among responses declared signifi
 Neither guarantee deteriorates as the response family grows, so researchers are not penalized for investigating thoroughly. 
 The procedure integrates into standard VAR and local projection bootstrap workflows. 
 Applications show that this inference strategy recovers effects lost under simultaneous bands while discarding fragile pointwise findings, in some cases materially altering the economic narrative.
-
-[<ins>**"Doubly Robust Nonparametric Local Projections"**</ins>](https://gionikola.github.io/cv/dr-lp_nikolaishvili.pdf)
-
-<b>Abstract:</b>
-Nonparametric local projections estimate impulse responses without functional form restrictions, but their consistency hinges on the accuracy of the conditional mean regression. 
-I propose an estimator that supplements this regression with a bias correction derived from the marginal density of the shock. 
-This estimator is doubly robust: it remains consistent when either the conditional mean or the density ratio is misspecified, and attains the semiparametric efficiency bound when the product of their errors vanishes faster than the parametric rate. 
-This bound decomposes into the regression-only variance plus an explicit cost-of-robustness term. 
-Monte Carlo simulations confirm the double robustness property and suggest that the efficiency cost of robustness is modest --- a small premium for insurance against misspecification of the conditional mean, which in nonparametric settings cannot be ruled out.
 
 [<ins>**"Efficient Aggregation in Heterogeneous-Agent Models with Bounded Rationality"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2025.pdf) (with [David Evans](http://econevans.com/)) [Under Review]
 
