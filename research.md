@@ -17,7 +17,7 @@ This estimator is doubly robust: it remains consistent when either the condition
 This bound decomposes into the regression-only variance plus an explicit cost-of-robustness term. 
 Monte Carlo simulations confirm the double robustness property and suggest that the efficiency cost of robustness is modest --- a small premium for insurance against misspecification of the conditional mean, which in nonparametric settings cannot be ruled out.
 
-[<ins>**"Scanning for Significance: False Discovery Control for Impulse Responses"**</ins>](https://gionikola.github.io/cv/irf-fdr_nikolaishvili-gade.pdf) (with [Noah Gade](https://scholar.google.com/citations?user=8QfEoKIAAAAJ&hl=en)) [Under Review]
+[<ins>**"Scanning for Significance: False Discovery Control for Impulse Responses"**</ins>](https://gionikola.github.io/cv/irf-fdr_nikolaishvili-gade.pdf) (with [Noah Gade](https://www.ndgade.com/)) [Under Review]
 
 <b>Abstract:</b>
 Impulse response analysis builds economic narratives by scanning a large set of coefficients for significant effects. 
