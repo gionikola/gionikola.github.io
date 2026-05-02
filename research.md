@@ -11,11 +11,13 @@ subtitle:
 [<ins>**"Doubly Robust Nonparametric Local Projections"**</ins>](https://gionikola.github.io/cv/dr-lp_nikolaishvili.pdf) [Updated version coming soon]
 
 <b>Abstract:</b>
-Nonparametric local projections estimate impulse responses without functional form restrictions, but their consistency hinges on the accuracy of the conditional mean regression. 
-I propose an estimator that supplements this regression with a bias correction derived from the marginal density of the shock. 
-This estimator is doubly robust: it remains consistent when either the conditional mean or the density ratio is misspecified, and attains the semiparametric efficiency bound when the product of their errors vanishes faster than the parametric rate. 
-This bound decomposes into the regression-only variance plus an explicit cost-of-robustness term. 
-Monte Carlo simulations confirm the double robustness property and suggest that the efficiency cost of robustness is modest --- a small premium for insurance against misspecification of the conditional mean, which in nonparametric settings cannot be ruled out.
+Nonparametric local projections estimate impulse responses without imposing parametric assumptions on the response function.
+Existing plug-in implementations identify the response through a nonparametric regression of future outcomes on the structural shock.
+This paper shows that the same response function can also be identified by reweighting outcomes according to how a structural shock shifts the shock density.
+Combining the two representations yields a doubly robust estimator: a nonparametric regression estimate augmented with a residual correction based on shock density reweighting.
+Consistency requires only that either the outcome regression or the density ratio be consistently estimated, making the method less vulnerable to smoothing, approximation, and specification errors.
+The correction also improves the calibration of confidence intervals, both by reducing centering bias and by producing a score whose variation the standard error fully reflects.
+In simulations, the residual correction removes persistent regression bias and substantially improves empirical coverage.
 
 [<ins>**"Scanning for Significance: False Discovery Control for Impulse Responses"**</ins>](https://gionikola.github.io/cv/irf-fdr_nikolaishvili-gade.pdf) (with [Noah Gade](https://www.ndgade.com/)) [Under Review]
 
