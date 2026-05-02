@@ -8,7 +8,7 @@ subtitle:
 
 # <b>Working Papers</b> 
 
-[<ins>**"Doubly Robust Nonparametric Local Projections"**</ins>](https://gionikola.github.io/cv/dr-lp_nikolaishvili.pdf) [Updated version coming soon]
+[<ins>**"Doubly Robust Nonparametric Local Projections"**</ins>](https://gionikola.github.io/cv/dr-lp_nikolaishvili.pdf)
 
 <b>Abstract:</b>
 Nonparametric local projections estimate impulse responses without imposing parametric assumptions on the response function.
