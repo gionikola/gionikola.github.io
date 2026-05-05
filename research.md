@@ -40,7 +40,7 @@ This cost scales with belief heterogeneity, creating a severe bottleneck. We pro
 repeated summations with a compact representation of aggregate demand as a function of prices, delivering speedups of several orders of magnitude over conventional approaches while preserving accuracy. 
 Demonstrated in a model with multiple dimensions of belief heterogeneity, our method directly overcomes a central obstacle to simulating boundedly rational heterogeneous-agent economies and extends the scope of feasible applications.
 
-[<ins>**"Monetary Transmission Through Community and Noncommunity Bank Lending"**</ins>](https://gionikola.github.io/cv/jmp_nikolaishvili.pdf) [Under Review]
+[<ins>**"Monetary Transmission Through Community and Noncommunity Bank Lending"**</ins>](https://gionikola.github.io/cv/jmp_nikolaishvili.pdf) [**R&R @ Journal of Empirical Finance**]
 
 <b>Abstract:</b>
 This paper develops a horizon-by-horizon decomposition of impulse responses to quantify how monetary policy shocks transmit to U.S. real activity through community and noncommunity bank lending. 
