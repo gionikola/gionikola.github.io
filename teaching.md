@@ -14,6 +14,7 @@ subtitle:
 
 A list of courses I am currently teaching / have taught in the past as the instructor of record:
 
+- <b>Prediction and Machine Learning in Econometrics</b>, Wake Forest University
 - <b>Introduction to Economics</b>, Wake Forest University
 - <b>Intermediate Macroeconomic Theory</b>, University of Oregon
 - <b>Money and Banking</b>, University of Oregon
