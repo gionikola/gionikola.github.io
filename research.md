@@ -84,11 +84,11 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 ---
 # <b>Works in Progress</b>
 
-**“Impulse Response Inference Under a Stochastic Null”** (with [Noah Gade](https://sites.google.com/view/noahdgade/home))
+**“Impulse Response Inference Under a Stochastic Null”** (with [Noah Gade](https://www.ndgade.com/))
 
-**"Augmented Impulse Response Matching"**
+**"Propagation Importance in Impulse Response Functions: A State-Knockout Approach"** (with [Noah Gade](https://www.ndgade.com/))
 
-**"International Evidence on Monetary Policy Transmission: High-Frequency Analysis of Central Bank Communications"** (with [Aeimit Lakdawala](https://aeimit.weebly.com/) and [Saroj Bhattarai](https://sites.google.com/site/bhattaraisaroj/))
+**"The Effects of Monetary Policy on Regional Inequality"** (with [Aeimit Lakdawala](https://aeimit.weebly.com/) and [Mike Owyang](https://www.stlouisfed.org/research/economists/owyang))
 
 **“Uncertainty and the Price Puzzle”** (with [Sebastian Laumer](https://sites.google.com/view/sebastianlaumer))
 
