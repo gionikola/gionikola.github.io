@@ -22,15 +22,16 @@ In simulations, the residual correction removes persistent regression bias and s
 [<ins>**"Scanning for Significance: False Discovery Control for Impulse Responses"**</ins>](https://gionikola.github.io/cv/irf-fdr_nikolaishvili-gade.pdf) (with [Noah Gade](https://www.ndgade.com/)) [Under Review]
 
 <b>Abstract:</b>
-Impulse response analysis builds economic narratives by scanning a large set of coefficients for significant effects. 
-Pointwise inference ignores this multiplicity, so the false rejection rate grows unbounded with the response family. 
-Simultaneous inference bounds the probability of even a single false rejection, which yields increasingly uninformative results as the family expands. 
-Researchers are left to choose between overstating their evidence and understating it. 
-We propose false discovery and false coverage control as a more appropriate target: 
-bounding the expected share of false rejections among responses declared significant, with calibrated post-selection confidence intervals. 
-Neither guarantee deteriorates as the response family grows, so researchers are not penalized for investigating thoroughly. 
-The procedure integrates into standard VAR and local projection bootstrap workflows. 
-Applications show that this inference strategy recovers effects lost under simultaneous bands while discarding fragile pointwise findings, in some cases materially altering the economic narrative.
+Applied impulse response analysis often follows a workflow: researchers identify a shock, estimate a large set of responses, select statistically significant estimates, and use their features (e.g. sign, magnitude, and timing) to construct an economic narrative.
+Two inferential approaches dominate current practice.
+Pointwise inference treats each response in isolation, so false rejections accumulate among many pointwise intervals.
+Simultaneous inference bounds the probability of even one false rejection, so its bands widen as the response family expands.
+Researchers therefore face a stark tradeoff between reliability and power.
+We propose false discovery rate (FDR) and false coverage rate (FCR) control as an alternative approach that balances this tradeoff by matching inference to the selection and interpretation steps of the workflow.
+FDR control governs which responses are declared significant, and FCR control ensures the confidence intervals used to interpret them remain valid post-selection.
+As a byproduct, calibrating coverage to the selected set can deliver greater power than simultaneous inference.
+The procedure integrates into standard vector autoregression and local projection bootstraps.
+Applications show the strategy recovers effects lost under simultaneous bands while discarding fragile pointwise findings, at times materially altering the economic narrative.
 
 [<ins>**"Efficient Aggregation in Heterogeneous-Agent Models with Bounded Rationality"**</ins>](https://gionikola.github.io/cv/evans&nikolaishvili_2025.pdf) (with [David Evans](http://econevans.com/)) [Under Review]
 
