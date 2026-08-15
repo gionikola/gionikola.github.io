@@ -87,7 +87,7 @@ Furthermore, the results show a decrease in the intensity of idiosyncratic dynam
 
 **"Impulse Response Inference Under a Stochastic Null"** (with [Noah Gade](https://www.ndgade.com/))
 
-**"Propagation Importance in Impulse Response Functions: A State-Knockout Approach"** (with [Noah Gade](https://www.ndgade.com/))
+**"Regime-Knockout Impulse Responses: Decomposing State-Dependent Propagation"** (with [Kenneth Rich](https://www.kennethmrich.com/) and [Noah Gade](https://www.ndgade.com/))
 
 **"Distributional Nonparametric Local Projections”**
 
