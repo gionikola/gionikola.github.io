@@ -65,14 +65,6 @@ This approach has fewer informational requirements than alternative methods, suc
 A PT-IRF only requires the specification of a reduced-form VAR and identification of a shock of interest, bypassing the need to either build a structural model or identify multiple shocks.
 I demonstrate the flexibility of PT-IRFs by empirically analyzing the indirect dynamic transmission of oil price shocks to inflation and output via interest rates, as well as the indirect dynamic effect of monetary policy shocks on output via changes in credit supply.
 
-<ins>**"The Evolution of Community Bank Interconnectedness"**</ins> [Available Upon Request]
-
-<b>Abstract:</b>
-I find that the community banking sector in the United States has become more interconnected since the global financial crisis, which implies greater exposure to systemic risk and increased vulnerability in future financial crises.
-I estimate a hierarchical dynamic factor model using a Bayesian approach to extract posterior distributions of national, regional, and state-level latent drivers of quarterly fluctuations in state-average community bank return-on-equity for all 50 US states.
-The resulting estimates show evidence of both considerable national comovement and state-specific idiosyncrasy with no signs of significant regional comovement. 
-Furthermore, the results show a decrease in the intensity of idiosyncratic dynamics of state-level community bank profitability since the crisis, along with an increase in national comovement across most states.
-
 ---
 # <b>Publications</b>
 
